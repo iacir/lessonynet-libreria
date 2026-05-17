@@ -1,0 +1,319 @@
+{
+  "meta": {
+    "fonte": "Programmazioni Secondaria di I Grado — Anno scolastico 2022/2023",
+    "note": "Documento anonimizzato — riferimenti all'istituto rimossi",
+    "versione": "1.0",
+    "aggiornamento": "Maggio 2026"
+  },
+  "materie": {
+    "Italiano": {
+      "classi": {
+        "prima": {
+          "traguardi": [
+            "Ascoltare e comprendere testi di vario tipo.",
+            "Esporre oralmente all’insegnante e ai compagni argomenti di studio, di ricerca ed esperienze personali, avvalendosi anche di",
+            "supporti specifici come schemi, mappe, presentazioni al computer.",
+            "Usare la comunicazione orale per collaborare con gli altri, ad esempio nella formulazione di giudizi, nell’elaborazione di progetti,",
+            "sostenendo la propria opinione e rispettando il pensiero altrui.",
+            "Scrivere testi di vario tipo, rispettando la traccia data e le norme fondamentali di correttezza.",
+            "Comprende ed usa e usa termini del vocabolario di base e termini specifici.",
+            "Applica le conoscenze fondamentali relative alla morfologia e all’organizzazione logico-sintattica della frase semplice."
+          ],
+          "obiettivi": [],
+          "contenuti": []
+        },
+        "seconda": {
+          "traguardi": [
+            "Ascoltare e comprendere testi di vario tipo.",
+            "Esporre oralmente all’insegnante e ai compagni argomenti di studio, di ricerca ed esperienze personali, avvalendosi anche di",
+            "supporti specifici come schemi, mappe, presentazioni al computer.",
+            "Usare la comunicazione orale per collaborare con gli altri, ad esempio nella formulazione di giudizi, nell’elaborazione di progetti,",
+            "sostenendo la propria opinione e rispettando il pensiero altrui.",
+            "Leggere testi letterari di vario tipo e cominciare a interpretarli, collaborando con compagni e insegnanti.",
+            "Scrivere testi di vario tipo, rispettando la traccia data e le norme fondamentali di correttezza.",
+            "Comprendere ed usare termini del vocabolario di base e termini specifici.",
+            "Applicare le conoscenze fondamentali relative alla morfologia e all’organizzazione logico-sintattica della frase semplice."
+          ],
+          "obiettivi": [],
+          "contenuti": []
+        },
+        "terza": {
+          "traguardi": [
+            "Ascoltare e comprendere testi di vario tipo, riconoscendone la fonte, il tema, le informazioni, l’intenzione dell’emittente.",
+            "Esporre oralmente all’insegnante e ai compagni argomenti di studio, di ricerca ed esperienze personali, avvalendosi anche di supporti specifici",
+            "come schemi, mappe, presentazioni al computer.",
+            "Usare la comunicazione orale per collaborare con gli altri, ad esempio nella formulazione di giudizi, nell’elaborazione di progetti, sostenendo la",
+            "propria opinione e rispettando il pensiero altrui.",
+            "Scrivere testi di vario tipo, rispettando la traccia data e le norme fondamentali di correttezza.",
+            "Applicare le conoscenze fondamentali relative alla morfologia e all’organizzazione logico-sintattica della frase semplice e complessa."
+          ],
+          "obiettivi": [],
+          "contenuti": []
+        }
+      }
+    },
+    "Storia": {
+      "classi": {
+        "prima": {
+          "traguardi": [
+            "Lo studente si informa su fatti storici anche mediante l’uso di risorse digitali.",
+            "Conosce aspetti e processi fondamentali della storia europea medievale.",
+            "Usa le conoscenze e le abilità per orientarsi nel presente, comprendendo opinioni e culture diverse.",
+            "Espone oralmente e per iscritto le conoscenze storiche acquisite, operando collegamenti."
+          ],
+          "obiettivi": [],
+          "contenuti": []
+        },
+        "seconda": {
+          "traguardi": [
+            "Lo studente si informa su fatti storici anche mediante l’uso di risorse digitali.",
+            "Conosce aspetti e processi fondamentali della storia europea moderna.",
+            "Usa le conoscenze e le abilità per orientarsi nel presente, comprendendo opinioni e culture diverse.",
+            "Espone oralmente e per iscritto le conoscenze storiche acquisite, operando collegamenti."
+          ],
+          "obiettivi": [],
+          "contenuti": []
+        },
+        "terza": {
+          "traguardi": [
+            "Lo studente si informa su fatti storici anche mediante l’uso di risorse digitali.",
+            "Conosce aspetti e processi fondamentali della storia europea contemporanea.",
+            "Usa le conoscenze e le abilità per orientarsi nel presente, comprendendo opinioni e culture diverse.",
+            "Espone oralmente e per iscritto le conoscenze storiche acquisite, operando collegamenti."
+          ],
+          "obiettivi": [],
+          "contenuti": []
+        }
+      }
+    },
+    "Geografia": {
+      "classi": {
+        "prima": {
+          "traguardi": [
+            "Lo studente si orienta nello spazio e sulle carte geografiche di diversa scala, in base ai punti cardinali e alle coordinate geografiche.",
+            "Utilizza opportunamente carte geografiche, foto attuali e d’epoca, immagini, grafici, dati statistici, per comunicare efficacemente",
+            "Riconosce nei paesaggi italiani ed europei gli elementi fisici significativi e le emergenze storiche, artistiche e architettoniche, come",
+            "patrimonio naturale e culturale da tutelare e valorizzare.",
+            "Osserva, legge e analizza sistemi territoriali vicini e lontani, nello spazio e nel tempo, e valuta gli effetti di azioni dell’uomo sui"
+          ],
+          "obiettivi": [],
+          "contenuti": []
+        },
+        "seconda": {
+          "traguardi": [
+            "Utilizza opportunamente carte geografiche, foto attuali e d’epoca, immagini, grafici, dati statistici, per comunicare efficacemente",
+            "Riconosce nei paesaggi italiani ed europei gli elementi fisici significativi e le emergenze storiche, artistiche e architettoniche, come",
+            "patrimonio naturale e culturale da tutelare e valorizzare.",
+            "Osserva, legge e analizza sistemi territoriali vicini e lontani, nello spazio e nel tempo, e valuta gli effetti di azioni dell’uomo sui"
+          ],
+          "obiettivi": [],
+          "contenuti": []
+        },
+        "terza": {
+          "traguardi": [
+            "Si orienta nello spazio e nel tempo dando espressione a curiosità e ricerca di senso; osserva ed interpreta ambienti, fatti e fenomeni.",
+            "Osserva, legge e analizza sistemi territoriali vicini e lontani, nello spazio e nel tempo, e valuta gli effetti delle azioni dell’uomo sui",
+            "sistemi territoriali."
+          ],
+          "obiettivi": [],
+          "contenuti": []
+        }
+      }
+    },
+    "Matematica": {
+      "classi": {
+        "prima": {
+          "traguardi": [
+            "L’alunno si muove con sicurezza nel calcolo anche con i numeri razionali, ne padroneggia le diverse rappresentazioni e stima la grandezza di",
+            "un numero e il risultato di operazioni.",
+            "Riconosce e denomina le forme del piano e dello spazio, le loro rappresentazioni e ne coglie le relazioni tra gli elementi.",
+            "Analizza e interpreta rappresentazioni di dati per ricavarne misure di variabilità e prendere decisioni."
+          ],
+          "obiettivi": [],
+          "contenuti": []
+        },
+        "seconda": {
+          "traguardi": [
+            "L’alunno si muove con sicurezza nel calcolo anche con i numeri razionali, ne padroneggia le diverse rappresentazioni e stima la grandezza di",
+            "un numero e il risultato di operazioni.",
+            "Riconosce e denomina le forme del piano e dello spazio, le loro rappresentazioni e ne coglie le relazioni tra gli elementi.",
+            "Analizza e interpreta rappresentazioni di dati per ricavarne misure di variabilità e prendere decisioni."
+          ],
+          "obiettivi": [],
+          "contenuti": []
+        },
+        "terza": {
+          "traguardi": [
+            "L’alunno si muove con sicurezza nel calcolo anche con i numeri razionali, ne padroneggia le diverse rappresentazioni e stima la grandezza di",
+            "un numero e il risultato di operazioni.",
+            "Riconosce e denomina le forme del piano e dello spazio, le loro rappresentazioni e ne coglie le relazioni tra gli elementi.",
+            "Analizza e interpreta rappresentazioni di dati per ricavarne misure di variabilità e prendere decisioni."
+          ],
+          "obiettivi": [],
+          "contenuti": []
+        }
+      }
+    },
+    "Scienze": {
+      "classi": {
+        "prima": {
+          "traguardi": [
+            "L’alunno esplora e sperimenta, in laboratorio e all’aperto, lo svolgersi dei più comuni fenomeni, ne immagina e ne verifica le cau-",
+            "se; ricerca soluzioni ai problemi, utilizzando le conoscenze acquisite.",
+            "Sviluppa semplici schematizzazioni e modellizzazioni di fatti e fenomeni ricorrendo, quando è il caso, a misure appropriate e a",
+            "semplici formalizzazioni.",
+            "Ha una visione della complessità del sistema dei viventi e della loro evoluzione nel tempo; riconosce nella loro diversità i bisogni",
+            "fondamentali di animali e piante, e i modi di soddisfarli negli specifici contesti ambientali.",
+            "Ha curiosità e interesse verso i principali problemi legati all’uso della scienza nel campo dello sviluppo scientifico e tecnologico."
+          ],
+          "obiettivi": [],
+          "contenuti": []
+        },
+        "seconda": {
+          "traguardi": [
+            "L’alunno esplora e sperimenta, in laboratorio e all’aperto, lo svolgersi dei più comuni fenomeni, ne immagina e ne verifica le cau-",
+            "se; ricerca soluzioni ai problemi, utilizzando le conoscenze acquisite.",
+            "Sviluppa semplici schematizzazioni e modellizzazioni di fatti e fenomeni ricorrendo, quando è il caso, a misure appropriate e a",
+            "semplici formalizzazioni.",
+            "Ha una visione della complessità del sistema dei viventi e della loro evoluzione nel tempo; riconosce nella loro diversità i bisogni",
+            "fondamentali di animali e piante, e i modi di soddisfarli negli specifici contesti ambientali.",
+            "Ha curiosità e interesse verso i principali problemi legati all’uso della scienza nel campo dello sviluppo scientifico e tecnologico."
+          ],
+          "obiettivi": [],
+          "contenuti": []
+        },
+        "terza": {
+          "traguardi": [
+            "L’alunno esplora e sperimenta, in laboratorio e all’aperto, lo svolgersi dei più comuni fenomeni, ne immagina e ne verifica le cau-",
+            "se; ricerca soluzioni ai problemi, utilizzando le conoscenze acquisite.",
+            "Sviluppa semplici schematizzazioni e modellizzazioni di fatti e fenomeni ricorrendo, quando è il caso, a misure appropriate e a",
+            "semplici formalizzazioni.",
+            "Ha una visione della complessità del sistema dei viventi e della loro evoluzione nel tempo; riconosce nella loro diversità i bisogni",
+            "fondamentali di animali e piante, e i modi di soddisfarli negli specifici contesti ambientali.",
+            "Ha curiosità e interesse verso i principali problemi legati all’uso della scienza nel campo dello sviluppo scientifico e tecnologico."
+          ],
+          "obiettivi": [],
+          "contenuti": []
+        }
+      }
+    },
+    "Tecnologia": {
+      "classi": {
+        "prima": {
+          "traguardi": [
+            "E’ in grado di descrivere la funzione di oggetti, strumenti e macchine in relazione alla forma, alla struttura e ai materiali.",
+            "Sa utilizzare comunicazioni procedurali e istruzioni tecniche.",
+            "Riconosce nell’ambiente che lo circonda i principali sistemi tecnologici e le molteplici relazioni che essi stabiliscono con gli esseri",
+            "viventi e gli altri elementi naturali.",
+            "Utilizza adeguate risorse materiali, informative e organizzative per la progettazione e la realizzazione di semplici prodotti, anche",
+            "di tipo digitale.",
+            "Sa utilizzare comunicazioni procedurali e istruzioni tecniche per eseguire in maniera metodica e razionale compiti operativi",
+            "complessi anche collaborando e coordinando i compagni.",
+            "E’ in grado di ipotizzare le possibili conseguenze di una decisione o di una scelta di tipo tecnologico riconoscendo in ogni",
+            "innovazione opportunità e rischi."
+          ],
+          "obiettivi": [],
+          "contenuti": []
+        },
+        "seconda": {
+          "traguardi": [
+            "E’ in grado di descrivere la funzione di oggetti, strumenti e macchine in relazione alla forma, alla struttura e ai materiali.",
+            "Sa utilizzare comunicazioni procedurali e istruzioni tecniche.",
+            "Riconosce nell’ambiente che lo circonda i principali sistemi tecnologici e le molteplici relazioni che essi stabiliscono con gli esseri",
+            "viventi e gli altri elementi naturali.",
+            "Utilizza adeguate risorse materiali, informative e organizzative per la progettazione e la realizzazione di semplici prodotti, anche",
+            "di tipo digitale.",
+            "Sa utilizzare comunicazioni procedurali e istruzioni tecniche per eseguire in maniera metodica e razionale compiti operativi",
+            "complessi anche collaborando e coordinando i compagni.",
+            "E’ in grado di ipotizzare le possibili conseguenze di una decisione o di una scelta di tipo tecnologico riconoscendo in ogni",
+            "innovazione opportunità e rischi."
+          ],
+          "obiettivi": [],
+          "contenuti": []
+        },
+        "terza": {
+          "traguardi": [
+            "E’ in grado di descrivere la funzione di oggetti, strumenti e macchine in relazione alla forma, alla struttura e ai materiali.",
+            "Sa utilizzare comunicazioni procedurali e istruzioni tecniche.",
+            "Riconosce nell’ambiente che lo circonda i principali sistemi tecnologici e le molteplici relazioni che essi stabiliscono con gli esseri",
+            "viventi e gli altri elementi naturali.",
+            "Utilizza adeguate risorse materiali, informative e organizzative per la progettazione e la realizzazione di semplici prodotti, anche",
+            "di tipo digitale.",
+            "Sa utilizzare comunicazioni procedurali e istruzioni tecniche per eseguire in maniera metodica e razionale compiti operativi",
+            "complessi anche collaborando e coordinando i compagni.",
+            "E’ in grado di ipotizzare le possibili conseguenze di una decisione o di una scelta di tipo tecnologico riconoscendo in ogni",
+            "innovazione opportunità e rischi."
+          ],
+          "obiettivi": [],
+          "contenuti": []
+        }
+      }
+    },
+    "Scienze Motorie": {
+      "classi": {
+        "prima": {
+          "traguardi": [
+            "Conoscenze e abilità (obiettivi)",
+            "Presentazione storica dello strumento – conoscenza della struttura e posizione delle mani sulla tastiera – articolazione delle dita;",
+            " Scale maggiori, tecnica del legato e dello staccato, esercizi per ottenere l’indipendenza delle mani;",
+            " Semplici brani musicali tratti dai principali metodi per lo specifico strumento da antologie tradizionali e recenti;",
+            " Acquisizione dei primi elementi di teoria musicale, solfeggi nei tempi semplici.",
+            " Esecuzione di semplici melodie classiche e/o di genere vario",
+            " Saper interpretare il sistema di notazione tradizionale applicandolo allo strumento;",
+            " Eseguire individualmente e collettivamente brani semplici",
+            " Ascoltare e comprendere testi di vario tipo",
+            " Esporre oralmente all’insegnante e ai compagni argomenti di studio",
+            " Usare la comunicazione orale per collaborare con gli altri"
+          ],
+          "obiettivi": [],
+          "contenuti": []
+        },
+        "seconda": {
+          "traguardi": [
+            "Conoscenze e abilità (obiettivi)",
+            "⮚ Scale maggiori e minori ad un’ottava sino a quattro alterazioni – approfondimento delle capacità tecniche acquisite nel corso",
+            "del primo anno; Acquisizione dell’arte di rendere agili le dita – Uso del pedale – Applicazione delle dinamiche -",
+            "⮚ Brani musicali tratti dai principali metodi per lo specifico strumento e da antologie tradizionali e recenti;(Beyer, Czernyana -",
+            "Duvernoy – Cesi Marciano – Hanon - Trombone)",
+            "⮚ Prosecuzione dello studio della teoria musicale e solfeggio; (solfeggi nei tempi semplici e composti)",
+            "⮚ Eseguire individualmente e collettivamente brani di adeguata difficoltà;",
+            "⮚ Utilizzo dei metodi tradizionali – avvio all’esecuzione di brani polifonici – elaborazione di melodie di autori classici e",
+            "⮚ Eseguire individualmente e collettivamente brani di adeguata difficoltà, applicando la tecnica pianistica adeguata",
+            "⮚ Interpretare i brani studiati tenendo conto dello stile, dell’autore e dell’epoca in cui i brano è stato scritto;",
+            "⮚ Saper interpretare in maniera personale brani di qualunque genere e variarne le principali caratteristiche ritmiche e",
+            "⮚ Ascoltare e comprendere testi di vario tipo, riconoscendone la fonte, il tema, le informazioni, l’intenzione dell’emittente;",
+            "⮚ Esporre oralmente all’insegnante e ai compagni argomenti di studio, di ricerca ed esperienze personali, avvalendosi anche di",
+            "supporti specifici come schemi, mappe, presentazioni al computer;",
+            "⮚ Usare la comunicazione orale per collaborare con gli altri, ad esempio nella formulazione di giudizi, nell’elaborazione di",
+            "progetti, sostenendo la propria opinione e rispettando il pensiero altrui;",
+            "⮚ Comprendere ed usare termini del vocabolario musicale."
+          ],
+          "obiettivi": [],
+          "contenuti": []
+        },
+        "terza": {
+          "traguardi": [
+            "Conoscenze e abilità (obiettivi)",
+            "      Esecuzione delle scale maggiori e minori a due ottave – approfondimento delle capacita tecniche acquisite nel",
+            "corso dei due anni precedenti.",
+            " Interpretazione di brani musicali tratti dai principali metodi per lo specifico strumento da antologie tradizionali e recenti;",
+            " Approfondimento dello studio degli elementi di teoria musicale e solfeggio con figurazioni ritmiche elaborate – tempi semplici e",
+            " Esecuzione individuale e collettiva di brani di adeguata difficolta;",
+            " Avvio all’interpretazione di brani di autori del periodo classico e romantico (Bach, Mozart, Beethoven, ecc.);",
+            " Elaborazione di colonne sonore (Ennio Morricone, Piovani, Bacalov ecc.);",
+            " Sa interpretare in maniera personale brani di qualunque genere e variarne le principali caratteristiche ritmiche e melodiche;",
+            " Ascolta e comprende spartiti di vario tipo, riconoscendone la fonte, il tema, le informazioni, l’intenzione dell’emittente;",
+            " Espone oralmente all’insegnante e ai compagni argomenti di studio, di ricerca ed esperienze personali, avvalendosi anche di",
+            "supporti specifici come schemi, mappe, presentazioni al computer;",
+            " Usa la comunicazione orale per collaborare con gli altri, ad esempio nella formulazione di giudizi, nell’elaborazione di progetti,",
+            "sostenendo la propria opinione e rispettando il pensiero altrui;",
+            " Comprende ed usa termini del vocabolario musicale.",
+            " Esegue i brani con padronanza tecnica ed interpretativa"
+          ],
+          "obiettivi": [],
+          "contenuti": []
+        }
+      }
+    }
+  }
+}
