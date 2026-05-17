@@ -1,0 +1,600 @@
+{
+  "meta": {
+    "fonte": "Programmazione Didattica Annuale — Scuola Primaria",
+    "note": "Documento anonimizzato",
+    "versione": "1.0",
+    "aggiornamento": "Maggio 2026"
+  },
+  "materie": {
+    "Ed. Fisica": {
+      "classi": {
+        "prima": {
+          "obiettivi": [
+            "Coordinare ed utilizzare diversi schemi motori: correre, saltare, afferrare, lanciare…",
+            "Controllare l’equilibrio",
+            "Organizzare e gestire l’orientamento",
+            "Riprodurre semplici sequenze ritmiche con il corpo e con attrezzi",
+            "Esprime  e comunica stati d’animo con il corpo e/o i movimenti",
+            "Assume e controlla diverse posture Il gioco",
+            "Conoscere ed applicare modalità di esecuzione di vari giochi",
+            "Interagire positivamente con gli altri"
+          ],
+          "competenze": [],
+          "contenuti": []
+        },
+        "seconda": {
+          "obiettivi": [
+            "Coordinare ed utilizzare diversi schemi motori combinati tra loro",
+            "Organizzare e gestire l’orientamento e l’equilibrio",
+            "Assumere  e controllare diverse posture in funzione espressiva",
+            "Conoscere ed utilizzare in modo appropriato attrezzi e spazi",
+            "Sperimentare comportamenti di corresponsabilità all’interno di situazioni ludiche",
+            "Conoscere e utilizzare in modo appropriato gli spazi e gli attrezzi",
+            "Gli schemi motori dinamici",
+            "La percezione temporale, spaziale, ritmica"
+          ],
+          "competenze": [],
+          "contenuti": []
+        },
+        "terza": {
+          "obiettivi": [
+            "Coordinare ed utilizzare diversi schemi motori combinati tra loro in forma successiva e poi simultanea",
+            "Organizzare il movimento seguendo traiettorie, ritmi e successioni temporali",
+            "Trasmettere emozioni attraverso la drammatizzazione e la danza",
+            "Conoscere ed utilizzare in modo appropriato attrezzi e spazi",
+            "Sperimentare comportamenti di corresponsabilità all’interno di situazioni ludiche",
+            "Conoscere e utilizzare in modo appropriato gli spazi e gli attrezzi",
+            "Rispettare le regole nella competizione sportiva",
+            "Assumere comportamenti adeguati per la prevenzione degli infortuni"
+          ],
+          "competenze": [],
+          "contenuti": []
+        },
+        "quarta": {
+          "obiettivi": [
+            "Utilizzare diversi schemi motori combinati tra loro in forma simultanea",
+            "Organizzare il movimento seguendo traiettorie, ritmi e successioni temporali",
+            "Eseguire semplici sequenze di movimento o semplici coreografie",
+            "Applicare le modalità esecutive di diverse proposte di gioco sport",
+            "Rispettare le regole nella competizione sportiva",
+            "Assumere comportamenti adeguati per la prevenzione degli infortuni",
+            "Riconoscere il rapporto tra esercizio fisico e alimentazione per un sano stile di vita",
+            "Acquisire consapevolezza delle funzioni fisiologiche e dei loro cambiamenti in relazione all’esercizio fisico"
+          ],
+          "competenze": [],
+          "contenuti": []
+        },
+        "quinta": {
+          "obiettivi": [
+            "Utilizzare schemi posturali motori in situazioni combinate tra loro in forma sempre più complessa",
+            "Organizzare il movimento seguendo traiettorie, ritmi e successioni temporali",
+            "Eseguire semplici sequenze di movimento o coreografie",
+            "Applicare le modalità esecutive di diverse proposte di gioco sport",
+            "Rispettare le regole nella competizione sportiva",
+            "Assumere comportamenti adeguati per la prevenzione degli infortuni",
+            "Riconoscere il rapporto tra esercizio fisico e alimentazione per un sano stile di vita",
+            "Riconoscere il rapporto tra esercizio fisico e alimentazione"
+          ],
+          "competenze": [],
+          "contenuti": []
+        }
+      }
+    },
+    "Religione": {
+      "classi": {
+        "prima": {
+          "obiettivi": [
+            "Comprende che il mondo, la natura e la vita sono doni di Dio: prende coscienza di sé nella relazione con gli altri e con l’ambiente che lo circonda; scopre le tracce di Dio nella bellezza della natura.",
+            "Individua i simboli che caratterizzano il Natale, riflette sul valore di tale festa e conosce gli episodi principali legati alla nascita di Gesù.",
+            "Descrive gli aspetti quotidiani, familiari, sociali e religiosi dell’ambiente di vita di Gesù.",
+            "Riconosce la Pasqua come festa cristiana nella quale si celebra la risurrezione di Gesù.",
+            "Identificala comunità Chiesa come un insieme di credenti in Cristo. DIO E L’UOMO, LA BIBBIA E LE ALTRE FONTI I VALORI ETICI E RELIGIOSI",
+            "Scoprire che per la religione cristiana Dio è Creatore e Padre e che fin dalle origini ha voluto stabilire un’alleanza con l’uomo.",
+            "Individuare i tratti essenziali della chiesa.",
+            "Riconoscere i segni cristiani del Natale e della Pasqua nell’ambiente e nelle celebrazioni"
+          ],
+          "competenze": [],
+          "contenuti": []
+        },
+        "seconda": {
+          "obiettivi": [
+            "Conosce le tappe fondamentali della creazione raccontate nel libro della Genesi; apprezza la natura come dono gratuito da rispettare.",
+            "Coglie nei racconti della natività atteggiamenti di accoglienza e di rifiuto verso Gesù.",
+            "Descrive aspetti fondamentali della vita familiare, sociale e religiosa dell’ambiente in cui visse Gesù mettendoli a confronto con la propria esperienza.",
+            "Coglie nella Pasqua il più grande dono d’amore di Gesù.",
+            "Percepisce il legame speciale che lega Gesù agli apostoli e conosce le principali parabole. DIO E L’UOMO, LA BIBBIA E LE ALTRE FONTI I VALORI ETICI E RELIGIOSI",
+            "Conoscere significative figure    di cristiani come esempi di tutela e amore per il creato.",
+            "Conoscere le caratteristiche principali dell’ambiente in cui è vissuto Gesù nella sua infanzia.",
+            "Conoscere gli elementi specifici di una chiesa e degli altri luoghi di culto non cristiani."
+          ],
+          "competenze": [],
+          "contenuti": []
+        },
+        "terza": {
+          "obiettivi": [
+            "Sa rilevare come le teorie scientifiche non sono in contrapposizione con la religione cristiana bensì complementari ad essa in riferimento alle domande di senso dell’uomo.",
+            "Conosce alcuni profeti attraverso il testo biblico.",
+            "Individua nella Bibbia il documento che racconta l’alleanza fra Dio, gli uomini e Gesù, analizza e ricerca brani al suo interno.",
+            "Confronta Pasqua ebraica e cristiana rilevando le differenze di significato e scoprendo il valore della festa vissuta da entrambe le religioni DIO E L’UOMO, LA BIBBIA E LE ALTRE FONTI I VALORI ETICI E RELIGIOSI",
+            "Prendere coscienza del mondo intorno a noi e porsi domande sulla sua origine.",
+            "Ricostruire le principali tappe della storia della salvezza anche attraverso figure significative.",
+            "Conoscere la struttura essenziale della Bibbia.",
+            "Conoscere, in modo essenziale, Gesù e la sua terra."
+          ],
+          "competenze": [],
+          "contenuti": []
+        },
+        "quarta": {
+          "obiettivi": [
+            "Conosce il senso religioso del Natale, della Pasqua e le tradizioni legate a tali feste nel nostro Paese.",
+            "Riconosce le fondamentali caratteristiche di un ambiente di vita diverso dal proprio.",
+            "Riflette sui dati fondamentali della vita di Gesù e collega i contenuti principali del suo insegnamento alle tradizioni dell’ambiente in cui vive.",
+            "Riconosce l’importanza della figura di Maria nella storia della Chiesa. DIO E L’UOMO, LA BIBBIA E LE ALTRE FONTI I VALORI ETICI E RELIGIOSI",
+            "Conoscere come i cristiani vivono e celebrano le festività del Natale e della Pasqua.",
+            "Conoscere la situazione geografica, sociale, religiosa e politica in Palestina ai tempi di Gesù.",
+            "Scoprire l’importanza e l’origine del Vangelo.",
+            "Cogliere nella vita e negli insegnamenti di Gesù significativi progetti di vita."
+          ],
+          "competenze": [],
+          "contenuti": []
+        },
+        "quinta": {
+          "obiettivi": [
+            "Conosce le diverse confessioni cristiane all’interno del cristianesimo e comprende il concetto di ecumenismo.",
+            "Scopre nelle tradizioni natalizie e pasquali manifestazioni di religiosità popolare.",
+            "Sa che nel mondo esistono diverse religioni e coglie i valori umani comuni e universali.",
+            "Riconosce il principale significato delle celebrazioni liturgiche, dei sacramenti e degli spazi sacri della comunità cristiana. DIO E L’UOMO, LA BIBBIA E LE ALTRE FONTI I VALORI ETICI E RELIGIOSI",
+            "Conoscere come i cristiani vivono e celebrano le festività del Natale e della Pasqua",
+            "Prendere coscienza della pluralità delle confessioni cristiane e delle religioni nel mondo.",
+            "Conoscere avvenimenti, persone e strutture fondamentali della Chiesa dalle sue origini.",
+            "Apprendere i tempi liturgici, la struttura gerarchica e la funzione dei sacramenti nella vita della Chiesa cattolica."
+          ],
+          "competenze": [],
+          "contenuti": []
+        }
+      }
+    },
+    "Storia": {
+      "classi": {
+        "prima": {
+          "obiettivi": [
+            "Rappresentare graficamente e verbalizzare attività, fatti vissuti e narrati",
+            "Definire durate temporali",
+            "Riconoscere relazioni di continuità, successione, contemporaneità",
+            "Comprendere i cicli temporali e i mutamenti in esperienze vissute e narrate",
+            "Acquisire conoscenze su fatti ed eventi del proprio passato",
+            "Comprendere l’importanza di appartenere ad un gruppo: famiglia, scuola, società",
+            "Comprendere il valore delle regole",
+            "Il tempo e le sue caratteristiche"
+          ],
+          "competenze": [],
+          "contenuti": []
+        },
+        "seconda": {
+          "obiettivi": [
+            "Individuare le tracce ed usarle come fonte per la conoscenza del passato",
+            "Ricavare informazioni da fonti diverse: orale, scritta, iconica",
+            "Ordinare fatti in successione",
+            "Comprendere l’uso degli strumenti per la misurazione del tempo",
+            "Organizzare le conoscenze in schemi temporali",
+            "Ricavare informazioni da grafici, tabelle, documenti e fotografie",
+            "Esporre avvenimenti con il linguaggio specifico della disciplina",
+            "Acquisire conoscenze su fatti ed eventi del proprio passato"
+          ],
+          "competenze": [],
+          "contenuti": []
+        },
+        "terza": {
+          "obiettivi": [
+            "Ricostruisce la propria storia e la storia di oggetti attraverso reperti e testimonianze personali Strumenti concettuali e conoscenze",
+            "Coglie la trasformazione negli esseri umani, negli oggetti, negli ambienti connessa al trascorrere del tempo Produrre",
+            "Comunica conoscenze apprese mediante racconti orali, disegni e parole.",
+            "Individuare le tracce ed usarle come fonte per la conoscenza del passato personale, della comunità di appartenenza",
+            "Rappresentare graficamente e verbalmente le attività, i fatti vissuti e narrati",
+            "Riconoscere relazioni di contemporaneità, successione, durata in fenomeni ed esperienze",
+            "Comprendere la funzione e l’uso degli strumenti di misurazione e rappresentazione del tempo",
+            "Conoscere la vita dell’uomo nella preistoria"
+          ],
+          "competenze": [],
+          "contenuti": []
+        },
+        "quarta": {
+          "obiettivi": [],
+          "competenze": [],
+          "contenuti": []
+        },
+        "quinta": {
+          "obiettivi": [],
+          "competenze": [],
+          "contenuti": []
+        }
+      }
+    },
+    "Matematica": {
+      "classi": {
+        "prima": {
+          "obiettivi": [
+            "Contare oggetti con la voce o mentalmente in senso progressivo e regressivo",
+            "Leggere e scrivere i numeri naturali in notazione decimale",
+            "Eseguire mentalmente semplici operazioni con i numeri naturali e verbalizzare le procedure di calcolo",
+            "Conservazione e confronto di quantità",
+            "I numeri naturali da 0 a 20",
+            "La regola del + 1 e –1",
+            "La successione: precedente e successivo",
+            "Tecniche per addizionare"
+          ],
+          "competenze": [],
+          "contenuti": []
+        },
+        "seconda": {
+          "obiettivi": [],
+          "competenze": [],
+          "contenuti": []
+        },
+        "terza": {
+          "obiettivi": [
+            "Contare in senso progressivo, regressivo e per salti di due, tre…",
+            "Leggere e scrivere i numeri naturali in notazione decimale, avendo consapevolezza del valore posizionale",
+            "Ordinare i numeri naturali sulla retta",
+            "Eseguire mentalmente semplici operazioni con i numeri decimali e verbalizzare le procedure di calcolo",
+            "Conoscere le tabelline fino a 10",
+            "Eseguire le quattro operazioni",
+            "Leggere, scrivere, confrontare i numeri decimali",
+            "Rappresentazione di numeri decimali sulla retta"
+          ],
+          "competenze": [],
+          "contenuti": []
+        },
+        "quarta": {
+          "obiettivi": [
+            "Leggere scrivere  e confrontare i numeri interi e decimali",
+            "Eseguire le quattro operazioni con sicurezza, valutando di ricorrere al calcolo mentale o scritto a seconda delle situazioni",
+            "Individuare multipli e divisori di un numero",
+            "Prevedere con poco scarto il risultato di un’operazione",
+            "Conoscere il concetto di frazione e di frazioni equivalenti",
+            "Utilizzare numeri decimali, frazioni",
+            "Identificare elementi significativi e simmetrie nelle figure",
+            "Riprodurre una figura in base ad una descrizione, con l’uso di strumenti opportuni"
+          ],
+          "competenze": [],
+          "contenuti": []
+        },
+        "quinta": {
+          "obiettivi": [
+            "Leggere scrivere  e confrontare i numeri interi e decimali",
+            "Eseguire le quattro operazioni con sicurezza, valutando di ricorrere al calcolo mentale o scritto o con la calcolatrice a seconda delle situazioni",
+            "Individuare multipli e divisori di un numero",
+            "Prevedere con poco scarto il risultato di un’operazione",
+            "Conoscere il concetto di frazione  e di frazioni equivalenti",
+            "Utilizzare numeri decimali, frazioni e percentuali",
+            "Interpretare numeri interi negativi in contesti concreti",
+            "Rappresentare numeri conosciuti sulla retta e utilizzare scale graduate"
+          ],
+          "competenze": [],
+          "contenuti": []
+        }
+      }
+    },
+    "Scienze": {
+      "classi": {
+        "prima": {
+          "obiettivi": [],
+          "competenze": [],
+          "contenuti": []
+        },
+        "seconda": {
+          "obiettivi": [],
+          "competenze": [],
+          "contenuti": []
+        },
+        "terza": {
+          "obiettivi": [
+            "Individuare la struttura di alcuni oggetti e materiali",
+            "Scomporre e ricomporre oggetti",
+            "Riconoscere le funzioni e gli usi di vari oggetti",
+            "Seriare e classificare oggetti",
+            "Individuare strumenti e unità di misura appropriati alle situazioni",
+            "Conoscere  i momenti significativi nella vita di piante e animali",
+            "Individuare le caratteristiche dei terreni e delle acque",
+            "Distinguere tra trasformazioni naturali e quelle ad opera dell’uomo"
+          ],
+          "competenze": [],
+          "contenuti": []
+        },
+        "quarta": {
+          "obiettivi": [
+            "Comprendere l’importanza dell’acqua per la vita",
+            "Conoscere il ciclo dell’acqua e le trasformazioni nei vari stati",
+            "Conoscere la composizione e le proprietà dell’aria",
+            "Comprendere il concetto di calore",
+            "Conoscere i cambiamenti degli organismi",
+            "Riconoscere  parti della struttura di una pianta",
+            "Conoscere le varietà di piante",
+            "Conoscere gli organismi di animali superiori"
+          ],
+          "competenze": [],
+          "contenuti": []
+        },
+        "quinta": {
+          "obiettivi": [],
+          "competenze": [],
+          "contenuti": []
+        }
+      }
+    },
+    "Italiano": {
+      "classi": {
+        "prima": {
+          "obiettivi": [
+            "Interagire in una conversazione formulando domande e dando risposte pertinenti su argomenti di esperienza diretta.",
+            "Comprendere l’argomento e le informazioni principali di discorsi affrontati in classe.",
+            "Seguire la narrazione di testi ascoltati o letti mostrando di saperne cogliere il senso globale",
+            "Raccontare oralmente una storia personale o fantastica rispettando l’ordine cronologico e/o logico",
+            "Comprendere e dare semplici istruzioni su un gioco o un’attività che conosce bene",
+            "Leggere parole, frasi, brevi testi",
+            "Comprendere parole,frasi, brevi messaggi di scopi pratici",
+            "Leggere semplici testi mostrando di saper cogliere il senso globale"
+          ],
+          "competenze": [],
+          "contenuti": []
+        },
+        "seconda": {
+          "obiettivi": [
+            "Leggere parole, frasi, brevi testi",
+            "Comprendere frasi, brevi messaggi di scopi pratici",
+            "Leggere semplici testi mostrando di saper cogliere il senso globale",
+            "Scrivere rispettando le convenzioni ortografiche",
+            "Manipolare una favola con l’inserimento di elementi descrittivi",
+            "Produrre testi poetici in rima baciata",
+            "Produrre brevi testi di vario genere.",
+            "Scrivere correttamente parole e brevi frasi per copia, dettatura e autodettatura"
+          ],
+          "competenze": [],
+          "contenuti": []
+        },
+        "terza": {
+          "obiettivi": [
+            "Padroneggiare la lettura strumentale sia in quella ad alta voce sia in quella silenziosa",
+            "Testi di vario genere",
+            "Utilizzo di  forme diverse di lettura",
+            "Scrivere sotto dettatura curando in modo particolare l’ortografia",
+            "Comunicare con frasi semplici e compiute, strutturate in brevi testi che rispettino le convenzioni ortografiche",
+            "Stesura di semplici testi di vario tipo",
+            "Semplici sintesi di testi letti come avvio al riassunto",
+            "Comprendere il significato di parole non note, dal contenuto e dalla conoscenza delle famiglie di parole"
+          ],
+          "competenze": [],
+          "contenuti": []
+        },
+        "quarta": {
+          "obiettivi": [
+            "Cogliere l’argomento principale dei discorsi",
+            "Prendere la parola negli scambi comunicativi, rispettando le principali regole.",
+            "Riferire su esperienze personali in modo essenziale e chiaro, rispettando l’ordine logico e cronologico",
+            "Cogliere in una discussione le posizioni diverse ed esprimere la propria",
+            "Comprendere le informazioni essenziali di un’esposizione, di istruzioni vari, di messaggi",
+            "Prolungare i tempi di attenzione",
+            "Le regole della comunicazione",
+            "I codici e i registri"
+          ],
+          "competenze": [],
+          "contenuti": []
+        },
+        "quinta": {
+          "obiettivi": [
+            "Cogliere l’argomento principale dei discorsi",
+            "Prendere la parola negli scambi comunicativi, rispettando le principali regole.",
+            "Riferire su esperienze personali in modo essenziale e chiaro, rispettando l’ordine logico e cronologico",
+            "Cogliere in una discussione le posizioni diverse ed esprimere la propria",
+            "Comprendere le informazioni essenziali di un’esposizione, di istruzioni vari, di messaggi",
+            "Organizzare un breve discorso su un tema affrontato in classe con l’aiuto di una scaletta",
+            "Testi di vario genere",
+            "Argomenti di attualità"
+          ],
+          "competenze": [],
+          "contenuti": []
+        }
+      }
+    },
+    "Arte": {
+      "classi": {
+        "prima": {
+          "obiettivi": [
+            "Produrre immagini di diverso tipo",
+            "Utilizzare tecniche diverse",
+            "Riconosce linee, colori, forme",
+            "Disegno e colorazione",
+            "La tecnica delle impronte",
+            "Contorno e superficie",
+            "Uniformità e direzione del tratto",
+            "Lavori con la carta tagliata o piegata"
+          ],
+          "competenze": [],
+          "contenuti": []
+        },
+        "seconda": {
+          "obiettivi": [],
+          "competenze": [],
+          "contenuti": []
+        },
+        "terza": {
+          "obiettivi": [
+            "Elaborare creativamente produzioni personali e autentiche per esprimere sensazioni ed emozioni, rappresentare e comunicare la realtà percepita.",
+            "Sperimentare strumenti e tecniche diverse per realizzare prodotti grafici, plastici, pittorici. Osservare e leggere le immagini",
+            "Guardare e osservare con consapevolezza un’immagine e gli oggetti presenti nell’ambiente descrivendo gli elementi formali, utilizzando le regole della percezione visiva e l'orientamento nello spazio.",
+            "Riconoscere in un testo iconico-visivo gli elementi grammaticali e tecnici del linguaggio visuale (linee, colori, forme, volume, spazio) e del linguaggio audiovisivo (piani, campi, sequenze, struttura narrativa, movimento...) individuando il loro significato espressivo.",
+            "Individuare nel linguaggio del fumetto, filmico e audiovisivo le diverse tipologie di codici, le sequenze narrative e decodificare in forma elementare i diversi significati.",
+            "Gli elementi di differenziazione del linguaggio visivo: il segno, la linea, il colore, lo spazio.",
+            "Elementi decorativi e diversi tipi di simmetria.",
+            "Tecniche grafico- pittoriche e materiali polimaterici ai fini espressivi"
+          ],
+          "competenze": [],
+          "contenuti": []
+        },
+        "quarta": {
+          "obiettivi": [
+            "Elaborare creativamente produzioni personali autentiche per esprimere sensazioni ed emozioni; rappresentare e comunicare la realtà percepita.",
+            "Trasformare immagini e materiali ricercando soluzioni figurative originali.",
+            "Sperimentare strumenti e tecniche diverse per realizzare prodotti grafici, plastici, pittorici e multimediali. Osservare e leggere le immagini",
+            "Guardare e osservare con consapevolezza un'immagine e gli oggetti presenti nell'ambiente descrivendo gli elementi formali, utilizzando le",
+            "La figura umana in posizione statica e dinamica.",
+            "Dalla realtà all'astrazione",
+            "I piani di profondità",
+            "La scultura ed i materiali modellabili"
+          ],
+          "competenze": [],
+          "contenuti": []
+        },
+        "quinta": {
+          "obiettivi": [
+            "Elaborare creativamente produzioni personali autentiche per esprimere sensazioni ed emozioni; rappresentare e comunicare la realtà percepita.",
+            "Sperimentare strumenti e tecniche diverse per realizzare prodotti grafici, plastici, pittorici e multimediali.",
+            "Riconoscere un testo iconico- visivo gli elementi grammaticali e tecnici del linguaggio visuale (linee, colori, forme, volume, spazio) e del linguaggio audiovisivo (piani, campi, sequenze,",
+            "La classificazione delle immagini.",
+            "Le linee e le texture: uso delle texture con il frottage.",
+            "Disegni di Klu e Kandiski.",
+            "Le forme geometriche fondamentali.",
+            "I ritmi e le simmetrie."
+          ],
+          "competenze": [],
+          "contenuti": []
+        }
+      }
+    },
+    "Musica": {
+      "classi": {
+        "prima": {
+          "obiettivi": [
+            "Esplorare il mondo sonoro",
+            "Individuare la fonte di un suono",
+            "Distinguere eventi sonori: suono e rumore",
+            "Gestire lo strumento voce",
+            "Eseguire da solo o in gruppo brani vocali",
+            "Durate, timbri ed intensità",
+            "Oggetti comuni per riprodurre suoni",
+            "Suoni e ritmi con il corpo"
+          ],
+          "competenze": [],
+          "contenuti": []
+        },
+        "seconda": {
+          "obiettivi": [
+            "Riconoscere le possibilità sonore di elementi naturali",
+            "Riprodurre eventi sonori naturali",
+            "Muoversi seguendo un semplice ritmo",
+            "Cogliere la musicalità di parole e frasi",
+            "Produrre suoni e rumori con materiali di uso comune",
+            "Riprodurre sequenze ritmiche e semplici brani con la voce e/o oggetti",
+            "La sonorità degli elementi naturali (aria, acqua, fuoco, vento)",
+            "La danza a catena intensità"
+          ],
+          "competenze": [],
+          "contenuti": []
+        },
+        "terza": {
+          "obiettivi": [
+            "Utilizzare voci, strumenti e nuove tecnologie per inventare sequenze ritmiche",
+            "La notazione musicale",
+            "Eseguire brani con la giusta espressività",
+            "I suoni del corpo e della voce",
+            "I parametri distintivi del suono",
+            "Il pentagramma e le note",
+            "Viaggio nei vari ambienti sonori",
+            "Sperimentare la sonorizzazione di un racconto"
+          ],
+          "competenze": [],
+          "contenuti": []
+        },
+        "quarta": {
+          "obiettivi": [
+            "Cantare melodie, canti a una voce, canzoni provenienti da culture diverse",
+            "Utilizzare la notazione convenzionale per eseguire semplici partiture ritmiche vocali e/o strumentali a più voci",
+            "Discriminare e interpretare gli eventi sonori dal vivo o registrati",
+            "I parametri del suono: timbro, intensità, durata, altezza, ritmo, melodia",
+            "Individuazione del timbro di alcuni strumenti musicali",
+            "Aspetti espressivi di brani musicali",
+            "I suoni dell’ambiente urbano",
+            "I principali valori musicali e le note"
+          ],
+          "competenze": [],
+          "contenuti": []
+        },
+        "quinta": {
+          "obiettivi": [
+            "Utilizzare voci, strumenti e nuove tecnologie, in modo creativo, per inventare sequenze ritmiche",
+            "Eseguire individualmente o in coro canti polifonici con la giusta espressività",
+            "Valutare aspetti funzionali ed estetici in brani musicali di vario genere e stile, relativamente a culture, tempi e luoghi diversi",
+            "Rappresentare gli elementi basilari di eventi sonori e musicali con simboli convenzionali e non",
+            "Riconoscere gli usi, le funzioni della musica",
+            "La notazione informale",
+            "Gli strumenti a percussione",
+            "Ascolto di brani musicali"
+          ],
+          "competenze": [],
+          "contenuti": []
+        }
+      }
+    },
+    "Geografia": {
+      "classi": {
+        "prima": {
+          "obiettivi": [],
+          "competenze": [],
+          "contenuti": []
+        },
+        "seconda": {
+          "obiettivi": [],
+          "competenze": [],
+          "contenuti": []
+        },
+        "terza": {
+          "obiettivi": [],
+          "competenze": [],
+          "contenuti": []
+        },
+        "quarta": {
+          "obiettivi": [],
+          "competenze": [],
+          "contenuti": []
+        },
+        "quinta": {
+          "obiettivi": [],
+          "competenze": [],
+          "contenuti": []
+        }
+      }
+    },
+    "Inglese": {
+      "classi": {
+        "prima": {
+          "obiettivi": [
+            "Ascoltare e riconoscere vocaboli in  filastrocche e canti.",
+            "Riconoscere vocaboli inglesi in uso nella  lingua italiana Listening-speaking"
+          ],
+          "competenze": [],
+          "contenuti": []
+        },
+        "seconda": {
+          "obiettivi": [],
+          "competenze": [],
+          "contenuti": []
+        },
+        "terza": {
+          "obiettivi": [],
+          "competenze": [],
+          "contenuti": []
+        },
+        "quarta": {
+          "obiettivi": [],
+          "competenze": [],
+          "contenuti": []
+        },
+        "quinta": {
+          "obiettivi": [],
+          "competenze": [],
+          "contenuti": []
+        }
+      }
+    }
+  }
+}
