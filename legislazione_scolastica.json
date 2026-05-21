@@ -1,0 +1,1301 @@
+{
+  "library_name": "LessonyNet — Legislazione Scolastica Italiana",
+  "version": "1.0",
+  "last_update": "2026-05-21",
+  "autore": "LessonyNet — lessonynet.it",
+  "nota": "Contenuto orientativo. Verificare sempre i testi normativi ufficiali aggiornati.",
+  "aree": [
+    "ordinamento_generale",
+    "disabilita_inclusione",
+    "dsa_bes",
+    "valutazione_curricolo",
+    "organi_collegiali",
+    "privacy_digitale",
+    "contratto_personale"
+  ],
+  "norme": [
+    {
+      "id": "norma_001",
+      "area": "ordinamento_generale",
+      "titolo": "Costituzione della Repubblica Italiana — Artt. 33-34",
+      "tipo": "Costituzione",
+      "anno": 1948,
+      "riferimento": "Artt. 33-34 Cost.",
+      "target": [
+        "docenti",
+        "studenti"
+      ],
+      "sintesi_breve": "Garantisce la libertà di insegnamento, il diritto allo studio e l'obbligo scolastico fino ai 16 anni.",
+      "sintesi_docenti": "L'art. 33 sancisce la libertà di insegnamento e il diritto di enti e privati di istituire scuole. L'art. 34 afferma che la scuola è aperta a tutti, che l'istruzione inferiore è obbligatoria e gratuita e che i capaci e meritevoli, anche se privi di mezzi, hanno diritto di raggiungere i gradi più alti degli studi.",
+      "sintesi_studenti": "La Costituzione dice che tutti hanno diritto di andare a scuola. La scuola dell'obbligo è gratuita. Chi è bravo ma non ha soldi può ricevere aiuto per continuare a studiare.",
+      "articoli_chiave": [
+        {
+          "numero": "Art. 33",
+          "testo": "L'arte e la scienza sono libere e libero ne è l'insegnamento. La Repubblica detta le norme generali sull'istruzione ed istituisce scuole statali per tutti gli ordini e gradi."
+        },
+        {
+          "numero": "Art. 34",
+          "testo": "La scuola è aperta a tutti. L'istruzione inferiore, impartita per almeno otto anni, è obbligatoria e gratuita. I capaci e meritevoli, anche se privi di mezzi, hanno diritto di raggiungere i gradi più alti degli studi."
+        }
+      ],
+      "parole_chiave": [
+        "libertà di insegnamento",
+        "diritto allo studio",
+        "obbligo scolastico",
+        "gratuità",
+        "merito"
+      ],
+      "quiz": [
+        {
+          "domanda": "Quanti anni dura almeno l'istruzione obbligatoria secondo la Costituzione?",
+          "opzioni": [
+            "6 anni",
+            "8 anni",
+            "10 anni",
+            "12 anni"
+          ],
+          "risposta": "8 anni",
+          "spiegazione": "L'art. 34 stabilisce che l'istruzione inferiore, obbligatoria e gratuita, dura almeno 8 anni."
+        },
+        {
+          "domanda": "Cosa garantisce l'art. 33 della Costituzione?",
+          "opzioni": [
+            "Il diritto al voto",
+            "La libertà di insegnamento",
+            "Il diritto al lavoro",
+            "La libertà di stampa"
+          ],
+          "risposta": "La libertà di insegnamento",
+          "spiegazione": "L'art. 33 tutela la libertà di insegnamento e il pluralismo scolastico."
+        },
+        {
+          "domanda": "Chi ha diritto di raggiungere i gradi più alti degli studi secondo l'art. 34?",
+          "opzioni": [
+            "Solo i ricchi",
+            "Solo chi ha genitori laureati",
+            "I capaci e meritevoli anche senza mezzi",
+            "Tutti senza eccezioni"
+          ],
+          "risposta": "I capaci e meritevoli anche senza mezzi",
+          "spiegazione": "L'art. 34 prevede borse di studio e assegni per i meritevoli privi di mezzi economici."
+        }
+      ]
+    },
+    {
+      "id": "norma_002",
+      "area": "ordinamento_generale",
+      "titolo": "Legge 59/1997 e DPR 275/1999 — Autonomia Scolastica",
+      "tipo": "Legge + Regolamento",
+      "anno": 1999,
+      "riferimento": "L. 59/1997 art. 21 — DPR 275/1999",
+      "target": [
+        "docenti",
+        "studenti"
+      ],
+      "sintesi_breve": "Introduce l'autonomia didattica, organizzativa e di ricerca delle istituzioni scolastiche e il Piano dell'Offerta Formativa (POF/PTOF).",
+      "sintesi_docenti": "Il DPR 275/1999 attribuisce alle scuole autonomia didattica (libertà di scelta metodologica), organizzativa (orari, moduli) e di ricerca e sperimentazione. Ogni scuola elabora il Piano dell'Offerta Formativa (POF), oggi PTOF, che definisce l'identità culturale e progettuale dell'istituto.",
+      "sintesi_studenti": "Ogni scuola può organizzarsi in modo diverso, scegliere attività e progetti speciali. Il PTOF è il 'programma' della scuola che spiega cosa si studia e come.",
+      "articoli_chiave": [
+        {
+          "numero": "Art. 3 DPR 275/1999",
+          "testo": "Ogni istituzione scolastica predispone il Piano dell'offerta formativa. Il piano è il documento fondamentale costitutivo dell'identità culturale e progettuale delle istituzioni scolastiche."
+        },
+        {
+          "numero": "Art. 4 DPR 275/1999",
+          "testo": "Le istituzioni scolastiche, nel rispetto della libertà di insegnamento, della libertà di scelta educativa delle famiglie e delle finalità generali del sistema, concretizzano gli obiettivi nazionali in percorsi formativi funzionali alla realizzazione del diritto ad apprendere."
+        }
+      ],
+      "parole_chiave": [
+        "autonomia scolastica",
+        "PTOF",
+        "POF",
+        "piano offerta formativa",
+        "autonomia didattica",
+        "autonomia organizzativa"
+      ],
+      "quiz": [
+        {
+          "domanda": "Cosa significa la sigla PTOF?",
+          "opzioni": [
+            "Piano Triennale dell'Offerta Formativa",
+            "Programma Tecnico di Organizzazione Funzionale",
+            "Piano Territoriale di Offerta Formativa",
+            "Progetto Triennale di Organizzazione Formativa"
+          ],
+          "risposta": "Piano Triennale dell'Offerta Formativa",
+          "spiegazione": "Il PTOF è il documento programmatico triennale che ogni scuola elabora per definire la propria identità e offerta educativa."
+        },
+        {
+          "domanda": "Quale decreto regola l'autonomia scolastica?",
+          "opzioni": [
+            "DPR 122/2009",
+            "DPR 275/1999",
+            "D.Lgs 297/1994",
+            "L. 107/2015"
+          ],
+          "risposta": "DPR 275/1999",
+          "spiegazione": "Il DPR 275/1999 è il Regolamento sull'autonomia delle istituzioni scolastiche."
+        },
+        {
+          "domanda": "Quanti anni copre il PTOF?",
+          "opzioni": [
+            "1 anno",
+            "2 anni",
+            "3 anni",
+            "5 anni"
+          ],
+          "risposta": "3 anni",
+          "spiegazione": "Il Piano Triennale dell'Offerta Formativa ha durata triennale, con possibilità di revisione annuale."
+        }
+      ]
+    },
+    {
+      "id": "norma_003",
+      "area": "ordinamento_generale",
+      "titolo": "Legge 107/2015 — La Buona Scuola",
+      "tipo": "Legge",
+      "anno": 2015,
+      "riferimento": "L. 13 luglio 2015 n. 107",
+      "target": [
+        "docenti",
+        "studenti"
+      ],
+      "sintesi_breve": "Riforma del sistema scolastico: introduce il PTOF triennale, il potenziamento dell'offerta formativa, l'alternanza scuola-lavoro e il Piano Nazionale Scuola Digitale.",
+      "sintesi_docenti": "La L. 107/2015 trasforma il POF in PTOF (triennale), introduce l'organico dell'autonomia e i posti di potenziamento, rende obbligatoria l'alternanza scuola-lavoro (ora PCTO), istituisce il Piano Nazionale Scuola Digitale (PNSD) e la carta del docente (500€/anno per formazione). Rafforza il ruolo del Dirigente Scolastico nella chiamata diretta dei docenti.",
+      "sintesi_studenti": "La Buona Scuola ha cambiato molte cose: ha introdotto i tirocini in azienda per gli studenti delle superiori (alternanza scuola-lavoro), ha portato più tecnologia nelle classi e ha dato ai professori soldi per la loro formazione.",
+      "articoli_chiave": [
+        {
+          "numero": "Comma 1",
+          "testo": "Le istituzioni scolastiche predispongono il piano triennale dell'offerta formativa, rivedibile annualmente. Il piano è elaborato dal collegio dei docenti sulla base degli indirizzi per le attività della scuola e delle scelte di gestione e di amministrazione definiti dal dirigente scolastico."
+        },
+        {
+          "numero": "Comma 7",
+          "testo": "Le istituzioni scolastiche, nei limiti delle risorse umane, finanziarie e strumentali disponibili e nel rispetto delle priorità indicate nel PTOF, possono individuare il fabbisogno di posti dell'organico dell'autonomia."
+        },
+        {
+          "numero": "Comma 124",
+          "testo": "Nell'ambito degli adempimenti connessi alla funzione docente, la formazione in servizio dei docenti di ruolo è obbligatoria, permanente e strutturale."
+        }
+      ],
+      "parole_chiave": [
+        "PTOF",
+        "organico autonomia",
+        "PCTO",
+        "alternanza scuola-lavoro",
+        "PNSD",
+        "carta del docente",
+        "formazione obbligatoria"
+      ],
+      "quiz": [
+        {
+          "domanda": "Cosa ha introdotto la L. 107/2015 per i docenti di ruolo?",
+          "opzioni": [
+            "Pensione anticipata",
+            "Formazione obbligatoria permanente",
+            "Aumento stipendiale automatico",
+            "Riduzione orario di lavoro"
+          ],
+          "risposta": "Formazione obbligatoria permanente",
+          "spiegazione": "Il comma 124 stabilisce che la formazione in servizio dei docenti di ruolo è obbligatoria, permanente e strutturale."
+        },
+        {
+          "domanda": "Come si chiama oggi l'alternanza scuola-lavoro introdotta dalla L. 107/2015?",
+          "opzioni": [
+            "Stage aziendale",
+            "PCTO",
+            "Tirocinio formativo",
+            "Pratica professionale"
+          ],
+          "risposta": "PCTO",
+          "spiegazione": "L'alternanza scuola-lavoro è stata rinominata PCTO (Percorsi per le Competenze Trasversali e l'Orientamento) dalla L. 145/2018."
+        },
+        {
+          "domanda": "Chi elabora il PTOF?",
+          "opzioni": [
+            "Il Dirigente Scolastico",
+            "Il Consiglio d'Istituto",
+            "Il Collegio dei Docenti",
+            "Il Ministero dell'Istruzione"
+          ],
+          "risposta": "Il Collegio dei Docenti",
+          "spiegazione": "Il PTOF è elaborato dal Collegio dei Docenti sulla base degli indirizzi del Dirigente Scolastico e approvato dal Consiglio d'Istituto."
+        }
+      ]
+    },
+    {
+      "id": "norma_004",
+      "area": "disabilita_inclusione",
+      "titolo": "Legge 104/1992 — Legge-quadro per l'handicap",
+      "tipo": "Legge",
+      "anno": 1992,
+      "riferimento": "L. 5 febbraio 1992 n. 104",
+      "target": [
+        "docenti",
+        "studenti"
+      ],
+      "sintesi_breve": "Legge fondamentale per i diritti delle persone con disabilità: garantisce l'integrazione scolastica, sociale e lavorativa.",
+      "sintesi_docenti": "La L. 104/1992 è la norma cardine sull'handicap in Italia. Garantisce il diritto all'integrazione scolastica a tutti i livelli (art. 12), prevede l'assegnazione dell'insegnante di sostegno (art. 13), la redazione del PDF (Profilo Dinamico Funzionale) e del PEI (Piano Educativo Individualizzato). L'art. 3 comma 3 riconosce la situazione di gravità. Gli artt. 33-35 regolano i permessi lavorativi per familiari e lavoratori con disabilità.",
+      "sintesi_studenti": "La Legge 104 protegge i diritti delle persone con disabilità. A scuola garantisce il diritto di tutti gli studenti di stare in classe con i compagni e di ricevere un insegnante di sostegno. Prevede anche un piano personalizzato (PEI) per ogni studente con disabilità.",
+      "articoli_chiave": [
+        {
+          "numero": "Art. 3",
+          "testo": "È persona handicappata colui che presenta una minorazione fisica, psichica o sensoriale, stabilizzata o progressiva, che è causa di difficoltà di apprendimento, di relazione o di integrazione lavorativa tale da determinare un processo di svantaggio sociale o di emarginazione."
+        },
+        {
+          "numero": "Art. 12",
+          "testo": "Al bambino da 0 a 3 anni handicappato è garantito l'inserimento negli asili nido. È garantito il diritto all'educazione e all'istruzione della persona handicappata nelle sezioni di scuola materna, nelle classi comuni delle istituzioni scolastiche di ogni ordine e grado."
+        },
+        {
+          "numero": "Art. 13",
+          "testo": "L'integrazione scolastica della persona handicappata nelle sezioni e nelle classi comuni delle scuole di ogni ordine e grado e nelle università si realizza attraverso la predisposizione di un progetto educativo individualizzato."
+        },
+        {
+          "numero": "Art. 33",
+          "testo": "I genitori o i familiari lavoratori che assistono con continuità un parente o un affine entro il terzo grado portatore di handicap grave hanno diritto a tre giorni di permesso mensile retribuito."
+        }
+      ],
+      "parole_chiave": [
+        "handicap",
+        "disabilità",
+        "integrazione scolastica",
+        "insegnante di sostegno",
+        "PEI",
+        "PDF",
+        "permessi 104",
+        "gravità"
+      ],
+      "quiz": [
+        {
+          "domanda": "Quanti giorni di permesso mensile prevede la L. 104 per i familiari che assistono una persona con disabilità grave?",
+          "opzioni": [
+            "1 giorno",
+            "2 giorni",
+            "3 giorni",
+            "5 giorni"
+          ],
+          "risposta": "3 giorni",
+          "spiegazione": "L'art. 33 della L. 104/1992 prevede 3 giorni di permesso mensile retribuito per i familiari che assistono una persona con handicap grave."
+        },
+        {
+          "domanda": "Cosa garantisce l'art. 12 della L. 104/1992?",
+          "opzioni": [
+            "Solo l'inserimento in classi speciali",
+            "Il diritto all'istruzione nelle classi comuni",
+            "L'esenzione dalle verifiche",
+            "La riduzione dell'orario scolastico"
+          ],
+          "risposta": "Il diritto all'istruzione nelle classi comuni",
+          "spiegazione": "L'art. 12 garantisce il diritto all'educazione e all'istruzione nelle classi comuni, non in classi separate."
+        },
+        {
+          "domanda": "Cosa significa la sigla PEI?",
+          "opzioni": [
+            "Piano Educativo Integrato",
+            "Piano Educativo Individualizzato",
+            "Progetto Educativo Inclusivo",
+            "Piano di Estensione dell'Integrazione"
+          ],
+          "risposta": "Piano Educativo Individualizzato",
+          "spiegazione": "Il PEI è il documento che descrive gli interventi integrati per lo studente con disabilità, redatto dal GLO."
+        }
+      ]
+    },
+    {
+      "id": "norma_005",
+      "area": "disabilita_inclusione",
+      "titolo": "D.Lgs 66/2017 — Norme per l'inclusione scolastica",
+      "tipo": "Decreto Legislativo",
+      "anno": 2017,
+      "riferimento": "D.Lgs 13 aprile 2017 n. 66 (modificato da D.Lgs 96/2019)",
+      "target": [
+        "docenti",
+        "studenti"
+      ],
+      "sintesi_breve": "Riforma l'inclusione scolastica: introduce il Profilo di Funzionamento ICF, il nuovo PEI e il GLO (Gruppo di Lavoro Operativo).",
+      "sintesi_docenti": "Il D.Lgs 66/2017, modificato dal D.Lgs 96/2019, riforma organicamente l'inclusione scolastica. Introduce il Profilo di Funzionamento (basato sull'ICF-OMS) in sostituzione di PDF e DF. Il nuovo PEI diventa progetto unico, elaborato dal GLO (Gruppo di Lavoro Operativo per l'inclusione) composto da docenti, genitori, specialisti e, dove possibile, dallo studente. Introduce anche il PEI provvisorio per i nuovi accertamenti.",
+      "sintesi_studenti": "Questo decreto ha migliorato il sistema di supporto agli studenti con disabilità. Ha creato un gruppo (GLO) dove insegnanti, genitori e medici lavorano insieme per fare il piano personalizzato (PEI) dello studente.",
+      "articoli_chiave": [
+        {
+          "numero": "Art. 5",
+          "testo": "Il Profilo di Funzionamento è redatto dall'unità di valutazione multidisciplinare. Costituisce il documento propedeutico e necessario alla predisposizione del Piano Educativo Individualizzato e del Progetto Individuale."
+        },
+        {
+          "numero": "Art. 7",
+          "testo": "Il Piano Educativo Individualizzato è elaborato e approvato dal Gruppo di Lavoro Operativo per l'inclusione, di cui fa parte il team dei docenti ovvero il consiglio di classe."
+        },
+        {
+          "numero": "Art. 9",
+          "testo": "Il Gruppo di lavoro per l'inclusione (GLI) è composto da docenti curricolari, docenti di sostegno e, eventualmente, da personale ATA nonché da specialisti della Azienda sanitaria locale del territorio."
+        }
+      ],
+      "parole_chiave": [
+        "Profilo di Funzionamento",
+        "ICF",
+        "PEI",
+        "GLO",
+        "GLI",
+        "inclusione",
+        "unità valutazione multidisciplinare",
+        "D.Lgs 96/2019"
+      ],
+      "quiz": [
+        {
+          "domanda": "Cosa sostituisce il Profilo di Funzionamento introdotto dal D.Lgs 66/2017?",
+          "opzioni": [
+            "Solo il PEI",
+            "PDF e DF (Diagnosi Funzionale)",
+            "Il certificato medico",
+            "Il verbale di accertamento"
+          ],
+          "risposta": "PDF e DF (Diagnosi Funzionale)",
+          "spiegazione": "Il Profilo di Funzionamento, basato sull'ICF, sostituisce la Diagnosi Funzionale (DF) e il Profilo Dinamico Funzionale (PDF)."
+        },
+        {
+          "domanda": "Cosa significa GLO?",
+          "opzioni": [
+            "Gruppo di Lavoro per l'Orientamento",
+            "Gruppo di Lavoro Operativo per l'inclusione",
+            "Gestione dei Livelli di Obiettivo",
+            "Gruppo di Lavoro Organizzativo"
+          ],
+          "risposta": "Gruppo di Lavoro Operativo per l'inclusione",
+          "spiegazione": "Il GLO elabora e approva il PEI ed è composto da docenti, genitori, specialisti ASL e, dove possibile, dallo studente."
+        },
+        {
+          "domanda": "Su quale classificazione internazionale si basa il nuovo Profilo di Funzionamento?",
+          "opzioni": [
+            "DSM-5",
+            "ICD-10",
+            "ICF (OMS)",
+            "CIF pediatrico"
+          ],
+          "risposta": "ICF (OMS)",
+          "spiegazione": "L'ICF (Classificazione Internazionale del Funzionamento) dell'OMS è il framework su cui si basa il Profilo di Funzionamento."
+        }
+      ]
+    },
+    {
+      "id": "norma_006",
+      "area": "disabilita_inclusione",
+      "titolo": "Legge 517/1977 — Abolizione delle classi differenziali",
+      "tipo": "Legge",
+      "anno": 1977,
+      "riferimento": "L. 4 agosto 1977 n. 517",
+      "target": [
+        "docenti",
+        "studenti"
+      ],
+      "sintesi_breve": "Abolisce le classi differenziali e speciali, sancendo il principio dell'integrazione degli alunni con disabilità nelle classi comuni.",
+      "sintesi_docenti": "La L. 517/1977 rappresenta una svolta storica: abolisce le classi differenziali e speciali e afferma il principio dell'integrazione scolastica. Introduce la figura dell'insegnante specializzato (di sostegno) per le attività di integrazione e la programmazione educativa individualizzata. È il fondamento storico su cui si costruisce tutta la normativa successiva sull'inclusione.",
+      "sintesi_studenti": "Prima di questa legge, i bambini con disabilità venivano messi in classi separate. La Legge 517 del 1977 ha stabilito che tutti gli studenti, compresi quelli con disabilità, devono stare insieme nelle stesse classi.",
+      "articoli_chiave": [
+        {
+          "numero": "Art. 2",
+          "testo": "Allo scopo di agevolare l'attuazione del diritto allo studio e la piena formazione della personalità degli alunni, la programmazione educativa può comprendere attività scolastiche integrative organizzate per gruppi di alunni della stessa classe oppure di classi diverse."
+        },
+        {
+          "numero": "Art. 7",
+          "testo": "Sono abolite le classi differenziali. Gli alunni che si trovano nelle predette classi sono inseriti, sulla base di una valutazione aggiornata della situazione di ciascuno, nelle classi comuni."
+        }
+      ],
+      "parole_chiave": [
+        "classi differenziali",
+        "integrazione scolastica",
+        "insegnante di sostegno",
+        "abolizione classi speciali",
+        "programmazione individualizzata"
+      ],
+      "quiz": [
+        {
+          "domanda": "Cosa ha abolito la Legge 517/1977?",
+          "opzioni": [
+            "Le scuole private",
+            "Le classi differenziali e speciali",
+            "Il voto in condotta",
+            "Gli esami di riparazione"
+          ],
+          "risposta": "Le classi differenziali e speciali",
+          "spiegazione": "La L. 517/1977 ha abolito le classi differenziali, sancendo il diritto all'integrazione nelle classi comuni."
+        },
+        {
+          "domanda": "In quale anno è stata approvata la Legge 517?",
+          "opzioni": [
+            "1968",
+            "1977",
+            "1992",
+            "2000"
+          ],
+          "risposta": "1977",
+          "spiegazione": "La L. 517 è del 4 agosto 1977 ed è una delle norme fondanti dell'inclusione scolastica italiana."
+        },
+        {
+          "domanda": "Quale figura professionale introduce la L. 517/1977 per supportare l'integrazione?",
+          "opzioni": [
+            "Il tutor scolastico",
+            "L'insegnante specializzato (di sostegno)",
+            "Lo psicologo scolastico",
+            "Il mediatore culturale"
+          ],
+          "risposta": "L'insegnante specializzato (di sostegno)",
+          "spiegazione": "La L. 517 introduce la figura dell'insegnante specializzato per le attività di integrazione degli alunni con disabilità."
+        }
+      ]
+    },
+    {
+      "id": "norma_007",
+      "area": "dsa_bes",
+      "titolo": "Legge 170/2010 — Disturbi Specifici di Apprendimento",
+      "tipo": "Legge",
+      "anno": 2010,
+      "riferimento": "L. 8 ottobre 2010 n. 170",
+      "target": [
+        "docenti",
+        "studenti"
+      ],
+      "sintesi_breve": "Riconosce dislessia, disgrafia, disortografia e discalculia come disturbi specifici che richiedono misure dispensative e strumenti compensativi.",
+      "sintesi_docenti": "La L. 170/2010 riconosce per la prima volta i DSA (Disturbi Specifici di Apprendimento): dislessia, disgrafia, disortografia e discalculia. Garantisce il diritto a misure dispensative (es. dispensa dalla lettura ad alta voce) e strumenti compensativi (es. calcolatrice, software TTS, mappe concettuali). Prevede la stesura del PDP (Piano Didattico Personalizzato) da parte del Consiglio di Classe. Il DM 5669/2011 e le Linee Guida attuano la legge.",
+      "sintesi_studenti": "La Legge 170 riconosce che alcuni studenti imparano in modo diverso (dislessia, discalculia, ecc.) e non è colpa loro. Ha il diritto di usare strumenti di aiuto (computer, calcolatrice, mappe) e di avere più tempo durante le verifiche.",
+      "articoli_chiave": [
+        {
+          "numero": "Art. 1",
+          "testo": "La presente legge riconosce la dislessia, la disgrafia, la disortografia e la discalculia quali disturbi specifici di apprendimento, di seguito denominati DSA, che si manifestano in presenza di capacità cognitive adeguate, in assenza di patologie neurologiche e di deficit sensoriali."
+        },
+        {
+          "numero": "Art. 4",
+          "testo": "Le istituzioni scolastiche garantiscono l'uso di una didattica individualizzata e personalizzata, con forme efficaci e flessibili di lavoro scolastico, anche attraverso il coinvolgimento dei servizi socio-sanitari ed educativi del territorio e delle associazioni di settore."
+        },
+        {
+          "numero": "Art. 5",
+          "testo": "Gli studenti con diagnosi di DSA hanno diritto a fruire di appositi provvedimenti dispensativi e compensativi di flessibilità didattica nel corso dei cicli di istruzione e formazione."
+        }
+      ],
+      "parole_chiave": [
+        "DSA",
+        "dislessia",
+        "disgrafia",
+        "disortografia",
+        "discalculia",
+        "PDP",
+        "misure dispensative",
+        "strumenti compensativi",
+        "piano didattico personalizzato"
+      ],
+      "quiz": [
+        {
+          "domanda": "Quanti disturbi specifici di apprendimento riconosce la L. 170/2010?",
+          "opzioni": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "risposta": "4",
+          "spiegazione": "La L. 170 riconosce: dislessia, disgrafia, disortografia e discalculia."
+        },
+        {
+          "domanda": "Cosa significa la sigla PDP?",
+          "opzioni": [
+            "Piano di Didattica Potenziata",
+            "Piano Didattico Personalizzato",
+            "Progetto Didattico Personalizzato",
+            "Piano di Didattica Programmata"
+          ],
+          "risposta": "Piano Didattico Personalizzato",
+          "spiegazione": "Il PDP è il documento elaborato dal Consiglio di Classe che definisce gli strumenti compensativi e le misure dispensative per lo studente con DSA."
+        },
+        {
+          "domanda": "Quale tra queste è una misura dispensativa per studenti DSA?",
+          "opzioni": [
+            "Uso della calcolatrice",
+            "Dispensa dalla lettura ad alta voce",
+            "Mappe concettuali",
+            "Software di sintesi vocale"
+          ],
+          "risposta": "Dispensa dalla lettura ad alta voce",
+          "spiegazione": "Le misure dispensative evitano allo studente prestazioni difficoltose. Le altre opzioni (calcolatrice, mappe, sintesi vocale) sono strumenti compensativi."
+        }
+      ]
+    },
+    {
+      "id": "norma_008",
+      "area": "dsa_bes",
+      "titolo": "Direttiva Ministeriale 27/12/2012 e CM 8/2013 — BES",
+      "tipo": "Direttiva + Circolare",
+      "anno": 2012,
+      "riferimento": "Dir. Min. 27/12/2012 — CM n. 8 del 6/3/2013",
+      "target": [
+        "docenti",
+        "studenti"
+      ],
+      "sintesi_breve": "Introduce la categoria dei Bisogni Educativi Speciali (BES) e il diritto al PDP per tutti gli studenti in difficoltà, anche senza diagnosi clinica.",
+      "sintesi_docenti": "La Direttiva 2012 e la CM 8/2013 ampliano la tutela agli studenti con BES (Bisogni Educativi Speciali), che includono: 1) disabilità certificate (L. 104); 2) DSA (L. 170); 3) svantaggio socioeconomico, linguistico e culturale. Per questi ultimi, il Consiglio di Classe può adottare un PDP anche senza diagnosi, assumendosi la responsabilità pedagogica della decisione. Introduce il PAI (Piano Annuale per l'Inclusività) e rafforza il ruolo del GLI.",
+      "sintesi_studenti": "I BES sono bisogni speciali che alcuni studenti hanno per motivi diversi: disabilità, DSA oppure difficoltà economiche o linguistiche. Anche senza una diagnosi medica, la scuola può fare un piano personalizzato per aiutarti.",
+      "articoli_chiave": [
+        {
+          "numero": "Dir. Min. 27/12/2012 — Sezione 1",
+          "testo": "Ogni alunno, con continuità o per determinati periodi, può manifestare Bisogni Educativi Speciali: o per motivi fisici, biologici, fisiologici o anche per motivi psicologici, sociali, rispetto ai quali è necessario che le scuole offrano adeguata e personalizzata risposta."
+        },
+        {
+          "numero": "CM 8/2013 — Punto 1",
+          "testo": "Il Consiglio di classe è chiamato ad individuare gli alunni che necessitano di un Piano Didattico Personalizzato, qualora non vi sia certificazione clinica o diagnosi, sulla base di motivate considerazioni pedagogiche e didattiche."
+        }
+      ],
+      "parole_chiave": [
+        "BES",
+        "bisogni educativi speciali",
+        "PAI",
+        "GLI",
+        "svantaggio linguistico",
+        "svantaggio socioeconomico",
+        "PDP senza diagnosi"
+      ],
+      "quiz": [
+        {
+          "domanda": "Quante aree include la categoria BES secondo la Direttiva 2012?",
+          "opzioni": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "risposta": "3",
+          "spiegazione": "Le tre aree BES sono: 1) disabilità certificate; 2) disturbi evolutivi specifici (DSA e altri); 3) svantaggio socioeconomico, linguistico e culturale."
+        },
+        {
+          "domanda": "Cosa significa la sigla PAI?",
+          "opzioni": [
+            "Piano di Apprendimento Individualizzato",
+            "Piano Annuale per l'Inclusività",
+            "Progetto di Azione per l'Integrazione",
+            "Piano di Attività Inclusive"
+          ],
+          "risposta": "Piano Annuale per l'Inclusività",
+          "spiegazione": "Il PAI è elaborato dal GLI e approvato dal Collegio dei Docenti entro giugno di ogni anno."
+        },
+        {
+          "domanda": "Un CdC può fare un PDP per BES senza diagnosi medica?",
+          "opzioni": [
+            "No, serve sempre una diagnosi",
+            "Sì, sulla base di motivazioni pedagogiche",
+            "Solo con il consenso del Dirigente",
+            "Solo per studenti stranieri"
+          ],
+          "risposta": "Sì, sulla base di motivazioni pedagogiche",
+          "spiegazione": "La CM 8/2013 prevede che il CdC possa adottare un PDP sulla base di motivate considerazioni pedagogiche e didattiche, anche senza diagnosi clinica."
+        }
+      ]
+    },
+    {
+      "id": "norma_009",
+      "area": "dsa_bes",
+      "titolo": "DM 5669/2011 — Linee Guida DSA",
+      "tipo": "Decreto Ministeriale",
+      "anno": 2011,
+      "riferimento": "DM 12 luglio 2011 n. 5669 e Linee Guida allegate",
+      "target": [
+        "docenti"
+      ],
+      "sintesi_breve": "Attua la L. 170/2010 definendo le modalità operative per l'identificazione precoce dei DSA e la gestione didattica.",
+      "sintesi_docenti": "Il DM 5669/2011 e le allegate Linee Guida definiscono: i criteri per l'identificazione precoce dei DSA da parte dei docenti (segnalazione alle famiglie), le modalità di stesura del PDP, gli strumenti compensativi e le misure dispensative specifiche per ogni ordine scolastico, le indicazioni per la valutazione e per gli esami di Stato. I docenti hanno l'obbligo di segnalare tempestivamente agli specialisti gli studenti a rischio DSA.",
+      "sintesi_studenti": "Questo decreto spiega come i professori devono comportarsi con gli studenti che hanno un DSA: come fare il piano personalizzato, quali strumenti possono usare e come vengono valutati nelle verifiche.",
+      "articoli_chiave": [
+        {
+          "numero": "Art. 2",
+          "testo": "Le istituzioni scolastiche provvedono a segnalare alle famiglie le eventuali evidenze, riscontrate nelle prestazioni quotidiane in classe e nelle verifiche degli apprendimenti, di possibili difficoltà specifiche di apprendimento, al fine di un successivo approfondimento diagnostico."
+        },
+        {
+          "numero": "Art. 5",
+          "testo": "Il PDP è redatto dai docenti con la collaborazione della famiglia e, ove presente, degli specialisti che seguono lo studente. Il documento individua le misure educative e didattiche di supporto, gli strumenti compensativi e le misure dispensative."
+        }
+      ],
+      "parole_chiave": [
+        "linee guida DSA",
+        "identificazione precoce",
+        "segnalazione famiglie",
+        "PDP",
+        "esami di Stato DSA",
+        "valutazione DSA"
+      ],
+      "quiz": [
+        {
+          "domanda": "Cosa devono fare i docenti se notano difficoltà compatibili con un DSA?",
+          "opzioni": [
+            "Aspettare la diagnosi dello specialista",
+            "Segnalare tempestivamente alla famiglia",
+            "Fare autonomamente la diagnosi",
+            "Ignorare le difficoltà se il voto è sufficiente"
+          ],
+          "risposta": "Segnalare tempestivamente alla famiglia",
+          "spiegazione": "Il DM 5669/2011 obbliga i docenti a segnalare alle famiglie le eventuali difficoltà riscontrate, per consentire un approfondimento diagnostico."
+        },
+        {
+          "domanda": "Chi collabora alla stesura del PDP?",
+          "opzioni": [
+            "Solo i docenti",
+            "Docenti e dirigente",
+            "Docenti, famiglia e specialisti",
+            "Solo lo specialista ASL"
+          ],
+          "risposta": "Docenti, famiglia e specialisti",
+          "spiegazione": "Il PDP è redatto dai docenti con la collaborazione della famiglia e, ove presente, degli specialisti che seguono lo studente."
+        },
+        {
+          "domanda": "Il DM 5669/2011 attua quale legge?",
+          "opzioni": [
+            "L. 104/1992",
+            "L. 170/2010",
+            "D.Lgs 66/2017",
+            "L. 107/2015"
+          ],
+          "risposta": "L. 170/2010",
+          "spiegazione": "Il DM 5669/2011 è il decreto attuativo della Legge 170/2010 sui Disturbi Specifici di Apprendimento."
+        }
+      ]
+    },
+    {
+      "id": "norma_010",
+      "area": "valutazione_curricolo",
+      "titolo": "DPR 122/2009 — Regolamento sulla valutazione",
+      "tipo": "Decreto del Presidente della Repubblica",
+      "anno": 2009,
+      "riferimento": "DPR 22 giugno 2009 n. 122",
+      "target": [
+        "docenti",
+        "studenti"
+      ],
+      "sintesi_breve": "Disciplina la valutazione degli apprendimenti: voti decimali, criteri di ammissione, giudizi di comportamento e voto di condotta.",
+      "sintesi_docenti": "Il DPR 122/2009 regola la valutazione in tutti gli ordini scolastici. Introduce i voti in decimi (compreso comportamento), stabilisce i criteri di ammissione alla classe successiva (media 6/10, frequenza 3/4 delle ore) e all'esame. Prevede la valutazione degli alunni con disabilità e DSA in coerenza con il PEI/PDP. La valutazione è di competenza del Consiglio di Classe nella sua collegialità.",
+      "sintesi_studenti": "Il DPR 122 stabilisce le regole per i voti a scuola. Dice che i voti vanno da 1 a 10, che per essere promosso devi avere almeno 6 in tutte le materie e aver frequentato almeno tre quarti delle ore di scuola.",
+      "articoli_chiave": [
+        {
+          "numero": "Art. 2",
+          "testo": "La valutazione è espressione dell'autonomia professionale propria della funzione docente, nella sua dimensione sia individuale che collegiale, nonché dell'autonomia didattica delle istituzioni scolastiche."
+        },
+        {
+          "numero": "Art. 4",
+          "testo": "Ai fini della validità dell'anno scolastico per la valutazione degli allievi è richiesta la frequenza di almeno tre quarti dell'orario annuale personalizzato."
+        },
+        {
+          "numero": "Art. 7",
+          "testo": "La valutazione del comportamento degli studenti è attribuita collegialmente dal consiglio di classe concorre, unitamente alla valutazione degli apprendimenti, alla valutazione complessiva dello studente."
+        }
+      ],
+      "parole_chiave": [
+        "valutazione",
+        "voti in decimi",
+        "ammissione",
+        "frequenza tre quarti",
+        "voto di condotta",
+        "comportamento",
+        "Consiglio di Classe"
+      ],
+      "quiz": [
+        {
+          "domanda": "Quale percentuale minima di frequenza è richiesta per la validità dell'anno scolastico?",
+          "opzioni": [
+            "50%",
+            "66%",
+            "75%",
+            "80%"
+          ],
+          "risposta": "75%",
+          "spiegazione": "L'art. 4 del DPR 122/2009 richiede la frequenza di almeno tre quarti (75%) dell'orario annuale personalizzato."
+        },
+        {
+          "domanda": "Chi attribuisce il voto di comportamento?",
+          "opzioni": [
+            "Il solo docente coordinatore",
+            "Il dirigente scolastico",
+            "Il Consiglio di Classe collegialmente",
+            "Il docente con più ore"
+          ],
+          "risposta": "Il Consiglio di Classe collegialmente",
+          "spiegazione": "La valutazione del comportamento è attribuita collegialmente dal Consiglio di Classe."
+        },
+        {
+          "domanda": "La valutazione degli alunni con disabilità deve essere coerente con:",
+          "opzioni": [
+            "I voti della classe",
+            "Il PEI elaborato per lo studente",
+            "I programmi ministeriali standard",
+            "Le indicazioni del dirigente"
+          ],
+          "risposta": "Il PEI elaborato per lo studente",
+          "spiegazione": "Per gli alunni con disabilità la valutazione è effettuata in coerenza con il PEI."
+        }
+      ]
+    },
+    {
+      "id": "norma_011",
+      "area": "valutazione_curricolo",
+      "titolo": "D.Lgs 62/2017 — Valutazione e Esami di Stato",
+      "tipo": "Decreto Legislativo",
+      "anno": 2017,
+      "riferimento": "D.Lgs 13 aprile 2017 n. 62",
+      "target": [
+        "docenti",
+        "studenti"
+      ],
+      "sintesi_breve": "Riforma la valutazione nella scuola primaria (giudizi descrittivi) e gli Esami di Stato del I e II ciclo.",
+      "sintesi_docenti": "Il D.Lgs 62/2017 riformula la valutazione periodica e finale: nella scuola primaria introduce giudizi descrittivi (poi modificati dall'OM 172/2020 con livelli: In via di prima acquisizione, Base, Intermedio, Avanzato). Riforma l'Esame di Stato del I ciclo (colloquio interdisciplinare, prove INVALSI non determinanti per l'ammissione) e del II ciclo (crediti scolastici, colloquio orale su elaborato). Rende non determinante il voto di comportamento per la non ammissione tranne in caso di voto 5.",
+      "sintesi_studenti": "Questo decreto ha cambiato gli esami di terza media e di maturità. Alla scuola primaria i voti sono stati sostituiti da giudizi descrittivi. All'esame di terza media c'è un colloquio su tutte le materie insieme.",
+      "articoli_chiave": [
+        {
+          "numero": "Art. 3",
+          "testo": "I docenti della classe deliberano, con voto unanime, la non ammissione alla classe successiva nella scuola primaria nei soli casi eccezionali e comprovati da specifica motivazione."
+        },
+        {
+          "numero": "Art. 6",
+          "testo": "L'esame di Stato conclusivo del primo ciclo di istruzione accerta, in coerenza con il profilo finale dello studente, le competenze acquisite dallo studente al termine del primo ciclo."
+        },
+        {
+          "numero": "Art. 13",
+          "testo": "Il credito scolastico è attribuito dal consiglio di classe ad ogni studente frequentante la seconda o la terza e la quarta e quinta classe degli istituti di istruzione secondaria di secondo grado."
+        }
+      ],
+      "parole_chiave": [
+        "esame di Stato",
+        "credito scolastico",
+        "giudizi descrittivi",
+        "colloquio interdisciplinare",
+        "INVALSI",
+        "ammissione",
+        "D.Lgs 62/2017"
+      ],
+      "quiz": [
+        {
+          "domanda": "Nella scuola primaria, dopo l'OM 172/2020, come viene espressa la valutazione?",
+          "opzioni": [
+            "Con voti in decimi",
+            "Con lettere A/B/C/D",
+            "Con livelli descrittivi (Base, Intermedio, Avanzato)",
+            "Con giudizi sintetici (Ottimo, Distinto)"
+          ],
+          "risposta": "Con livelli descrittivi (Base, Intermedio, Avanzato)",
+          "spiegazione": "L'OM 172/2020 ha introdotto quattro livelli: In via di prima acquisizione, Base, Intermedio, Avanzato."
+        },
+        {
+          "domanda": "Cos'è il credito scolastico?",
+          "opzioni": [
+            "Un bonus per i comportamenti positivi",
+            "Un punteggio attribuito negli ultimi tre anni delle superiori per l'esame di maturità",
+            "Il totale dei voti di fine anno",
+            "Un riconoscimento per le attività extracurriculari"
+          ],
+          "risposta": "Un punteggio attribuito negli ultimi tre anni delle superiori per l'esame di maturità",
+          "spiegazione": "Il credito scolastico è attribuito dal CdC nelle classi 3a, 4a e 5a della scuola secondaria di II grado e concorre al punteggio dell'esame di Stato."
+        },
+        {
+          "domanda": "Le prove INVALSI sono determinanti per l'ammissione all'esame di terza media?",
+          "opzioni": [
+            "Sì, devono essere superate",
+            "No, sono requisito di ammissione ma non determinano il voto",
+            "Sì, valgono 20 punti",
+            "No, sono facoltative"
+          ],
+          "risposta": "No, sono requisito di ammissione ma non determinano il voto",
+          "spiegazione": "Lo svolgimento delle prove INVALSI è requisito per l'ammissione all'esame del I ciclo, ma il loro risultato non incide sul voto finale."
+        }
+      ]
+    },
+    {
+      "id": "norma_012",
+      "area": "valutazione_curricolo",
+      "titolo": "Indicazioni Nazionali 2012 e Nuovi Scenari 2018",
+      "tipo": "Decreto Ministeriale + Documento",
+      "anno": 2012,
+      "riferimento": "DM 16 novembre 2012 n. 254 — Documento Nuovi Scenari 2018",
+      "target": [
+        "docenti"
+      ],
+      "sintesi_breve": "Definiscono il curricolo obbligatorio per la scuola dell'infanzia e il primo ciclo, con le competenze chiave europee aggiornate nel 2018.",
+      "sintesi_docenti": "Le Indicazioni Nazionali 2012 definiscono i traguardi di competenza e gli obiettivi di apprendimento per la scuola dell'infanzia e il I ciclo. Il documento 'Nuovi Scenari' del 2018 le integra alla luce della Raccomandazione europea sulle Competenze Chiave per l'Apprendimento Permanente (2018). Le scuole costruiscono il curricolo verticale integrando Indicazioni Nazionali e competenze di cittadinanza. Per il II ciclo si applicano i Profili e le Linee Guida degli istituti tecnici e professionali.",
+      "sintesi_studenti": "Le Indicazioni Nazionali dicono cosa devi imparare in ogni materia durante la scuola primaria e media. Elencano le competenze e gli obiettivi per ogni disciplina.",
+      "articoli_chiave": [
+        {
+          "numero": "Sezione — Finalità",
+          "testo": "La scuola nel nuovo scenario: la scuola è luogo in cui il presente è elaborato e il futuro viene immaginato. Le finalità della scuola devono essere definite a partire dalla persona che apprende, con l'originalità del suo percorso individuale."
+        },
+        {
+          "numero": "Sezione — Competenze chiave",
+          "testo": "Le competenze chiave sono quelle di cui tutti hanno bisogno per la realizzazione e lo sviluppo personali, la cittadinanza attiva, l'inclusione sociale e l'occupazione. Esse vengono acquisite attraverso un processo di apprendimento permanente."
+        }
+      ],
+      "parole_chiave": [
+        "indicazioni nazionali",
+        "curricolo verticale",
+        "competenze chiave",
+        "traguardi di competenza",
+        "obiettivi di apprendimento",
+        "I ciclo",
+        "cittadinanza"
+      ],
+      "quiz": [
+        {
+          "domanda": "A quale ciclo si applicano le Indicazioni Nazionali 2012?",
+          "opzioni": [
+            "Solo alla scuola primaria",
+            "Solo alla scuola secondaria di I grado",
+            "Scuola dell'infanzia e I ciclo",
+            "All'intero sistema scolastico"
+          ],
+          "risposta": "Scuola dell'infanzia e I ciclo",
+          "spiegazione": "Le Indicazioni Nazionali 2012 riguardano la scuola dell'infanzia, la scuola primaria e la scuola secondaria di I grado."
+        },
+        {
+          "domanda": "Cosa sono i 'traguardi di competenza' nelle Indicazioni Nazionali?",
+          "opzioni": [
+            "I voti minimi per essere promossi",
+            "Risultati attesi al termine di un ciclo scolastico per ciascuna disciplina",
+            "Gli obiettivi delle singole lezioni",
+            "I criteri di valutazione del comportamento"
+          ],
+          "risposta": "Risultati attesi al termine di un ciclo scolastico per ciascuna disciplina",
+          "spiegazione": "I traguardi di competenza indicano cosa lo studente dovrebbe saper fare al termine di un periodo di scolarizzazione in ciascuna disciplina."
+        },
+        {
+          "domanda": "Il documento 'Nuovi Scenari' del 2018 integra le Indicazioni in relazione a:",
+          "opzioni": [
+            "Le nuove materie STEM",
+            "La Raccomandazione europea sulle Competenze Chiave 2018",
+            "Il PNRR scolastico",
+            "La riforma degli esami di Stato"
+          ],
+          "risposta": "La Raccomandazione europea sulle Competenze Chiave 2018",
+          "spiegazione": "'Nuovi Scenari' aggiorna le Indicazioni Nazionali alla luce della Raccomandazione del Consiglio europeo del 22 maggio 2018 sulle Competenze Chiave per l'Apprendimento Permanente."
+        }
+      ]
+    },
+    {
+      "id": "norma_013",
+      "area": "organi_collegiali",
+      "titolo": "D.Lgs 297/1994 — Testo Unico della scuola",
+      "tipo": "Decreto Legislativo",
+      "anno": 1994,
+      "riferimento": "D.Lgs 16 aprile 1994 n. 297",
+      "target": [
+        "docenti",
+        "studenti"
+      ],
+      "sintesi_breve": "Testo Unico sull'istruzione: disciplina gli organi collegiali, il Consiglio di Istituto, il Collegio dei Docenti e i Consigli di Classe.",
+      "sintesi_docenti": "Il D.Lgs 297/1994 è il Testo Unico sull'istruzione. Disciplina gli organi collegiali: Consiglio di Istituto (indirizzo generale, gestione finanziaria), Giunta Esecutiva, Collegio dei Docenti (didattica, valutazione, PTOF), Consiglio di Classe/Interclasse/Intersezione, Consiglio di Circolo. Regola anche i diritti degli studenti, i regolamenti disciplinari e i ricorsi.",
+      "sintesi_studenti": "Il Testo Unico spiega come è organizzata la scuola. Il Consiglio di Istituto gestisce i soldi e l'organizzazione generale. Il Collegio dei Docenti decide le cose didattiche. Il Consiglio di Classe è formato dai tuoi professori e dai rappresentanti di genitori e studenti.",
+      "articoli_chiave": [
+        {
+          "numero": "Art. 7",
+          "testo": "Il collegio dei docenti è composto dal personale insegnante di ruolo e non di ruolo in servizio nel circolo o nell'istituto ed è presieduto dal direttore didattico o dal preside. Il collegio dei docenti delibera il piano dell'offerta formativa."
+        },
+        {
+          "numero": "Art. 8",
+          "testo": "Il consiglio di classe è composto dai docenti di ogni singola classe e, per ciascuna delle classi, da due rappresentanti dei genitori. Nelle scuole secondarie di secondo grado fa parte del consiglio di classe anche una rappresentanza degli studenti."
+        },
+        {
+          "numero": "Art. 10",
+          "testo": "Il consiglio di circolo o di istituto elabora e adotta gli indirizzi generali per le attività della scuola e le scelte generali di gestione e di amministrazione."
+        }
+      ],
+      "parole_chiave": [
+        "organi collegiali",
+        "Consiglio di Istituto",
+        "Collegio dei Docenti",
+        "Consiglio di Classe",
+        "rappresentanti",
+        "Giunta Esecutiva",
+        "D.Lgs 297"
+      ],
+      "quiz": [
+        {
+          "domanda": "Chi presiede il Collegio dei Docenti?",
+          "opzioni": [
+            "Il docente più anziano",
+            "Un docente eletto dai colleghi",
+            "Il Dirigente Scolastico",
+            "Il rappresentante del MIUR"
+          ],
+          "risposta": "Il Dirigente Scolastico",
+          "spiegazione": "Il Collegio dei Docenti è presieduto dal Dirigente Scolastico (ex preside/direttore didattico)."
+        },
+        {
+          "domanda": "Nelle scuole secondarie di II grado, chi fa parte del Consiglio di Classe oltre ai docenti?",
+          "opzioni": [
+            "Solo i genitori",
+            "Solo gli studenti",
+            "Genitori e rappresentanti degli studenti",
+            "Genitori, studenti e personale ATA"
+          ],
+          "risposta": "Genitori e rappresentanti degli studenti",
+          "spiegazione": "Nelle scuole secondarie di II grado il Consiglio di Classe include docenti, due rappresentanti dei genitori e due rappresentanti degli studenti."
+        },
+        {
+          "domanda": "Quale organo delibera il PTOF?",
+          "opzioni": [
+            "Il Consiglio di Istituto",
+            "Il Collegio dei Docenti",
+            "La Giunta Esecutiva",
+            "Il Dirigente Scolastico"
+          ],
+          "risposta": "Il Collegio dei Docenti",
+          "spiegazione": "Il Collegio dei Docenti elabora il PTOF, che viene poi approvato dal Consiglio di Istituto."
+        }
+      ]
+    },
+    {
+      "id": "norma_014",
+      "area": "organi_collegiali",
+      "titolo": "DPR 249/1998 — Statuto delle Studentesse e degli Studenti",
+      "tipo": "Decreto del Presidente della Repubblica",
+      "anno": 1998,
+      "riferimento": "DPR 24 giugno 1998 n. 249 (mod. DPR 235/2007)",
+      "target": [
+        "docenti",
+        "studenti"
+      ],
+      "sintesi_breve": "Definisce i diritti e i doveri degli studenti: diritto all'informazione, alla partecipazione, al rispetto, e il sistema disciplinare.",
+      "sintesi_docenti": "Lo Statuto delle Studentesse e degli Studenti definisce diritti (art. 2: informazione, partecipazione, riservatezza) e doveri (art. 3: frequenza, rispetto, comportamento responsabile). Disciplina il sistema sanzionatorio (art. 4): sanzioni proporzionate, allontanamento dalla comunità scolastica, organo di garanzia. Il DPR 235/2007 introduce il Patto Educativo di Corresponsabilità tra scuola e famiglia.",
+      "sintesi_studenti": "Lo Statuto degli Studenti dice che hai diritti a scuola: essere rispettato, avere informazioni, partecipare. Ma hai anche doveri: frequentare, comportarti bene, rispettare compagni e professori. Le punizioni devono essere proporzionate a quello che hai fatto.",
+      "articoli_chiave": [
+        {
+          "numero": "Art. 2 — Diritti",
+          "testo": "Lo studente ha diritto ad una formazione culturale e professionale qualificata che rispetti e valorizzi l'identità di ciascuno e sia aperta alla pluralità delle idee. La scuola persegue la continuità dell'apprendimento e valorizza le inclinazioni personali degli studenti."
+        },
+        {
+          "numero": "Art. 3 — Doveri",
+          "testo": "Gli studenti sono tenuti a frequentare regolarmente i corsi e ad assolvere assiduamente gli impegni di studio, a mantenere un comportamento corretto e a rispettare il personale della scuola."
+        },
+        {
+          "numero": "Art. 4 — Disciplina",
+          "testo": "I provvedimenti disciplinari hanno finalità educativa e tendono al rafforzamento del senso di responsabilità ed al ripristino di rapporti corretti all'interno della comunità scolastica."
+        }
+      ],
+      "parole_chiave": [
+        "statuto studenti",
+        "diritti studenti",
+        "doveri studenti",
+        "sanzioni disciplinari",
+        "patto educativo",
+        "organo di garanzia",
+        "allontanamento"
+      ],
+      "quiz": [
+        {
+          "domanda": "Quale decreto ha introdotto il Patto Educativo di Corresponsabilità?",
+          "opzioni": [
+            "DPR 249/1998",
+            "DPR 235/2007",
+            "L. 107/2015",
+            "D.Lgs 297/1994"
+          ],
+          "risposta": "DPR 235/2007",
+          "spiegazione": "Il DPR 235/2007 ha modificato lo Statuto introducendo il Patto Educativo di Corresponsabilità tra scuola e famiglia."
+        },
+        {
+          "domanda": "Quale deve essere la finalità principale dei provvedimenti disciplinari secondo l'art. 4?",
+          "opzioni": [
+            "Punire esemplarmente",
+            "Comunicare alla famiglia",
+            "Avere finalità educativa",
+            "Escludere lo studente"
+          ],
+          "risposta": "Avere finalità educativa",
+          "spiegazione": "L'art. 4 stabilisce che i provvedimenti disciplinari hanno finalità educativa e tendono al rafforzamento del senso di responsabilità."
+        },
+        {
+          "domanda": "Quale diritto è sancito dall'art. 2 dello Statuto degli Studenti?",
+          "opzioni": [
+            "Il diritto di non fare compiti",
+            "Il diritto a una formazione culturale qualificata",
+            "Il diritto di scegliere i propri professori",
+            "Il diritto di assentarsi senza giustifica"
+          ],
+          "risposta": "Il diritto a una formazione culturale qualificata",
+          "spiegazione": "L'art. 2 riconosce allo studente il diritto a una formazione culturale e professionale qualificata che rispetti la sua identità."
+        }
+      ]
+    },
+    {
+      "id": "norma_015",
+      "area": "privacy_digitale",
+      "titolo": "GDPR — Regolamento UE 2016/679",
+      "tipo": "Regolamento Europeo",
+      "anno": 2018,
+      "riferimento": "Regolamento UE 2016/679 (applicabile dal 25/5/2018)",
+      "target": [
+        "docenti",
+        "studenti"
+      ],
+      "sintesi_breve": "Regola il trattamento dei dati personali in tutta l'UE: principi di liceità, minimizzazione, consenso e diritti degli interessati.",
+      "sintesi_docenti": "Il GDPR si applica integralmente alle scuole. I principi chiave sono: liceità, correttezza, trasparenza; limitazione delle finalità; minimizzazione dei dati; esattezza; limitazione della conservazione; integrità e riservatezza. Le scuole devono nominare il DPO (Data Protection Officer), aggiornare il Registro dei trattamenti, gestire i consensi (in particolare per foto/video di minori) e garantire i diritti degli interessati (accesso, rettifica, cancellazione).",
+      "sintesi_studenti": "Il GDPR protegge i tuoi dati personali. La scuola non può pubblicare tue foto o usare i tuoi dati senza il consenso dei tuoi genitori. Hai il diritto di sapere quali dati vengono raccolti su di te e di chiederne la cancellazione.",
+      "articoli_chiave": [
+        {
+          "numero": "Art. 5 — Principi",
+          "testo": "I dati personali sono trattati in modo lecito, corretto e trasparente nei confronti dell'interessato; raccolti per finalità determinate, esplicite e legittime; adeguati, pertinenti e limitati a quanto necessario rispetto alle finalità."
+        },
+        {
+          "numero": "Art. 6 — Liceità",
+          "testo": "Il trattamento è lecito se l'interessato ha espresso il consenso al trattamento dei propri dati personali per una o più specifiche finalità, oppure se è necessario all'esecuzione di un contratto, oppure per adempiere un obbligo legale."
+        },
+        {
+          "numero": "Art. 17 — Diritto alla cancellazione",
+          "testo": "L'interessato ha il diritto di ottenere dal titolare del trattamento la cancellazione dei dati personali che lo riguardano senza ingiustificato ritardo."
+        }
+      ],
+      "parole_chiave": [
+        "GDPR",
+        "dati personali",
+        "consenso",
+        "DPO",
+        "registro trattamenti",
+        "minimizzazione",
+        "diritto cancellazione",
+        "privacy minori"
+      ],
+      "quiz": [
+        {
+          "domanda": "Cosa significa la sigla DPO?",
+          "opzioni": [
+            "Direttore della Protezione Online",
+            "Data Protection Officer (Responsabile della protezione dei dati)",
+            "Documento di Protezione Organizzativa",
+            "Delegato per la Privacy Operativa"
+          ],
+          "risposta": "Data Protection Officer (Responsabile della protezione dei dati)",
+          "spiegazione": "Il DPO è la figura obbligatoria nelle scuole che supervisiona il rispetto del GDPR e fa da punto di contatto con l'autorità di controllo."
+        },
+        {
+          "domanda": "Dal quando è applicabile il GDPR?",
+          "opzioni": [
+            "25 maggio 2016",
+            "25 maggio 2018",
+            "1 gennaio 2019",
+            "25 maggio 2020"
+          ],
+          "risposta": "25 maggio 2018",
+          "spiegazione": "Il Regolamento UE 2016/679 (GDPR) è applicabile dal 25 maggio 2018 in tutti gli Stati membri dell'UE."
+        },
+        {
+          "domanda": "Quale principio del GDPR impone di raccogliere solo i dati strettamente necessari?",
+          "opzioni": [
+            "Principio di liceità",
+            "Principio di minimizzazione",
+            "Principio di esattezza",
+            "Principio di trasparenza"
+          ],
+          "risposta": "Principio di minimizzazione",
+          "spiegazione": "Il principio di minimizzazione (art. 5 c) impone che i dati siano adeguati, pertinenti e limitati a quanto necessario rispetto alle finalità del trattamento."
+        }
+      ]
+    },
+    {
+      "id": "norma_016",
+      "area": "privacy_digitale",
+      "titolo": "Piano Nazionale Scuola Digitale (PNSD)",
+      "tipo": "Piano Ministeriale",
+      "anno": 2015,
+      "riferimento": "MIUR — Decreto 27 ottobre 2015 n. 851",
+      "target": [
+        "docenti",
+        "studenti"
+      ],
+      "sintesi_breve": "Definisce la strategia per l'innovazione digitale della scuola italiana: infrastrutture, competenze digitali, contenuti e formazione docenti.",
+      "sintesi_docenti": "Il PNSD si articola in 4 ambiti: strumenti (connettività, LIM, laboratori), competenze e contenuti (coding, pensiero computazionale), formazione (Animatore Digitale, Team Digitale), accompagnamento. Ogni scuola nomina un Animatore Digitale (docente con 75 ore annue di riduzione) e un Team per l'Innovazione Digitale. Il PNSD è integrato nel PTOF. Il PNRR (2021) ha potenziato gli investimenti digitali nelle scuole.",
+      "sintesi_studenti": "Il PNSD è il piano del governo per portare la tecnologia nelle scuole. Significa più computer, connessione internet veloce, imparare a programmare e usare strumenti digitali in modo sicuro e responsabile.",
+      "articoli_chiave": [
+        {
+          "numero": "Azione #17 — Animatore Digitale",
+          "testo": "In ogni scuola è prevista la figura dell'Animatore Digitale, un docente che collabora con il Dirigente Scolastico e con il DSGA per formare il personale scolastico, coinvolgere la comunità scolastica e stimolare la partecipazione e la cultura digitale nella comunità."
+        },
+        {
+          "numero": "Azione #28 — Programmazione",
+          "testo": "Nell'ambito del curricolo scolastico è previsto lo sviluppo del pensiero computazionale e della programmazione (coding) come competenza trasversale per tutti gli studenti."
+        }
+      ],
+      "parole_chiave": [
+        "PNSD",
+        "Animatore Digitale",
+        "Team Digitale",
+        "coding",
+        "pensiero computazionale",
+        "LIM",
+        "competenze digitali",
+        "PNRR scuola"
+      ],
+      "quiz": [
+        {
+          "domanda": "Quante ore annue di riduzione dell'orario ha l'Animatore Digitale?",
+          "opzioni": [
+            "40 ore",
+            "50 ore",
+            "75 ore",
+            "100 ore"
+          ],
+          "risposta": "75 ore",
+          "spiegazione": "L'Animatore Digitale ha diritto a 75 ore annue di riduzione dell'orario di insegnamento per svolgere le sue funzioni."
+        },
+        {
+          "domanda": "In quale anno è stato emanato il PNSD?",
+          "opzioni": [
+            "2012",
+            "2015",
+            "2017",
+            "2019"
+          ],
+          "risposta": "2015",
+          "spiegazione": "Il Piano Nazionale Scuola Digitale è stato adottato con decreto ministeriale del 27 ottobre 2015."
+        },
+        {
+          "domanda": "Il PNSD deve essere integrato in quale documento scolastico?",
+          "opzioni": [
+            "Nel regolamento d'istituto",
+            "Nel PTOF",
+            "Nel registro di classe",
+            "Nella relazione finale del docente"
+          ],
+          "risposta": "Nel PTOF",
+          "spiegazione": "Le azioni del PNSD devono essere integrate nel Piano Triennale dell'Offerta Formativa (PTOF) della scuola."
+        }
+      ]
+    },
+    {
+      "id": "norma_017",
+      "area": "contratto_personale",
+      "titolo": "CCNL Istruzione e Ricerca 2019-2021",
+      "tipo": "Contratto Collettivo Nazionale",
+      "anno": 2022,
+      "riferimento": "CCNL Istruzione e Ricerca 2019-2021 (firmato 18/01/2024)",
+      "target": [
+        "docenti"
+      ],
+      "sintesi_breve": "Regola il rapporto di lavoro del personale scolastico: orari, ferie, permessi, doveri funzionali e trattamento economico.",
+      "sintesi_docenti": "Il CCNL definisce l'orario di lavoro dei docenti: 18 ore settimanali di insegnamento (cattedra), più le attività funzionali (riunioni collegiali, ricevimento genitori, scrutini). Le ore funzionali non possono superare 40 ore annue per riunioni e 40 per ricevimento. Prevede il diritto a ferie (30 giorni + festività), permessi retribuiti (lutto, matrimonio, malattia) e assenze per formazione. Il personale ATA ha orario di 36 ore settimanali.",
+      "sintesi_studenti": "Il contratto dei professori stabilisce quante ore insegnano (18 a settimana), quando fanno le riunioni con i genitori e quali diritti hanno come lavoratori.",
+      "articoli_chiave": [
+        {
+          "numero": "Art. 29 — Orario docenti",
+          "testo": "L'orario di insegnamento dei docenti di scuola secondaria è di 18 ore settimanali. L'attività di insegnamento si svolge in non meno di cinque giorni settimanali, salvo specifiche esigenze organizzative."
+        },
+        {
+          "numero": "Art. 29 — Attività funzionali",
+          "testo": "Le attività funzionali all'insegnamento sono costituite da ogni impegno inerente alla funzione docente previsto dai diversi ordinamenti scolastici. Esse comprendono le attività collegiali riguardanti tutti i docenti e le attività individuali."
+        },
+        {
+          "numero": "Art. 34 — Ferie",
+          "testo": "I docenti hanno diritto a 30 giorni di ferie nel corso dell'anno scolastico, fruibili nel periodo estivo, nelle vacanze natalizie e pasquali."
+        }
+      ],
+      "parole_chiave": [
+        "CCNL",
+        "orario docenti",
+        "18 ore",
+        "attività funzionali",
+        "ferie",
+        "permessi",
+        "ATA",
+        "contratto lavoro scuola"
+      ],
+      "quiz": [
+        {
+          "domanda": "Quante ore settimanali di insegnamento hanno i docenti di scuola secondaria?",
+          "opzioni": [
+            "15 ore",
+            "18 ore",
+            "20 ore",
+            "24 ore"
+          ],
+          "risposta": "18 ore",
+          "spiegazione": "Il CCNL stabilisce 18 ore settimanali di insegnamento per i docenti di scuola secondaria."
+        },
+        {
+          "domanda": "Quante ore annue di attività collegiali sono previste dal CCNL?",
+          "opzioni": [
+            "20 ore",
+            "30 ore",
+            "40 ore",
+            "60 ore"
+          ],
+          "risposta": "40 ore",
+          "spiegazione": "Il CCNL prevede fino a 40 ore annue per le attività collegiali (Collegio Docenti, Consigli di Classe, ecc.)."
+        },
+        {
+          "domanda": "A quanti giorni di ferie hanno diritto i docenti?",
+          "opzioni": [
+            "15 giorni",
+            "20 giorni",
+            "30 giorni",
+            "45 giorni"
+          ],
+          "risposta": "30 giorni",
+          "spiegazione": "Il CCNL prevede 30 giorni di ferie per i docenti, oltre alle festività scolastiche nazionali e locali."
+        }
+      ]
+    },
+    {
+      "id": "norma_018",
+      "area": "contratto_personale",
+      "titolo": "D.Lgs 165/2001 — Norme generali sull'ordinamento del lavoro pubblico",
+      "tipo": "Decreto Legislativo",
+      "anno": 2001,
+      "riferimento": "D.Lgs 30 marzo 2001 n. 165",
+      "target": [
+        "docenti"
+      ],
+      "sintesi_breve": "Disciplina il rapporto di lavoro alle dipendenze delle pubbliche amministrazioni, incluse le scuole statali.",
+      "sintesi_docenti": "Il D.Lgs 165/2001 è la norma generale sul pubblico impiego. Stabilisce la distinzione tra atti di indirizzo politico-amministrativo (organi di governo) e atti gestionali (dirigenti). Nella scuola, il Dirigente Scolastico è il datore di lavoro per i rapporti individuali. Regola le assunzioni, la mobilità, i procedimenti disciplinari e le incompatibilità. Il personale scolastico è soggetto al codice di comportamento dei dipendenti pubblici (DPR 62/2013).",
+      "sintesi_studenti": "Questo decreto stabilisce le regole generali per chi lavora nelle scuole statali e nella pubblica amministrazione in generale.",
+      "articoli_chiave": [
+        {
+          "numero": "Art. 1",
+          "testo": "Le disposizioni del presente decreto disciplinano l'organizzazione degli uffici e i rapporti di lavoro e di impiego alle dipendenze delle amministrazioni pubbliche, tenuto conto delle autonomie locali e di quelle delle regioni e delle province autonome."
+        },
+        {
+          "numero": "Art. 25",
+          "testo": "Il dirigente scolastico assicura la gestione unitaria dell'istituzione, ne ha la legale rappresentanza, è responsabile della gestione delle risorse finanziarie e strumentali e dei risultati del servizio."
+        }
+      ],
+      "parole_chiave": [
+        "pubblico impiego",
+        "dirigente scolastico",
+        "datore di lavoro",
+        "codice di comportamento",
+        "procedimento disciplinare",
+        "incompatibilità",
+        "mobilità"
+      ],
+      "quiz": [
+        {
+          "domanda": "Chi è il datore di lavoro dei docenti nella scuola statale?",
+          "opzioni": [
+            "Il Ministero dell'Istruzione",
+            "Il Dirigente Scolastico",
+            "Il Consiglio di Istituto",
+            "L'USR (Ufficio Scolastico Regionale)"
+          ],
+          "risposta": "Il Dirigente Scolastico",
+          "spiegazione": "Il Dirigente Scolastico, ai sensi del D.Lgs 165/2001, è il datore di lavoro per i rapporti individuali di lavoro del personale scolastico."
+        },
+        {
+          "domanda": "Il codice di comportamento dei dipendenti pubblici è contenuto in quale decreto?",
+          "opzioni": [
+            "DPR 249/1998",
+            "DPR 62/2013",
+            "D.Lgs 165/2001",
+            "CCNL 2019-2021"
+          ],
+          "risposta": "DPR 62/2013",
+          "spiegazione": "Il DPR 62/2013 contiene il Codice di comportamento dei dipendenti pubblici, applicabile anche al personale scolastico."
+        },
+        {
+          "domanda": "Di cosa risponde il Dirigente Scolastico secondo l'art. 25?",
+          "opzioni": [
+            "Solo dei risultati didattici",
+            "Solo della gestione finanziaria",
+            "Della gestione delle risorse e dei risultati del servizio",
+            "Solo del personale docente"
+          ],
+          "risposta": "Della gestione delle risorse e dei risultati del servizio",
+          "spiegazione": "L'art. 25 attribuisce al DS la responsabilità della gestione delle risorse finanziarie, strumentali e dei risultati del servizio."
+        }
+      ]
+    }
+  ]
+}
