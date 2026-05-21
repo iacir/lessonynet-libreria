@@ -1,0 +1,2789 @@
+{
+  "meta": {
+    "fonte": "LessonyNet — Libreria Didattica Unificata",
+    "note": "Documento orientativo. Non sostituisce i testi normativi ufficiali né la formazione specialistica.",
+    "versione": "1.0",
+    "aggiornamento": "Maggio 2026",
+    "autore": "LessonyNet — lessonynet.it",
+    "contiene": [
+      "Legislazione scolastica italiana (18 norme)",
+      "Metodologie didattiche e inclusive (16 metodologie)"
+    ],
+    "totale_quiz": 102
+  },
+  "sezioni": {
+    "Legislazione Scolastica": {
+      "descrizione": "Principali norme del sistema scolastico italiano: diritti, inclusione, valutazione, organi collegiali, privacy.",
+      "icona": "⚖️",
+      "aree": {
+        "Ordinamento Generale": {
+          "descrizione": "Costituzione, autonomia scolastica, riforma della Buona Scuola",
+          "norme": {
+            "norma_001": {
+              "titolo": "Costituzione della Repubblica Italiana — Artt. 33-34",
+              "tipo": "Costituzione",
+              "anno": 1948,
+              "riferimento": "Artt. 33-34 Cost.",
+              "target": [
+                "docenti",
+                "studenti"
+              ],
+              "sintesi_breve": "Garantisce la libertà di insegnamento, il diritto allo studio e l'obbligo scolastico fino ai 16 anni.",
+              "sintesi_docenti": "L'art. 33 sancisce la libertà di insegnamento e il diritto di enti e privati di istituire scuole. L'art. 34 afferma che la scuola è aperta a tutti, che l'istruzione inferiore è obbligatoria e gratuita e che i capaci e meritevoli, anche se privi di mezzi, hanno diritto di raggiungere i gradi più alti degli studi.",
+              "sintesi_studenti": "La Costituzione dice che tutti hanno diritto di andare a scuola. La scuola dell'obbligo è gratuita. Chi è bravo ma non ha soldi può ricevere aiuto per continuare a studiare.",
+              "obiettivi": [
+                "Art. 33 — L'arte e la scienza sono libere e libero ne è l'insegnamento. La Repubblica detta le norme generali sull'istruzione ed istituisce scuole statali per tutti gli ordini e gradi.",
+                "Art. 34 — La scuola è aperta a tutti. L'istruzione inferiore, impartita per almeno otto anni, è obbligatoria e gratuita. I capaci e meritevoli, anche se privi di mezzi, hanno diritto di raggiungere i gradi più alti degli studi."
+              ],
+              "contenuti": [
+                "libertà di insegnamento",
+                "diritto allo studio",
+                "obbligo scolastico",
+                "gratuità",
+                "merito"
+              ],
+              "competenze": [],
+              "quiz": [
+                {
+                  "domanda": "Quanti anni dura almeno l'istruzione obbligatoria secondo la Costituzione?",
+                  "opzioni": [
+                    "6 anni",
+                    "8 anni",
+                    "10 anni",
+                    "12 anni"
+                  ],
+                  "risposta": "8 anni",
+                  "spiegazione": "L'art. 34 stabilisce che l'istruzione inferiore, obbligatoria e gratuita, dura almeno 8 anni."
+                },
+                {
+                  "domanda": "Cosa garantisce l'art. 33 della Costituzione?",
+                  "opzioni": [
+                    "Il diritto al voto",
+                    "La libertà di insegnamento",
+                    "Il diritto al lavoro",
+                    "La libertà di stampa"
+                  ],
+                  "risposta": "La libertà di insegnamento",
+                  "spiegazione": "L'art. 33 tutela la libertà di insegnamento e il pluralismo scolastico."
+                },
+                {
+                  "domanda": "Chi ha diritto di raggiungere i gradi più alti degli studi secondo l'art. 34?",
+                  "opzioni": [
+                    "Solo i ricchi",
+                    "Solo chi ha genitori laureati",
+                    "I capaci e meritevoli anche senza mezzi",
+                    "Tutti senza eccezioni"
+                  ],
+                  "risposta": "I capaci e meritevoli anche senza mezzi",
+                  "spiegazione": "L'art. 34 prevede borse di studio e assegni per i meritevoli privi di mezzi economici."
+                }
+              ]
+            },
+            "norma_002": {
+              "titolo": "Legge 59/1997 e DPR 275/1999 — Autonomia Scolastica",
+              "tipo": "Legge + Regolamento",
+              "anno": 1999,
+              "riferimento": "L. 59/1997 art. 21 — DPR 275/1999",
+              "target": [
+                "docenti",
+                "studenti"
+              ],
+              "sintesi_breve": "Introduce l'autonomia didattica, organizzativa e di ricerca delle istituzioni scolastiche e il Piano dell'Offerta Formativa (POF/PTOF).",
+              "sintesi_docenti": "Il DPR 275/1999 attribuisce alle scuole autonomia didattica (libertà di scelta metodologica), organizzativa (orari, moduli) e di ricerca e sperimentazione. Ogni scuola elabora il Piano dell'Offerta Formativa (POF), oggi PTOF, che definisce l'identità culturale e progettuale dell'istituto.",
+              "sintesi_studenti": "Ogni scuola può organizzarsi in modo diverso, scegliere attività e progetti speciali. Il PTOF è il 'programma' della scuola che spiega cosa si studia e come.",
+              "obiettivi": [
+                "Art. 3 DPR 275/1999 — Ogni istituzione scolastica predispone il Piano dell'offerta formativa. Il piano è il documento fondamentale costitutivo dell'identità culturale e progettuale delle istituzioni scolastiche.",
+                "Art. 4 DPR 275/1999 — Le istituzioni scolastiche, nel rispetto della libertà di insegnamento, della libertà di scelta educativa delle famiglie e delle finalità generali del sistema, concretizzano gli obiettivi nazionali in percorsi formativi funzionali alla realizzazione del diritto ad apprendere."
+              ],
+              "contenuti": [
+                "autonomia scolastica",
+                "PTOF",
+                "POF",
+                "piano offerta formativa",
+                "autonomia didattica",
+                "autonomia organizzativa"
+              ],
+              "competenze": [],
+              "quiz": [
+                {
+                  "domanda": "Cosa significa la sigla PTOF?",
+                  "opzioni": [
+                    "Piano Triennale dell'Offerta Formativa",
+                    "Programma Tecnico di Organizzazione Funzionale",
+                    "Piano Territoriale di Offerta Formativa",
+                    "Progetto Triennale di Organizzazione Formativa"
+                  ],
+                  "risposta": "Piano Triennale dell'Offerta Formativa",
+                  "spiegazione": "Il PTOF è il documento programmatico triennale che ogni scuola elabora per definire la propria identità e offerta educativa."
+                },
+                {
+                  "domanda": "Quale decreto regola l'autonomia scolastica?",
+                  "opzioni": [
+                    "DPR 122/2009",
+                    "DPR 275/1999",
+                    "D.Lgs 297/1994",
+                    "L. 107/2015"
+                  ],
+                  "risposta": "DPR 275/1999",
+                  "spiegazione": "Il DPR 275/1999 è il Regolamento sull'autonomia delle istituzioni scolastiche."
+                },
+                {
+                  "domanda": "Quanti anni copre il PTOF?",
+                  "opzioni": [
+                    "1 anno",
+                    "2 anni",
+                    "3 anni",
+                    "5 anni"
+                  ],
+                  "risposta": "3 anni",
+                  "spiegazione": "Il Piano Triennale dell'Offerta Formativa ha durata triennale, con possibilità di revisione annuale."
+                }
+              ]
+            },
+            "norma_003": {
+              "titolo": "Legge 107/2015 — La Buona Scuola",
+              "tipo": "Legge",
+              "anno": 2015,
+              "riferimento": "L. 13 luglio 2015 n. 107",
+              "target": [
+                "docenti",
+                "studenti"
+              ],
+              "sintesi_breve": "Riforma del sistema scolastico: introduce il PTOF triennale, il potenziamento dell'offerta formativa, l'alternanza scuola-lavoro e il Piano Nazionale Scuola Digitale.",
+              "sintesi_docenti": "La L. 107/2015 trasforma il POF in PTOF (triennale), introduce l'organico dell'autonomia e i posti di potenziamento, rende obbligatoria l'alternanza scuola-lavoro (ora PCTO), istituisce il Piano Nazionale Scuola Digitale (PNSD) e la carta del docente (500€/anno per formazione). Rafforza il ruolo del Dirigente Scolastico nella chiamata diretta dei docenti.",
+              "sintesi_studenti": "La Buona Scuola ha cambiato molte cose: ha introdotto i tirocini in azienda per gli studenti delle superiori (alternanza scuola-lavoro), ha portato più tecnologia nelle classi e ha dato ai professori soldi per la loro formazione.",
+              "obiettivi": [
+                "Comma 1 — Le istituzioni scolastiche predispongono il piano triennale dell'offerta formativa, rivedibile annualmente. Il piano è elaborato dal collegio dei docenti sulla base degli indirizzi per le attività della scuola e delle scelte di gestione e di amministrazione definiti dal dirigente scolastico.",
+                "Comma 7 — Le istituzioni scolastiche, nei limiti delle risorse umane, finanziarie e strumentali disponibili e nel rispetto delle priorità indicate nel PTOF, possono individuare il fabbisogno di posti dell'organico dell'autonomia.",
+                "Comma 124 — Nell'ambito degli adempimenti connessi alla funzione docente, la formazione in servizio dei docenti di ruolo è obbligatoria, permanente e strutturale."
+              ],
+              "contenuti": [
+                "PTOF",
+                "organico autonomia",
+                "PCTO",
+                "alternanza scuola-lavoro",
+                "PNSD",
+                "carta del docente",
+                "formazione obbligatoria"
+              ],
+              "competenze": [],
+              "quiz": [
+                {
+                  "domanda": "Cosa ha introdotto la L. 107/2015 per i docenti di ruolo?",
+                  "opzioni": [
+                    "Pensione anticipata",
+                    "Formazione obbligatoria permanente",
+                    "Aumento stipendiale automatico",
+                    "Riduzione orario di lavoro"
+                  ],
+                  "risposta": "Formazione obbligatoria permanente",
+                  "spiegazione": "Il comma 124 stabilisce che la formazione in servizio dei docenti di ruolo è obbligatoria, permanente e strutturale."
+                },
+                {
+                  "domanda": "Come si chiama oggi l'alternanza scuola-lavoro introdotta dalla L. 107/2015?",
+                  "opzioni": [
+                    "Stage aziendale",
+                    "PCTO",
+                    "Tirocinio formativo",
+                    "Pratica professionale"
+                  ],
+                  "risposta": "PCTO",
+                  "spiegazione": "L'alternanza scuola-lavoro è stata rinominata PCTO (Percorsi per le Competenze Trasversali e l'Orientamento) dalla L. 145/2018."
+                },
+                {
+                  "domanda": "Chi elabora il PTOF?",
+                  "opzioni": [
+                    "Il Dirigente Scolastico",
+                    "Il Consiglio d'Istituto",
+                    "Il Collegio dei Docenti",
+                    "Il Ministero dell'Istruzione"
+                  ],
+                  "risposta": "Il Collegio dei Docenti",
+                  "spiegazione": "Il PTOF è elaborato dal Collegio dei Docenti sulla base degli indirizzi del Dirigente Scolastico e approvato dal Consiglio d'Istituto."
+                }
+              ]
+            }
+          }
+        },
+        "Disabilità e Inclusione": {
+          "descrizione": "L. 104/1992, D.Lgs 66/2017, L. 517/1977 — integrazione e inclusione scolastica",
+          "norme": {
+            "norma_004": {
+              "titolo": "Legge 104/1992 — Legge-quadro per l'handicap",
+              "tipo": "Legge",
+              "anno": 1992,
+              "riferimento": "L. 5 febbraio 1992 n. 104",
+              "target": [
+                "docenti",
+                "studenti"
+              ],
+              "sintesi_breve": "Legge fondamentale per i diritti delle persone con disabilità: garantisce l'integrazione scolastica, sociale e lavorativa.",
+              "sintesi_docenti": "La L. 104/1992 è la norma cardine sull'handicap in Italia. Garantisce il diritto all'integrazione scolastica a tutti i livelli (art. 12), prevede l'assegnazione dell'insegnante di sostegno (art. 13), la redazione del PDF (Profilo Dinamico Funzionale) e del PEI (Piano Educativo Individualizzato). L'art. 3 comma 3 riconosce la situazione di gravità. Gli artt. 33-35 regolano i permessi lavorativi per familiari e lavoratori con disabilità.",
+              "sintesi_studenti": "La Legge 104 protegge i diritti delle persone con disabilità. A scuola garantisce il diritto di tutti gli studenti di stare in classe con i compagni e di ricevere un insegnante di sostegno. Prevede anche un piano personalizzato (PEI) per ogni studente con disabilità.",
+              "obiettivi": [
+                "Art. 3 — È persona handicappata colui che presenta una minorazione fisica, psichica o sensoriale, stabilizzata o progressiva, che è causa di difficoltà di apprendimento, di relazione o di integrazione lavorativa tale da determinare un processo di svantaggio sociale o di emarginazione.",
+                "Art. 12 — Al bambino da 0 a 3 anni handicappato è garantito l'inserimento negli asili nido. È garantito il diritto all'educazione e all'istruzione della persona handicappata nelle sezioni di scuola materna, nelle classi comuni delle istituzioni scolastiche di ogni ordine e grado.",
+                "Art. 13 — L'integrazione scolastica della persona handicappata nelle sezioni e nelle classi comuni delle scuole di ogni ordine e grado e nelle università si realizza attraverso la predisposizione di un progetto educativo individualizzato.",
+                "Art. 33 — I genitori o i familiari lavoratori che assistono con continuità un parente o un affine entro il terzo grado portatore di handicap grave hanno diritto a tre giorni di permesso mensile retribuito."
+              ],
+              "contenuti": [
+                "handicap",
+                "disabilità",
+                "integrazione scolastica",
+                "insegnante di sostegno",
+                "PEI",
+                "PDF",
+                "permessi 104",
+                "gravità"
+              ],
+              "competenze": [],
+              "quiz": [
+                {
+                  "domanda": "Quanti giorni di permesso mensile prevede la L. 104 per i familiari che assistono una persona con disabilità grave?",
+                  "opzioni": [
+                    "1 giorno",
+                    "2 giorni",
+                    "3 giorni",
+                    "5 giorni"
+                  ],
+                  "risposta": "3 giorni",
+                  "spiegazione": "L'art. 33 della L. 104/1992 prevede 3 giorni di permesso mensile retribuito per i familiari che assistono una persona con handicap grave."
+                },
+                {
+                  "domanda": "Cosa garantisce l'art. 12 della L. 104/1992?",
+                  "opzioni": [
+                    "Solo l'inserimento in classi speciali",
+                    "Il diritto all'istruzione nelle classi comuni",
+                    "L'esenzione dalle verifiche",
+                    "La riduzione dell'orario scolastico"
+                  ],
+                  "risposta": "Il diritto all'istruzione nelle classi comuni",
+                  "spiegazione": "L'art. 12 garantisce il diritto all'educazione e all'istruzione nelle classi comuni, non in classi separate."
+                },
+                {
+                  "domanda": "Cosa significa la sigla PEI?",
+                  "opzioni": [
+                    "Piano Educativo Integrato",
+                    "Piano Educativo Individualizzato",
+                    "Progetto Educativo Inclusivo",
+                    "Piano di Estensione dell'Integrazione"
+                  ],
+                  "risposta": "Piano Educativo Individualizzato",
+                  "spiegazione": "Il PEI è il documento che descrive gli interventi integrati per lo studente con disabilità, redatto dal GLO."
+                }
+              ]
+            },
+            "norma_005": {
+              "titolo": "D.Lgs 66/2017 — Norme per l'inclusione scolastica",
+              "tipo": "Decreto Legislativo",
+              "anno": 2017,
+              "riferimento": "D.Lgs 13 aprile 2017 n. 66 (modificato da D.Lgs 96/2019)",
+              "target": [
+                "docenti",
+                "studenti"
+              ],
+              "sintesi_breve": "Riforma l'inclusione scolastica: introduce il Profilo di Funzionamento ICF, il nuovo PEI e il GLO (Gruppo di Lavoro Operativo).",
+              "sintesi_docenti": "Il D.Lgs 66/2017, modificato dal D.Lgs 96/2019, riforma organicamente l'inclusione scolastica. Introduce il Profilo di Funzionamento (basato sull'ICF-OMS) in sostituzione di PDF e DF. Il nuovo PEI diventa progetto unico, elaborato dal GLO (Gruppo di Lavoro Operativo per l'inclusione) composto da docenti, genitori, specialisti e, dove possibile, dallo studente. Introduce anche il PEI provvisorio per i nuovi accertamenti.",
+              "sintesi_studenti": "Questo decreto ha migliorato il sistema di supporto agli studenti con disabilità. Ha creato un gruppo (GLO) dove insegnanti, genitori e medici lavorano insieme per fare il piano personalizzato (PEI) dello studente.",
+              "obiettivi": [
+                "Art. 5 — Il Profilo di Funzionamento è redatto dall'unità di valutazione multidisciplinare. Costituisce il documento propedeutico e necessario alla predisposizione del Piano Educativo Individualizzato e del Progetto Individuale.",
+                "Art. 7 — Il Piano Educativo Individualizzato è elaborato e approvato dal Gruppo di Lavoro Operativo per l'inclusione, di cui fa parte il team dei docenti ovvero il consiglio di classe.",
+                "Art. 9 — Il Gruppo di lavoro per l'inclusione (GLI) è composto da docenti curricolari, docenti di sostegno e, eventualmente, da personale ATA nonché da specialisti della Azienda sanitaria locale del territorio."
+              ],
+              "contenuti": [
+                "Profilo di Funzionamento",
+                "ICF",
+                "PEI",
+                "GLO",
+                "GLI",
+                "inclusione",
+                "unità valutazione multidisciplinare",
+                "D.Lgs 96/2019"
+              ],
+              "competenze": [],
+              "quiz": [
+                {
+                  "domanda": "Cosa sostituisce il Profilo di Funzionamento introdotto dal D.Lgs 66/2017?",
+                  "opzioni": [
+                    "Solo il PEI",
+                    "PDF e DF (Diagnosi Funzionale)",
+                    "Il certificato medico",
+                    "Il verbale di accertamento"
+                  ],
+                  "risposta": "PDF e DF (Diagnosi Funzionale)",
+                  "spiegazione": "Il Profilo di Funzionamento, basato sull'ICF, sostituisce la Diagnosi Funzionale (DF) e il Profilo Dinamico Funzionale (PDF)."
+                },
+                {
+                  "domanda": "Cosa significa GLO?",
+                  "opzioni": [
+                    "Gruppo di Lavoro per l'Orientamento",
+                    "Gruppo di Lavoro Operativo per l'inclusione",
+                    "Gestione dei Livelli di Obiettivo",
+                    "Gruppo di Lavoro Organizzativo"
+                  ],
+                  "risposta": "Gruppo di Lavoro Operativo per l'inclusione",
+                  "spiegazione": "Il GLO elabora e approva il PEI ed è composto da docenti, genitori, specialisti ASL e, dove possibile, dallo studente."
+                },
+                {
+                  "domanda": "Su quale classificazione internazionale si basa il nuovo Profilo di Funzionamento?",
+                  "opzioni": [
+                    "DSM-5",
+                    "ICD-10",
+                    "ICF (OMS)",
+                    "CIF pediatrico"
+                  ],
+                  "risposta": "ICF (OMS)",
+                  "spiegazione": "L'ICF (Classificazione Internazionale del Funzionamento) dell'OMS è il framework su cui si basa il Profilo di Funzionamento."
+                }
+              ]
+            },
+            "norma_006": {
+              "titolo": "Legge 517/1977 — Abolizione delle classi differenziali",
+              "tipo": "Legge",
+              "anno": 1977,
+              "riferimento": "L. 4 agosto 1977 n. 517",
+              "target": [
+                "docenti",
+                "studenti"
+              ],
+              "sintesi_breve": "Abolisce le classi differenziali e speciali, sancendo il principio dell'integrazione degli alunni con disabilità nelle classi comuni.",
+              "sintesi_docenti": "La L. 517/1977 rappresenta una svolta storica: abolisce le classi differenziali e speciali e afferma il principio dell'integrazione scolastica. Introduce la figura dell'insegnante specializzato (di sostegno) per le attività di integrazione e la programmazione educativa individualizzata. È il fondamento storico su cui si costruisce tutta la normativa successiva sull'inclusione.",
+              "sintesi_studenti": "Prima di questa legge, i bambini con disabilità venivano messi in classi separate. La Legge 517 del 1977 ha stabilito che tutti gli studenti, compresi quelli con disabilità, devono stare insieme nelle stesse classi.",
+              "obiettivi": [
+                "Art. 2 — Allo scopo di agevolare l'attuazione del diritto allo studio e la piena formazione della personalità degli alunni, la programmazione educativa può comprendere attività scolastiche integrative organizzate per gruppi di alunni della stessa classe oppure di classi diverse.",
+                "Art. 7 — Sono abolite le classi differenziali. Gli alunni che si trovano nelle predette classi sono inseriti, sulla base di una valutazione aggiornata della situazione di ciascuno, nelle classi comuni."
+              ],
+              "contenuti": [
+                "classi differenziali",
+                "integrazione scolastica",
+                "insegnante di sostegno",
+                "abolizione classi speciali",
+                "programmazione individualizzata"
+              ],
+              "competenze": [],
+              "quiz": [
+                {
+                  "domanda": "Cosa ha abolito la Legge 517/1977?",
+                  "opzioni": [
+                    "Le scuole private",
+                    "Le classi differenziali e speciali",
+                    "Il voto in condotta",
+                    "Gli esami di riparazione"
+                  ],
+                  "risposta": "Le classi differenziali e speciali",
+                  "spiegazione": "La L. 517/1977 ha abolito le classi differenziali, sancendo il diritto all'integrazione nelle classi comuni."
+                },
+                {
+                  "domanda": "In quale anno è stata approvata la Legge 517?",
+                  "opzioni": [
+                    "1968",
+                    "1977",
+                    "1992",
+                    "2000"
+                  ],
+                  "risposta": "1977",
+                  "spiegazione": "La L. 517 è del 4 agosto 1977 ed è una delle norme fondanti dell'inclusione scolastica italiana."
+                },
+                {
+                  "domanda": "Quale figura professionale introduce la L. 517/1977 per supportare l'integrazione?",
+                  "opzioni": [
+                    "Il tutor scolastico",
+                    "L'insegnante specializzato (di sostegno)",
+                    "Lo psicologo scolastico",
+                    "Il mediatore culturale"
+                  ],
+                  "risposta": "L'insegnante specializzato (di sostegno)",
+                  "spiegazione": "La L. 517 introduce la figura dell'insegnante specializzato per le attività di integrazione degli alunni con disabilità."
+                }
+              ]
+            }
+          }
+        },
+        "DSA e BES": {
+          "descrizione": "L. 170/2010, Direttiva BES 2012, DM 5669/2011 — disturbi e bisogni speciali",
+          "norme": {
+            "norma_007": {
+              "titolo": "Legge 170/2010 — Disturbi Specifici di Apprendimento",
+              "tipo": "Legge",
+              "anno": 2010,
+              "riferimento": "L. 8 ottobre 2010 n. 170",
+              "target": [
+                "docenti",
+                "studenti"
+              ],
+              "sintesi_breve": "Riconosce dislessia, disgrafia, disortografia e discalculia come disturbi specifici che richiedono misure dispensative e strumenti compensativi.",
+              "sintesi_docenti": "La L. 170/2010 riconosce per la prima volta i DSA (Disturbi Specifici di Apprendimento): dislessia, disgrafia, disortografia e discalculia. Garantisce il diritto a misure dispensative (es. dispensa dalla lettura ad alta voce) e strumenti compensativi (es. calcolatrice, software TTS, mappe concettuali). Prevede la stesura del PDP (Piano Didattico Personalizzato) da parte del Consiglio di Classe. Il DM 5669/2011 e le Linee Guida attuano la legge.",
+              "sintesi_studenti": "La Legge 170 riconosce che alcuni studenti imparano in modo diverso (dislessia, discalculia, ecc.) e non è colpa loro. Ha il diritto di usare strumenti di aiuto (computer, calcolatrice, mappe) e di avere più tempo durante le verifiche.",
+              "obiettivi": [
+                "Art. 1 — La presente legge riconosce la dislessia, la disgrafia, la disortografia e la discalculia quali disturbi specifici di apprendimento, di seguito denominati DSA, che si manifestano in presenza di capacità cognitive adeguate, in assenza di patologie neurologiche e di deficit sensoriali.",
+                "Art. 4 — Le istituzioni scolastiche garantiscono l'uso di una didattica individualizzata e personalizzata, con forme efficaci e flessibili di lavoro scolastico, anche attraverso il coinvolgimento dei servizi socio-sanitari ed educativi del territorio e delle associazioni di settore.",
+                "Art. 5 — Gli studenti con diagnosi di DSA hanno diritto a fruire di appositi provvedimenti dispensativi e compensativi di flessibilità didattica nel corso dei cicli di istruzione e formazione."
+              ],
+              "contenuti": [
+                "DSA",
+                "dislessia",
+                "disgrafia",
+                "disortografia",
+                "discalculia",
+                "PDP",
+                "misure dispensative",
+                "strumenti compensativi",
+                "piano didattico personalizzato"
+              ],
+              "competenze": [],
+              "quiz": [
+                {
+                  "domanda": "Quanti disturbi specifici di apprendimento riconosce la L. 170/2010?",
+                  "opzioni": [
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                  ],
+                  "risposta": "4",
+                  "spiegazione": "La L. 170 riconosce: dislessia, disgrafia, disortografia e discalculia."
+                },
+                {
+                  "domanda": "Cosa significa la sigla PDP?",
+                  "opzioni": [
+                    "Piano di Didattica Potenziata",
+                    "Piano Didattico Personalizzato",
+                    "Progetto Didattico Personalizzato",
+                    "Piano di Didattica Programmata"
+                  ],
+                  "risposta": "Piano Didattico Personalizzato",
+                  "spiegazione": "Il PDP è il documento elaborato dal Consiglio di Classe che definisce gli strumenti compensativi e le misure dispensative per lo studente con DSA."
+                },
+                {
+                  "domanda": "Quale tra queste è una misura dispensativa per studenti DSA?",
+                  "opzioni": [
+                    "Uso della calcolatrice",
+                    "Dispensa dalla lettura ad alta voce",
+                    "Mappe concettuali",
+                    "Software di sintesi vocale"
+                  ],
+                  "risposta": "Dispensa dalla lettura ad alta voce",
+                  "spiegazione": "Le misure dispensative evitano allo studente prestazioni difficoltose. Le altre opzioni (calcolatrice, mappe, sintesi vocale) sono strumenti compensativi."
+                }
+              ]
+            },
+            "norma_008": {
+              "titolo": "Direttiva Ministeriale 27/12/2012 e CM 8/2013 — BES",
+              "tipo": "Direttiva + Circolare",
+              "anno": 2012,
+              "riferimento": "Dir. Min. 27/12/2012 — CM n. 8 del 6/3/2013",
+              "target": [
+                "docenti",
+                "studenti"
+              ],
+              "sintesi_breve": "Introduce la categoria dei Bisogni Educativi Speciali (BES) e il diritto al PDP per tutti gli studenti in difficoltà, anche senza diagnosi clinica.",
+              "sintesi_docenti": "La Direttiva 2012 e la CM 8/2013 ampliano la tutela agli studenti con BES (Bisogni Educativi Speciali), che includono: 1) disabilità certificate (L. 104); 2) DSA (L. 170); 3) svantaggio socioeconomico, linguistico e culturale. Per questi ultimi, il Consiglio di Classe può adottare un PDP anche senza diagnosi, assumendosi la responsabilità pedagogica della decisione. Introduce il PAI (Piano Annuale per l'Inclusività) e rafforza il ruolo del GLI.",
+              "sintesi_studenti": "I BES sono bisogni speciali che alcuni studenti hanno per motivi diversi: disabilità, DSA oppure difficoltà economiche o linguistiche. Anche senza una diagnosi medica, la scuola può fare un piano personalizzato per aiutarti.",
+              "obiettivi": [
+                "Dir. Min. 27/12/2012 — Sezione 1 — Ogni alunno, con continuità o per determinati periodi, può manifestare Bisogni Educativi Speciali: o per motivi fisici, biologici, fisiologici o anche per motivi psicologici, sociali, rispetto ai quali è necessario che le scuole offrano adeguata e personalizzata risposta.",
+                "CM 8/2013 — Punto 1 — Il Consiglio di classe è chiamato ad individuare gli alunni che necessitano di un Piano Didattico Personalizzato, qualora non vi sia certificazione clinica o diagnosi, sulla base di motivate considerazioni pedagogiche e didattiche."
+              ],
+              "contenuti": [
+                "BES",
+                "bisogni educativi speciali",
+                "PAI",
+                "GLI",
+                "svantaggio linguistico",
+                "svantaggio socioeconomico",
+                "PDP senza diagnosi"
+              ],
+              "competenze": [],
+              "quiz": [
+                {
+                  "domanda": "Quante aree include la categoria BES secondo la Direttiva 2012?",
+                  "opzioni": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                  ],
+                  "risposta": "3",
+                  "spiegazione": "Le tre aree BES sono: 1) disabilità certificate; 2) disturbi evolutivi specifici (DSA e altri); 3) svantaggio socioeconomico, linguistico e culturale."
+                },
+                {
+                  "domanda": "Cosa significa la sigla PAI?",
+                  "opzioni": [
+                    "Piano di Apprendimento Individualizzato",
+                    "Piano Annuale per l'Inclusività",
+                    "Progetto di Azione per l'Integrazione",
+                    "Piano di Attività Inclusive"
+                  ],
+                  "risposta": "Piano Annuale per l'Inclusività",
+                  "spiegazione": "Il PAI è elaborato dal GLI e approvato dal Collegio dei Docenti entro giugno di ogni anno."
+                },
+                {
+                  "domanda": "Un CdC può fare un PDP per BES senza diagnosi medica?",
+                  "opzioni": [
+                    "No, serve sempre una diagnosi",
+                    "Sì, sulla base di motivazioni pedagogiche",
+                    "Solo con il consenso del Dirigente",
+                    "Solo per studenti stranieri"
+                  ],
+                  "risposta": "Sì, sulla base di motivazioni pedagogiche",
+                  "spiegazione": "La CM 8/2013 prevede che il CdC possa adottare un PDP sulla base di motivate considerazioni pedagogiche e didattiche, anche senza diagnosi clinica."
+                }
+              ]
+            },
+            "norma_009": {
+              "titolo": "DM 5669/2011 — Linee Guida DSA",
+              "tipo": "Decreto Ministeriale",
+              "anno": 2011,
+              "riferimento": "DM 12 luglio 2011 n. 5669 e Linee Guida allegate",
+              "target": [
+                "docenti"
+              ],
+              "sintesi_breve": "Attua la L. 170/2010 definendo le modalità operative per l'identificazione precoce dei DSA e la gestione didattica.",
+              "sintesi_docenti": "Il DM 5669/2011 e le allegate Linee Guida definiscono: i criteri per l'identificazione precoce dei DSA da parte dei docenti (segnalazione alle famiglie), le modalità di stesura del PDP, gli strumenti compensativi e le misure dispensative specifiche per ogni ordine scolastico, le indicazioni per la valutazione e per gli esami di Stato. I docenti hanno l'obbligo di segnalare tempestivamente agli specialisti gli studenti a rischio DSA.",
+              "sintesi_studenti": "Questo decreto spiega come i professori devono comportarsi con gli studenti che hanno un DSA: come fare il piano personalizzato, quali strumenti possono usare e come vengono valutati nelle verifiche.",
+              "obiettivi": [
+                "Art. 2 — Le istituzioni scolastiche provvedono a segnalare alle famiglie le eventuali evidenze, riscontrate nelle prestazioni quotidiane in classe e nelle verifiche degli apprendimenti, di possibili difficoltà specifiche di apprendimento, al fine di un successivo approfondimento diagnostico.",
+                "Art. 5 — Il PDP è redatto dai docenti con la collaborazione della famiglia e, ove presente, degli specialisti che seguono lo studente. Il documento individua le misure educative e didattiche di supporto, gli strumenti compensativi e le misure dispensative."
+              ],
+              "contenuti": [
+                "linee guida DSA",
+                "identificazione precoce",
+                "segnalazione famiglie",
+                "PDP",
+                "esami di Stato DSA",
+                "valutazione DSA"
+              ],
+              "competenze": [],
+              "quiz": [
+                {
+                  "domanda": "Cosa devono fare i docenti se notano difficoltà compatibili con un DSA?",
+                  "opzioni": [
+                    "Aspettare la diagnosi dello specialista",
+                    "Segnalare tempestivamente alla famiglia",
+                    "Fare autonomamente la diagnosi",
+                    "Ignorare le difficoltà se il voto è sufficiente"
+                  ],
+                  "risposta": "Segnalare tempestivamente alla famiglia",
+                  "spiegazione": "Il DM 5669/2011 obbliga i docenti a segnalare alle famiglie le eventuali difficoltà riscontrate, per consentire un approfondimento diagnostico."
+                },
+                {
+                  "domanda": "Chi collabora alla stesura del PDP?",
+                  "opzioni": [
+                    "Solo i docenti",
+                    "Docenti e dirigente",
+                    "Docenti, famiglia e specialisti",
+                    "Solo lo specialista ASL"
+                  ],
+                  "risposta": "Docenti, famiglia e specialisti",
+                  "spiegazione": "Il PDP è redatto dai docenti con la collaborazione della famiglia e, ove presente, degli specialisti che seguono lo studente."
+                },
+                {
+                  "domanda": "Il DM 5669/2011 attua quale legge?",
+                  "opzioni": [
+                    "L. 104/1992",
+                    "L. 170/2010",
+                    "D.Lgs 66/2017",
+                    "L. 107/2015"
+                  ],
+                  "risposta": "L. 170/2010",
+                  "spiegazione": "Il DM 5669/2011 è il decreto attuativo della Legge 170/2010 sui Disturbi Specifici di Apprendimento."
+                }
+              ]
+            }
+          }
+        },
+        "Valutazione e Curricolo": {
+          "descrizione": "DPR 122/2009, D.Lgs 62/2017, Indicazioni Nazionali 2012",
+          "norme": {
+            "norma_010": {
+              "titolo": "DPR 122/2009 — Regolamento sulla valutazione",
+              "tipo": "Decreto del Presidente della Repubblica",
+              "anno": 2009,
+              "riferimento": "DPR 22 giugno 2009 n. 122",
+              "target": [
+                "docenti",
+                "studenti"
+              ],
+              "sintesi_breve": "Disciplina la valutazione degli apprendimenti: voti decimali, criteri di ammissione, giudizi di comportamento e voto di condotta.",
+              "sintesi_docenti": "Il DPR 122/2009 regola la valutazione in tutti gli ordini scolastici. Introduce i voti in decimi (compreso comportamento), stabilisce i criteri di ammissione alla classe successiva (media 6/10, frequenza 3/4 delle ore) e all'esame. Prevede la valutazione degli alunni con disabilità e DSA in coerenza con il PEI/PDP. La valutazione è di competenza del Consiglio di Classe nella sua collegialità.",
+              "sintesi_studenti": "Il DPR 122 stabilisce le regole per i voti a scuola. Dice che i voti vanno da 1 a 10, che per essere promosso devi avere almeno 6 in tutte le materie e aver frequentato almeno tre quarti delle ore di scuola.",
+              "obiettivi": [
+                "Art. 2 — La valutazione è espressione dell'autonomia professionale propria della funzione docente, nella sua dimensione sia individuale che collegiale, nonché dell'autonomia didattica delle istituzioni scolastiche.",
+                "Art. 4 — Ai fini della validità dell'anno scolastico per la valutazione degli allievi è richiesta la frequenza di almeno tre quarti dell'orario annuale personalizzato.",
+                "Art. 7 — La valutazione del comportamento degli studenti è attribuita collegialmente dal consiglio di classe concorre, unitamente alla valutazione degli apprendimenti, alla valutazione complessiva dello studente."
+              ],
+              "contenuti": [
+                "valutazione",
+                "voti in decimi",
+                "ammissione",
+                "frequenza tre quarti",
+                "voto di condotta",
+                "comportamento",
+                "Consiglio di Classe"
+              ],
+              "competenze": [],
+              "quiz": [
+                {
+                  "domanda": "Quale percentuale minima di frequenza è richiesta per la validità dell'anno scolastico?",
+                  "opzioni": [
+                    "50%",
+                    "66%",
+                    "75%",
+                    "80%"
+                  ],
+                  "risposta": "75%",
+                  "spiegazione": "L'art. 4 del DPR 122/2009 richiede la frequenza di almeno tre quarti (75%) dell'orario annuale personalizzato."
+                },
+                {
+                  "domanda": "Chi attribuisce il voto di comportamento?",
+                  "opzioni": [
+                    "Il solo docente coordinatore",
+                    "Il dirigente scolastico",
+                    "Il Consiglio di Classe collegialmente",
+                    "Il docente con più ore"
+                  ],
+                  "risposta": "Il Consiglio di Classe collegialmente",
+                  "spiegazione": "La valutazione del comportamento è attribuita collegialmente dal Consiglio di Classe."
+                },
+                {
+                  "domanda": "La valutazione degli alunni con disabilità deve essere coerente con:",
+                  "opzioni": [
+                    "I voti della classe",
+                    "Il PEI elaborato per lo studente",
+                    "I programmi ministeriali standard",
+                    "Le indicazioni del dirigente"
+                  ],
+                  "risposta": "Il PEI elaborato per lo studente",
+                  "spiegazione": "Per gli alunni con disabilità la valutazione è effettuata in coerenza con il PEI."
+                }
+              ]
+            },
+            "norma_011": {
+              "titolo": "D.Lgs 62/2017 — Valutazione e Esami di Stato",
+              "tipo": "Decreto Legislativo",
+              "anno": 2017,
+              "riferimento": "D.Lgs 13 aprile 2017 n. 62",
+              "target": [
+                "docenti",
+                "studenti"
+              ],
+              "sintesi_breve": "Riforma la valutazione nella scuola primaria (giudizi descrittivi) e gli Esami di Stato del I e II ciclo.",
+              "sintesi_docenti": "Il D.Lgs 62/2017 riformula la valutazione periodica e finale: nella scuola primaria introduce giudizi descrittivi (poi modificati dall'OM 172/2020 con livelli: In via di prima acquisizione, Base, Intermedio, Avanzato). Riforma l'Esame di Stato del I ciclo (colloquio interdisciplinare, prove INVALSI non determinanti per l'ammissione) e del II ciclo (crediti scolastici, colloquio orale su elaborato). Rende non determinante il voto di comportamento per la non ammissione tranne in caso di voto 5.",
+              "sintesi_studenti": "Questo decreto ha cambiato gli esami di terza media e di maturità. Alla scuola primaria i voti sono stati sostituiti da giudizi descrittivi. All'esame di terza media c'è un colloquio su tutte le materie insieme.",
+              "obiettivi": [
+                "Art. 3 — I docenti della classe deliberano, con voto unanime, la non ammissione alla classe successiva nella scuola primaria nei soli casi eccezionali e comprovati da specifica motivazione.",
+                "Art. 6 — L'esame di Stato conclusivo del primo ciclo di istruzione accerta, in coerenza con il profilo finale dello studente, le competenze acquisite dallo studente al termine del primo ciclo.",
+                "Art. 13 — Il credito scolastico è attribuito dal consiglio di classe ad ogni studente frequentante la seconda o la terza e la quarta e quinta classe degli istituti di istruzione secondaria di secondo grado."
+              ],
+              "contenuti": [
+                "esame di Stato",
+                "credito scolastico",
+                "giudizi descrittivi",
+                "colloquio interdisciplinare",
+                "INVALSI",
+                "ammissione",
+                "D.Lgs 62/2017"
+              ],
+              "competenze": [],
+              "quiz": [
+                {
+                  "domanda": "Nella scuola primaria, dopo l'OM 172/2020, come viene espressa la valutazione?",
+                  "opzioni": [
+                    "Con voti in decimi",
+                    "Con lettere A/B/C/D",
+                    "Con livelli descrittivi (Base, Intermedio, Avanzato)",
+                    "Con giudizi sintetici (Ottimo, Distinto)"
+                  ],
+                  "risposta": "Con livelli descrittivi (Base, Intermedio, Avanzato)",
+                  "spiegazione": "L'OM 172/2020 ha introdotto quattro livelli: In via di prima acquisizione, Base, Intermedio, Avanzato."
+                },
+                {
+                  "domanda": "Cos'è il credito scolastico?",
+                  "opzioni": [
+                    "Un bonus per i comportamenti positivi",
+                    "Un punteggio attribuito negli ultimi tre anni delle superiori per l'esame di maturità",
+                    "Il totale dei voti di fine anno",
+                    "Un riconoscimento per le attività extracurriculari"
+                  ],
+                  "risposta": "Un punteggio attribuito negli ultimi tre anni delle superiori per l'esame di maturità",
+                  "spiegazione": "Il credito scolastico è attribuito dal CdC nelle classi 3a, 4a e 5a della scuola secondaria di II grado e concorre al punteggio dell'esame di Stato."
+                },
+                {
+                  "domanda": "Le prove INVALSI sono determinanti per l'ammissione all'esame di terza media?",
+                  "opzioni": [
+                    "Sì, devono essere superate",
+                    "No, sono requisito di ammissione ma non determinano il voto",
+                    "Sì, valgono 20 punti",
+                    "No, sono facoltative"
+                  ],
+                  "risposta": "No, sono requisito di ammissione ma non determinano il voto",
+                  "spiegazione": "Lo svolgimento delle prove INVALSI è requisito per l'ammissione all'esame del I ciclo, ma il loro risultato non incide sul voto finale."
+                }
+              ]
+            },
+            "norma_012": {
+              "titolo": "Indicazioni Nazionali 2012 e Nuovi Scenari 2018",
+              "tipo": "Decreto Ministeriale + Documento",
+              "anno": 2012,
+              "riferimento": "DM 16 novembre 2012 n. 254 — Documento Nuovi Scenari 2018",
+              "target": [
+                "docenti"
+              ],
+              "sintesi_breve": "Definiscono il curricolo obbligatorio per la scuola dell'infanzia e il primo ciclo, con le competenze chiave europee aggiornate nel 2018.",
+              "sintesi_docenti": "Le Indicazioni Nazionali 2012 definiscono i traguardi di competenza e gli obiettivi di apprendimento per la scuola dell'infanzia e il I ciclo. Il documento 'Nuovi Scenari' del 2018 le integra alla luce della Raccomandazione europea sulle Competenze Chiave per l'Apprendimento Permanente (2018). Le scuole costruiscono il curricolo verticale integrando Indicazioni Nazionali e competenze di cittadinanza. Per il II ciclo si applicano i Profili e le Linee Guida degli istituti tecnici e professionali.",
+              "sintesi_studenti": "Le Indicazioni Nazionali dicono cosa devi imparare in ogni materia durante la scuola primaria e media. Elencano le competenze e gli obiettivi per ogni disciplina.",
+              "obiettivi": [
+                "Sezione — Finalità — La scuola nel nuovo scenario: la scuola è luogo in cui il presente è elaborato e il futuro viene immaginato. Le finalità della scuola devono essere definite a partire dalla persona che apprende, con l'originalità del suo percorso individuale.",
+                "Sezione — Competenze chiave — Le competenze chiave sono quelle di cui tutti hanno bisogno per la realizzazione e lo sviluppo personali, la cittadinanza attiva, l'inclusione sociale e l'occupazione. Esse vengono acquisite attraverso un processo di apprendimento permanente."
+              ],
+              "contenuti": [
+                "indicazioni nazionali",
+                "curricolo verticale",
+                "competenze chiave",
+                "traguardi di competenza",
+                "obiettivi di apprendimento",
+                "I ciclo",
+                "cittadinanza"
+              ],
+              "competenze": [],
+              "quiz": [
+                {
+                  "domanda": "A quale ciclo si applicano le Indicazioni Nazionali 2012?",
+                  "opzioni": [
+                    "Solo alla scuola primaria",
+                    "Solo alla scuola secondaria di I grado",
+                    "Scuola dell'infanzia e I ciclo",
+                    "All'intero sistema scolastico"
+                  ],
+                  "risposta": "Scuola dell'infanzia e I ciclo",
+                  "spiegazione": "Le Indicazioni Nazionali 2012 riguardano la scuola dell'infanzia, la scuola primaria e la scuola secondaria di I grado."
+                },
+                {
+                  "domanda": "Cosa sono i 'traguardi di competenza' nelle Indicazioni Nazionali?",
+                  "opzioni": [
+                    "I voti minimi per essere promossi",
+                    "Risultati attesi al termine di un ciclo scolastico per ciascuna disciplina",
+                    "Gli obiettivi delle singole lezioni",
+                    "I criteri di valutazione del comportamento"
+                  ],
+                  "risposta": "Risultati attesi al termine di un ciclo scolastico per ciascuna disciplina",
+                  "spiegazione": "I traguardi di competenza indicano cosa lo studente dovrebbe saper fare al termine di un periodo di scolarizzazione in ciascuna disciplina."
+                },
+                {
+                  "domanda": "Il documento 'Nuovi Scenari' del 2018 integra le Indicazioni in relazione a:",
+                  "opzioni": [
+                    "Le nuove materie STEM",
+                    "La Raccomandazione europea sulle Competenze Chiave 2018",
+                    "Il PNRR scolastico",
+                    "La riforma degli esami di Stato"
+                  ],
+                  "risposta": "La Raccomandazione europea sulle Competenze Chiave 2018",
+                  "spiegazione": "'Nuovi Scenari' aggiorna le Indicazioni Nazionali alla luce della Raccomandazione del Consiglio europeo del 22 maggio 2018 sulle Competenze Chiave per l'Apprendimento Permanente."
+                }
+              ]
+            }
+          }
+        },
+        "Organi Collegiali": {
+          "descrizione": "D.Lgs 297/1994, DPR 249/1998 — struttura organizzativa della scuola",
+          "norme": {
+            "norma_013": {
+              "titolo": "D.Lgs 297/1994 — Testo Unico della scuola",
+              "tipo": "Decreto Legislativo",
+              "anno": 1994,
+              "riferimento": "D.Lgs 16 aprile 1994 n. 297",
+              "target": [
+                "docenti",
+                "studenti"
+              ],
+              "sintesi_breve": "Testo Unico sull'istruzione: disciplina gli organi collegiali, il Consiglio di Istituto, il Collegio dei Docenti e i Consigli di Classe.",
+              "sintesi_docenti": "Il D.Lgs 297/1994 è il Testo Unico sull'istruzione. Disciplina gli organi collegiali: Consiglio di Istituto (indirizzo generale, gestione finanziaria), Giunta Esecutiva, Collegio dei Docenti (didattica, valutazione, PTOF), Consiglio di Classe/Interclasse/Intersezione, Consiglio di Circolo. Regola anche i diritti degli studenti, i regolamenti disciplinari e i ricorsi.",
+              "sintesi_studenti": "Il Testo Unico spiega come è organizzata la scuola. Il Consiglio di Istituto gestisce i soldi e l'organizzazione generale. Il Collegio dei Docenti decide le cose didattiche. Il Consiglio di Classe è formato dai tuoi professori e dai rappresentanti di genitori e studenti.",
+              "obiettivi": [
+                "Art. 7 — Il collegio dei docenti è composto dal personale insegnante di ruolo e non di ruolo in servizio nel circolo o nell'istituto ed è presieduto dal direttore didattico o dal preside. Il collegio dei docenti delibera il piano dell'offerta formativa.",
+                "Art. 8 — Il consiglio di classe è composto dai docenti di ogni singola classe e, per ciascuna delle classi, da due rappresentanti dei genitori. Nelle scuole secondarie di secondo grado fa parte del consiglio di classe anche una rappresentanza degli studenti.",
+                "Art. 10 — Il consiglio di circolo o di istituto elabora e adotta gli indirizzi generali per le attività della scuola e le scelte generali di gestione e di amministrazione."
+              ],
+              "contenuti": [
+                "organi collegiali",
+                "Consiglio di Istituto",
+                "Collegio dei Docenti",
+                "Consiglio di Classe",
+                "rappresentanti",
+                "Giunta Esecutiva",
+                "D.Lgs 297"
+              ],
+              "competenze": [],
+              "quiz": [
+                {
+                  "domanda": "Chi presiede il Collegio dei Docenti?",
+                  "opzioni": [
+                    "Il docente più anziano",
+                    "Un docente eletto dai colleghi",
+                    "Il Dirigente Scolastico",
+                    "Il rappresentante del MIUR"
+                  ],
+                  "risposta": "Il Dirigente Scolastico",
+                  "spiegazione": "Il Collegio dei Docenti è presieduto dal Dirigente Scolastico (ex preside/direttore didattico)."
+                },
+                {
+                  "domanda": "Nelle scuole secondarie di II grado, chi fa parte del Consiglio di Classe oltre ai docenti?",
+                  "opzioni": [
+                    "Solo i genitori",
+                    "Solo gli studenti",
+                    "Genitori e rappresentanti degli studenti",
+                    "Genitori, studenti e personale ATA"
+                  ],
+                  "risposta": "Genitori e rappresentanti degli studenti",
+                  "spiegazione": "Nelle scuole secondarie di II grado il Consiglio di Classe include docenti, due rappresentanti dei genitori e due rappresentanti degli studenti."
+                },
+                {
+                  "domanda": "Quale organo delibera il PTOF?",
+                  "opzioni": [
+                    "Il Consiglio di Istituto",
+                    "Il Collegio dei Docenti",
+                    "La Giunta Esecutiva",
+                    "Il Dirigente Scolastico"
+                  ],
+                  "risposta": "Il Collegio dei Docenti",
+                  "spiegazione": "Il Collegio dei Docenti elabora il PTOF, che viene poi approvato dal Consiglio di Istituto."
+                }
+              ]
+            },
+            "norma_014": {
+              "titolo": "DPR 249/1998 — Statuto delle Studentesse e degli Studenti",
+              "tipo": "Decreto del Presidente della Repubblica",
+              "anno": 1998,
+              "riferimento": "DPR 24 giugno 1998 n. 249 (mod. DPR 235/2007)",
+              "target": [
+                "docenti",
+                "studenti"
+              ],
+              "sintesi_breve": "Definisce i diritti e i doveri degli studenti: diritto all'informazione, alla partecipazione, al rispetto, e il sistema disciplinare.",
+              "sintesi_docenti": "Lo Statuto delle Studentesse e degli Studenti definisce diritti (art. 2: informazione, partecipazione, riservatezza) e doveri (art. 3: frequenza, rispetto, comportamento responsabile). Disciplina il sistema sanzionatorio (art. 4): sanzioni proporzionate, allontanamento dalla comunità scolastica, organo di garanzia. Il DPR 235/2007 introduce il Patto Educativo di Corresponsabilità tra scuola e famiglia.",
+              "sintesi_studenti": "Lo Statuto degli Studenti dice che hai diritti a scuola: essere rispettato, avere informazioni, partecipare. Ma hai anche doveri: frequentare, comportarti bene, rispettare compagni e professori. Le punizioni devono essere proporzionate a quello che hai fatto.",
+              "obiettivi": [
+                "Art. 2 — Diritti — Lo studente ha diritto ad una formazione culturale e professionale qualificata che rispetti e valorizzi l'identità di ciascuno e sia aperta alla pluralità delle idee. La scuola persegue la continuità dell'apprendimento e valorizza le inclinazioni personali degli studenti.",
+                "Art. 3 — Doveri — Gli studenti sono tenuti a frequentare regolarmente i corsi e ad assolvere assiduamente gli impegni di studio, a mantenere un comportamento corretto e a rispettare il personale della scuola.",
+                "Art. 4 — Disciplina — I provvedimenti disciplinari hanno finalità educativa e tendono al rafforzamento del senso di responsabilità ed al ripristino di rapporti corretti all'interno della comunità scolastica."
+              ],
+              "contenuti": [
+                "statuto studenti",
+                "diritti studenti",
+                "doveri studenti",
+                "sanzioni disciplinari",
+                "patto educativo",
+                "organo di garanzia",
+                "allontanamento"
+              ],
+              "competenze": [],
+              "quiz": [
+                {
+                  "domanda": "Quale decreto ha introdotto il Patto Educativo di Corresponsabilità?",
+                  "opzioni": [
+                    "DPR 249/1998",
+                    "DPR 235/2007",
+                    "L. 107/2015",
+                    "D.Lgs 297/1994"
+                  ],
+                  "risposta": "DPR 235/2007",
+                  "spiegazione": "Il DPR 235/2007 ha modificato lo Statuto introducendo il Patto Educativo di Corresponsabilità tra scuola e famiglia."
+                },
+                {
+                  "domanda": "Quale deve essere la finalità principale dei provvedimenti disciplinari secondo l'art. 4?",
+                  "opzioni": [
+                    "Punire esemplarmente",
+                    "Comunicare alla famiglia",
+                    "Avere finalità educativa",
+                    "Escludere lo studente"
+                  ],
+                  "risposta": "Avere finalità educativa",
+                  "spiegazione": "L'art. 4 stabilisce che i provvedimenti disciplinari hanno finalità educativa e tendono al rafforzamento del senso di responsabilità."
+                },
+                {
+                  "domanda": "Quale diritto è sancito dall'art. 2 dello Statuto degli Studenti?",
+                  "opzioni": [
+                    "Il diritto di non fare compiti",
+                    "Il diritto a una formazione culturale qualificata",
+                    "Il diritto di scegliere i propri professori",
+                    "Il diritto di assentarsi senza giustifica"
+                  ],
+                  "risposta": "Il diritto a una formazione culturale qualificata",
+                  "spiegazione": "L'art. 2 riconosce allo studente il diritto a una formazione culturale e professionale qualificata che rispetti la sua identità."
+                }
+              ]
+            }
+          }
+        },
+        "Privacy e Digitale": {
+          "descrizione": "GDPR 2016/679, PNSD — protezione dati e innovazione digitale",
+          "norme": {
+            "norma_015": {
+              "titolo": "GDPR — Regolamento UE 2016/679",
+              "tipo": "Regolamento Europeo",
+              "anno": 2018,
+              "riferimento": "Regolamento UE 2016/679 (applicabile dal 25/5/2018)",
+              "target": [
+                "docenti",
+                "studenti"
+              ],
+              "sintesi_breve": "Regola il trattamento dei dati personali in tutta l'UE: principi di liceità, minimizzazione, consenso e diritti degli interessati.",
+              "sintesi_docenti": "Il GDPR si applica integralmente alle scuole. I principi chiave sono: liceità, correttezza, trasparenza; limitazione delle finalità; minimizzazione dei dati; esattezza; limitazione della conservazione; integrità e riservatezza. Le scuole devono nominare il DPO (Data Protection Officer), aggiornare il Registro dei trattamenti, gestire i consensi (in particolare per foto/video di minori) e garantire i diritti degli interessati (accesso, rettifica, cancellazione).",
+              "sintesi_studenti": "Il GDPR protegge i tuoi dati personali. La scuola non può pubblicare tue foto o usare i tuoi dati senza il consenso dei tuoi genitori. Hai il diritto di sapere quali dati vengono raccolti su di te e di chiederne la cancellazione.",
+              "obiettivi": [
+                "Art. 5 — Principi — I dati personali sono trattati in modo lecito, corretto e trasparente nei confronti dell'interessato; raccolti per finalità determinate, esplicite e legittime; adeguati, pertinenti e limitati a quanto necessario rispetto alle finalità.",
+                "Art. 6 — Liceità — Il trattamento è lecito se l'interessato ha espresso il consenso al trattamento dei propri dati personali per una o più specifiche finalità, oppure se è necessario all'esecuzione di un contratto, oppure per adempiere un obbligo legale.",
+                "Art. 17 — Diritto alla cancellazione — L'interessato ha il diritto di ottenere dal titolare del trattamento la cancellazione dei dati personali che lo riguardano senza ingiustificato ritardo."
+              ],
+              "contenuti": [
+                "GDPR",
+                "dati personali",
+                "consenso",
+                "DPO",
+                "registro trattamenti",
+                "minimizzazione",
+                "diritto cancellazione",
+                "privacy minori"
+              ],
+              "competenze": [],
+              "quiz": [
+                {
+                  "domanda": "Cosa significa la sigla DPO?",
+                  "opzioni": [
+                    "Direttore della Protezione Online",
+                    "Data Protection Officer (Responsabile della protezione dei dati)",
+                    "Documento di Protezione Organizzativa",
+                    "Delegato per la Privacy Operativa"
+                  ],
+                  "risposta": "Data Protection Officer (Responsabile della protezione dei dati)",
+                  "spiegazione": "Il DPO è la figura obbligatoria nelle scuole che supervisiona il rispetto del GDPR e fa da punto di contatto con l'autorità di controllo."
+                },
+                {
+                  "domanda": "Dal quando è applicabile il GDPR?",
+                  "opzioni": [
+                    "25 maggio 2016",
+                    "25 maggio 2018",
+                    "1 gennaio 2019",
+                    "25 maggio 2020"
+                  ],
+                  "risposta": "25 maggio 2018",
+                  "spiegazione": "Il Regolamento UE 2016/679 (GDPR) è applicabile dal 25 maggio 2018 in tutti gli Stati membri dell'UE."
+                },
+                {
+                  "domanda": "Quale principio del GDPR impone di raccogliere solo i dati strettamente necessari?",
+                  "opzioni": [
+                    "Principio di liceità",
+                    "Principio di minimizzazione",
+                    "Principio di esattezza",
+                    "Principio di trasparenza"
+                  ],
+                  "risposta": "Principio di minimizzazione",
+                  "spiegazione": "Il principio di minimizzazione (art. 5 c) impone che i dati siano adeguati, pertinenti e limitati a quanto necessario rispetto alle finalità del trattamento."
+                }
+              ]
+            },
+            "norma_016": {
+              "titolo": "Piano Nazionale Scuola Digitale (PNSD)",
+              "tipo": "Piano Ministeriale",
+              "anno": 2015,
+              "riferimento": "MIUR — Decreto 27 ottobre 2015 n. 851",
+              "target": [
+                "docenti",
+                "studenti"
+              ],
+              "sintesi_breve": "Definisce la strategia per l'innovazione digitale della scuola italiana: infrastrutture, competenze digitali, contenuti e formazione docenti.",
+              "sintesi_docenti": "Il PNSD si articola in 4 ambiti: strumenti (connettività, LIM, laboratori), competenze e contenuti (coding, pensiero computazionale), formazione (Animatore Digitale, Team Digitale), accompagnamento. Ogni scuola nomina un Animatore Digitale (docente con 75 ore annue di riduzione) e un Team per l'Innovazione Digitale. Il PNSD è integrato nel PTOF. Il PNRR (2021) ha potenziato gli investimenti digitali nelle scuole.",
+              "sintesi_studenti": "Il PNSD è il piano del governo per portare la tecnologia nelle scuole. Significa più computer, connessione internet veloce, imparare a programmare e usare strumenti digitali in modo sicuro e responsabile.",
+              "obiettivi": [
+                "Azione #17 — Animatore Digitale — In ogni scuola è prevista la figura dell'Animatore Digitale, un docente che collabora con il Dirigente Scolastico e con il DSGA per formare il personale scolastico, coinvolgere la comunità scolastica e stimolare la partecipazione e la cultura digitale nella comunità.",
+                "Azione #28 — Programmazione — Nell'ambito del curricolo scolastico è previsto lo sviluppo del pensiero computazionale e della programmazione (coding) come competenza trasversale per tutti gli studenti."
+              ],
+              "contenuti": [
+                "PNSD",
+                "Animatore Digitale",
+                "Team Digitale",
+                "coding",
+                "pensiero computazionale",
+                "LIM",
+                "competenze digitali",
+                "PNRR scuola"
+              ],
+              "competenze": [],
+              "quiz": [
+                {
+                  "domanda": "Quante ore annue di riduzione dell'orario ha l'Animatore Digitale?",
+                  "opzioni": [
+                    "40 ore",
+                    "50 ore",
+                    "75 ore",
+                    "100 ore"
+                  ],
+                  "risposta": "75 ore",
+                  "spiegazione": "L'Animatore Digitale ha diritto a 75 ore annue di riduzione dell'orario di insegnamento per svolgere le sue funzioni."
+                },
+                {
+                  "domanda": "In quale anno è stato emanato il PNSD?",
+                  "opzioni": [
+                    "2012",
+                    "2015",
+                    "2017",
+                    "2019"
+                  ],
+                  "risposta": "2015",
+                  "spiegazione": "Il Piano Nazionale Scuola Digitale è stato adottato con decreto ministeriale del 27 ottobre 2015."
+                },
+                {
+                  "domanda": "Il PNSD deve essere integrato in quale documento scolastico?",
+                  "opzioni": [
+                    "Nel regolamento d'istituto",
+                    "Nel PTOF",
+                    "Nel registro di classe",
+                    "Nella relazione finale del docente"
+                  ],
+                  "risposta": "Nel PTOF",
+                  "spiegazione": "Le azioni del PNSD devono essere integrate nel Piano Triennale dell'Offerta Formativa (PTOF) della scuola."
+                }
+              ]
+            }
+          }
+        },
+        "Contratto e Personale": {
+          "descrizione": "CCNL 2019-2021, D.Lgs 165/2001 — lavoro e diritti del personale scolastico",
+          "norme": {
+            "norma_017": {
+              "titolo": "CCNL Istruzione e Ricerca 2019-2021",
+              "tipo": "Contratto Collettivo Nazionale",
+              "anno": 2022,
+              "riferimento": "CCNL Istruzione e Ricerca 2019-2021 (firmato 18/01/2024)",
+              "target": [
+                "docenti"
+              ],
+              "sintesi_breve": "Regola il rapporto di lavoro del personale scolastico: orari, ferie, permessi, doveri funzionali e trattamento economico.",
+              "sintesi_docenti": "Il CCNL definisce l'orario di lavoro dei docenti: 18 ore settimanali di insegnamento (cattedra), più le attività funzionali (riunioni collegiali, ricevimento genitori, scrutini). Le ore funzionali non possono superare 40 ore annue per riunioni e 40 per ricevimento. Prevede il diritto a ferie (30 giorni + festività), permessi retribuiti (lutto, matrimonio, malattia) e assenze per formazione. Il personale ATA ha orario di 36 ore settimanali.",
+              "sintesi_studenti": "Il contratto dei professori stabilisce quante ore insegnano (18 a settimana), quando fanno le riunioni con i genitori e quali diritti hanno come lavoratori.",
+              "obiettivi": [
+                "Art. 29 — Orario docenti — L'orario di insegnamento dei docenti di scuola secondaria è di 18 ore settimanali. L'attività di insegnamento si svolge in non meno di cinque giorni settimanali, salvo specifiche esigenze organizzative.",
+                "Art. 29 — Attività funzionali — Le attività funzionali all'insegnamento sono costituite da ogni impegno inerente alla funzione docente previsto dai diversi ordinamenti scolastici. Esse comprendono le attività collegiali riguardanti tutti i docenti e le attività individuali.",
+                "Art. 34 — Ferie — I docenti hanno diritto a 30 giorni di ferie nel corso dell'anno scolastico, fruibili nel periodo estivo, nelle vacanze natalizie e pasquali."
+              ],
+              "contenuti": [
+                "CCNL",
+                "orario docenti",
+                "18 ore",
+                "attività funzionali",
+                "ferie",
+                "permessi",
+                "ATA",
+                "contratto lavoro scuola"
+              ],
+              "competenze": [],
+              "quiz": [
+                {
+                  "domanda": "Quante ore settimanali di insegnamento hanno i docenti di scuola secondaria?",
+                  "opzioni": [
+                    "15 ore",
+                    "18 ore",
+                    "20 ore",
+                    "24 ore"
+                  ],
+                  "risposta": "18 ore",
+                  "spiegazione": "Il CCNL stabilisce 18 ore settimanali di insegnamento per i docenti di scuola secondaria."
+                },
+                {
+                  "domanda": "Quante ore annue di attività collegiali sono previste dal CCNL?",
+                  "opzioni": [
+                    "20 ore",
+                    "30 ore",
+                    "40 ore",
+                    "60 ore"
+                  ],
+                  "risposta": "40 ore",
+                  "spiegazione": "Il CCNL prevede fino a 40 ore annue per le attività collegiali (Collegio Docenti, Consigli di Classe, ecc.)."
+                },
+                {
+                  "domanda": "A quanti giorni di ferie hanno diritto i docenti?",
+                  "opzioni": [
+                    "15 giorni",
+                    "20 giorni",
+                    "30 giorni",
+                    "45 giorni"
+                  ],
+                  "risposta": "30 giorni",
+                  "spiegazione": "Il CCNL prevede 30 giorni di ferie per i docenti, oltre alle festività scolastiche nazionali e locali."
+                }
+              ]
+            },
+            "norma_018": {
+              "titolo": "D.Lgs 165/2001 — Norme generali sull'ordinamento del lavoro pubblico",
+              "tipo": "Decreto Legislativo",
+              "anno": 2001,
+              "riferimento": "D.Lgs 30 marzo 2001 n. 165",
+              "target": [
+                "docenti"
+              ],
+              "sintesi_breve": "Disciplina il rapporto di lavoro alle dipendenze delle pubbliche amministrazioni, incluse le scuole statali.",
+              "sintesi_docenti": "Il D.Lgs 165/2001 è la norma generale sul pubblico impiego. Stabilisce la distinzione tra atti di indirizzo politico-amministrativo (organi di governo) e atti gestionali (dirigenti). Nella scuola, il Dirigente Scolastico è il datore di lavoro per i rapporti individuali. Regola le assunzioni, la mobilità, i procedimenti disciplinari e le incompatibilità. Il personale scolastico è soggetto al codice di comportamento dei dipendenti pubblici (DPR 62/2013).",
+              "sintesi_studenti": "Questo decreto stabilisce le regole generali per chi lavora nelle scuole statali e nella pubblica amministrazione in generale.",
+              "obiettivi": [
+                "Art. 1 — Le disposizioni del presente decreto disciplinano l'organizzazione degli uffici e i rapporti di lavoro e di impiego alle dipendenze delle amministrazioni pubbliche, tenuto conto delle autonomie locali e di quelle delle regioni e delle province autonome.",
+                "Art. 25 — Il dirigente scolastico assicura la gestione unitaria dell'istituzione, ne ha la legale rappresentanza, è responsabile della gestione delle risorse finanziarie e strumentali e dei risultati del servizio."
+              ],
+              "contenuti": [
+                "pubblico impiego",
+                "dirigente scolastico",
+                "datore di lavoro",
+                "codice di comportamento",
+                "procedimento disciplinare",
+                "incompatibilità",
+                "mobilità"
+              ],
+              "competenze": [],
+              "quiz": [
+                {
+                  "domanda": "Chi è il datore di lavoro dei docenti nella scuola statale?",
+                  "opzioni": [
+                    "Il Ministero dell'Istruzione",
+                    "Il Dirigente Scolastico",
+                    "Il Consiglio di Istituto",
+                    "L'USR (Ufficio Scolastico Regionale)"
+                  ],
+                  "risposta": "Il Dirigente Scolastico",
+                  "spiegazione": "Il Dirigente Scolastico, ai sensi del D.Lgs 165/2001, è il datore di lavoro per i rapporti individuali di lavoro del personale scolastico."
+                },
+                {
+                  "domanda": "Il codice di comportamento dei dipendenti pubblici è contenuto in quale decreto?",
+                  "opzioni": [
+                    "DPR 249/1998",
+                    "DPR 62/2013",
+                    "D.Lgs 165/2001",
+                    "CCNL 2019-2021"
+                  ],
+                  "risposta": "DPR 62/2013",
+                  "spiegazione": "Il DPR 62/2013 contiene il Codice di comportamento dei dipendenti pubblici, applicabile anche al personale scolastico."
+                },
+                {
+                  "domanda": "Di cosa risponde il Dirigente Scolastico secondo l'art. 25?",
+                  "opzioni": [
+                    "Solo dei risultati didattici",
+                    "Solo della gestione finanziaria",
+                    "Della gestione delle risorse e dei risultati del servizio",
+                    "Solo del personale docente"
+                  ],
+                  "risposta": "Della gestione delle risorse e dei risultati del servizio",
+                  "spiegazione": "L'art. 25 attribuisce al DS la responsabilità della gestione delle risorse finanziarie, strumentali e dei risultati del servizio."
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "Metodologie Didattiche e Inclusive": {
+      "descrizione": "Metodologie attive, inclusive, digitali e socio-emotive per la didattica quotidiana.",
+      "icona": "🎓",
+      "aree": {
+        "Metodologie Attive": {
+          "descrizione": "Cooperative Learning, Flipped Classroom, PBL, Debate, Gamification",
+          "metodologie": {
+            "met_001": {
+              "titolo": "Cooperative Learning",
+              "sottotitolo": "Apprendimento cooperativo strutturato",
+              "autori_riferimento": [
+                "Johnson & Johnson",
+                "Spencer Kagan"
+              ],
+              "anno_sviluppo": "anni '70-'80",
+              "target": [
+                "docenti",
+                "studenti"
+              ],
+              "sintesi_breve": "Gli studenti lavorano in piccoli gruppi eterogenei con ruoli definiti, interdipendenza positiva e responsabilità individuale.",
+              "sintesi_docenti": "Il Cooperative Learning strutturato si basa su 5 elementi fondamentali (Johnson & Johnson): interdipendenza positiva, responsabilità individuale, interazione faccia a faccia, abilità sociali, revisione del gruppo. Kagan ha sviluppato strutture operative specifiche (Jigsaw, Think-Pair-Share, Round Robin). I gruppi sono eterogenei per abilità, genere e background. Il docente progetta compiti che richiedono reale cooperazione, non semplice divisione del lavoro.",
+              "sintesi_studenti": "Lavori in gruppo con i tuoi compagni, ognuno con un ruolo preciso. Il gruppo riesce solo se tutti contribuiscono. Si impara sia la materia sia a lavorare con gli altri.",
+              "obiettivi": [
+                "Interdipendenza positiva: il successo del singolo dipende dal gruppo",
+                "Responsabilità individuale: ognuno risponde del proprio contributo",
+                "Interazione costruttiva faccia a faccia",
+                "Sviluppo delle abilità sociali (comunicazione, gestione conflitti)",
+                "Revisione periodica del processo di gruppo"
+              ],
+              "contenuti": [
+                "Schede ruolo stampate",
+                "Materiali differenziati per livello",
+                "Timer visivo",
+                "Griglia di osservazione del gruppo",
+                "Registro peer assessment"
+              ],
+              "competenze": [
+                "L. 107/2015 — competenze trasversali",
+                "D.Lgs 66/2017 — inclusione",
+                "Indicazioni Nazionali 2012 — collaborazione"
+              ],
+              "esempi_in_classe": [
+                {
+                  "titolo": "Jigsaw (Puzzle)",
+                  "descrizione": "La classe si divide in gruppi base. Ogni membro studia una parte del materiale, poi si riunisce con gli 'esperti' della stessa parte degli altri gruppi, quindi torna nel gruppo base e insegna ai compagni la sua parte."
+                },
+                {
+                  "titolo": "Think-Pair-Share",
+                  "descrizione": "Il docente pone una domanda. Ogni studente pensa individualmente (1 min), poi discute con il compagno a fianco (2 min), infine le coppie condividono con la classe."
+                },
+                {
+                  "titolo": "Round Robin",
+                  "descrizione": "A turno, ogni membro del gruppo risponde a una domanda o condivide un'idea. Nessuno può saltare il turno. Garantisce la partecipazione di tutti."
+                }
+              ],
+              "vantaggi": [
+                "Migliora il rendimento accademico, specialmente per studenti con BES",
+                "Sviluppa competenze sociali e comunicative",
+                "Aumenta la motivazione e il senso di appartenenza",
+                "Favorisce l'inclusione degli studenti con difficoltà",
+                "Sviluppa il pensiero critico attraverso il confronto"
+              ],
+              "limiti": [
+                "Richiede tempo di progettazione elevato da parte del docente",
+                "Rischio di 'free rider' (studenti che non contribuiscono)",
+                "Può generare conflitti se i ruoli non sono ben definiti",
+                "Non adatto a tutti i tipi di contenuto o disciplina",
+                "Richiede formazione specifica del docente"
+              ],
+              "quiz": [
+                {
+                  "domanda": "Quanti sono gli elementi fondamentali del Cooperative Learning secondo Johnson & Johnson?",
+                  "opzioni": [
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                  ],
+                  "risposta": "5",
+                  "spiegazione": "I 5 elementi sono: interdipendenza positiva, responsabilità individuale, interazione faccia a faccia, abilità sociali, revisione del gruppo."
+                },
+                {
+                  "domanda": "Nella struttura Jigsaw, cosa fa lo 'esperto'?",
+                  "opzioni": [
+                    "Valuta il lavoro del gruppo",
+                    "Studia una parte e la insegna ai compagni del gruppo base",
+                    "Coordina il lavoro di tutti",
+                    "Verifica la comprensione finale"
+                  ],
+                  "risposta": "Studia una parte e la insegna ai compagni del gruppo base",
+                  "spiegazione": "Nel Jigsaw ogni studente diventa esperto di una parte del materiale e poi la insegna agli altri membri del suo gruppo base."
+                },
+                {
+                  "domanda": "Come devono essere i gruppi nel Cooperative Learning?",
+                  "opzioni": [
+                    "Omogenei per abilità",
+                    "Omogenei per genere",
+                    "Eterogenei per abilità, genere e background",
+                    "Formati dagli studenti liberamente"
+                  ],
+                  "risposta": "Eterogenei per abilità, genere e background",
+                  "spiegazione": "L'eterogeneità del gruppo è fondamentale: permette scambi ricchi, favorisce l'inclusione e riproduce la diversità del contesto reale."
+                }
+              ]
+            },
+            "met_002": {
+              "titolo": "Flipped Classroom",
+              "sottotitolo": "Classe capovolta",
+              "autori_riferimento": [
+                "Jonathan Bergmann",
+                "Aaron Sams"
+              ],
+              "anno_sviluppo": "2007",
+              "target": [
+                "docenti",
+                "studenti"
+              ],
+              "sintesi_breve": "La lezione frontale viene spostata a casa (video, podcast), mentre il tempo in classe è dedicato all'applicazione pratica, al problem solving e alla collaborazione.",
+              "sintesi_docenti": "Nella Flipped Classroom il docente inverte il tradizionale ciclo didattico: la trasmissione di contenuti avviene a casa (video preparati dal docente o risorse selezionate), mentre il tempo in classe è dedicato ad attività di ordine superiore (applicazione, analisi, sintesi, valutazione — tassonomia di Bloom). Il docente diventa facilitatore. Richiede che gli studenti abbiano accesso a dispositivi e connessione a casa (problema di equità da considerare).",
+              "sintesi_studenti": "Prima di venire a scuola guardi un video o leggi un testo che spiega l'argomento nuovo. In classe poi fai esercizi, risolvi problemi e fai domande. Il prof è lì per aiutarti quando hai difficoltà.",
+              "obiettivi": [
+                "Inversione del ciclo didattico tradizionale",
+                "Personalizzazione: lo studente può rivedere il video quante volte vuole",
+                "Il tempo in aula è dedicato alle attività di ordine superiore (Bloom)",
+                "Il docente diventa coach e facilitatore",
+                "Maggiore interazione docente-studente in classe"
+              ],
+              "contenuti": [
+                "Piattaforma video (YouTube, EdPuzzle, Padlet)",
+                "LIM o proiettore in aula",
+                "Dispositivi per gli studenti (o accordo per condivisione)",
+                "Google Classroom o simile per condivisione materiali"
+              ],
+              "competenze": [
+                "PNSD — competenze digitali",
+                "L. 107/2015 — innovazione didattica",
+                "Indicazioni Nazionali — autonomia di apprendimento"
+              ],
+              "esempi_in_classe": [
+                {
+                  "titolo": "Video + Problem Solving",
+                  "descrizione": "Il docente prepara un video di 10 minuti sulla regola grammaticale. A casa gli studenti guardano e annotano dubbi. In classe, a coppie, risolvono esercizi complessi mentre il docente gira tra i banchi."
+                },
+                {
+                  "titolo": "Flipped + Cooperative",
+                  "descrizione": "Dopo aver guardato il video a casa, in classe si formano gruppi. I 'capaci' spiegano ai compagni che hanno avuto difficoltà, poi il gruppo affronta un compito di realtà."
+                },
+                {
+                  "titolo": "Video annotato",
+                  "descrizione": "Il docente usa strumenti come EdPuzzle per inserire domande all'interno del video. Lo studente deve rispondere durante la visione. Il docente monitora chi ha guardato e chi no."
+                }
+              ],
+              "vantaggi": [
+                "Più tempo in classe per attività pratiche e di problem solving",
+                "Personalizzazione del ritmo di apprendimento",
+                "Maggiore interazione docente-studente durante le attività",
+                "Sviluppa autonomia e responsabilità nello studio",
+                "Facilita il recupero degli assenti"
+              ],
+              "limiti": [
+                "Rischio di esclusione per studenti senza dispositivi o connessione",
+                "Richiede produzione di materiali digitali di qualità",
+                "Non tutti gli studenti guardano il video a casa",
+                "Può aumentare il carico di lavoro del docente",
+                "Non adatta a studenti molto giovani o con scarsa autonomia"
+              ],
+              "quiz": [
+                {
+                  "domanda": "Chi ha teorizzato la Flipped Classroom?",
+                  "opzioni": [
+                    "Gardner e Armstrong",
+                    "Bergmann e Sams",
+                    "Johnson e Johnson",
+                    "Vygotsky e Bruner"
+                  ],
+                  "risposta": "Bergmann e Sams",
+                  "spiegazione": "Jonathan Bergmann e Aaron Sams, docenti di chimica nel Colorado, hanno sviluppato e diffuso il modello della Flipped Classroom a partire dal 2007."
+                },
+                {
+                  "domanda": "In quale fase della tassonomia di Bloom si concentra il tempo in classe nella Flipped Classroom?",
+                  "opzioni": [
+                    "Conoscenza e comprensione (livelli bassi)",
+                    "Applicazione, analisi, sintesi, valutazione (livelli alti)",
+                    "Solo memorizzazione",
+                    "Solo ricerca autonoma"
+                  ],
+                  "risposta": "Applicazione, analisi, sintesi, valutazione (livelli alti)",
+                  "spiegazione": "La Flipped sposta la trasmissione dei contenuti a casa e riserva il tempo in classe ai livelli cognitivi superiori della tassonomia di Bloom."
+                },
+                {
+                  "domanda": "Qual è il principale problema di equità della Flipped Classroom?",
+                  "opzioni": [
+                    "I video sono troppo lunghi",
+                    "Non tutti gli studenti hanno dispositivi e connessione a casa",
+                    "I docenti non sanno fare i video",
+                    "Gli studenti non vogliono fare compiti"
+                  ],
+                  "risposta": "Non tutti gli studenti hanno dispositivi e connessione a casa",
+                  "spiegazione": "Il divario digitale è il principale limite di equità: gli studenti senza accesso a dispositivi o internet a casa sono svantaggiati."
+                }
+              ]
+            },
+            "met_003": {
+              "titolo": "Project-Based Learning (PBL)",
+              "sottotitolo": "Apprendimento basato su progetti",
+              "autori_riferimento": [
+                "John Dewey",
+                "Buck Institute for Education"
+              ],
+              "anno_sviluppo": "inizio '900 — sviluppato negli anni '90",
+              "target": [
+                "docenti",
+                "studenti"
+              ],
+              "sintesi_breve": "Gli studenti imparano affrontando un progetto reale e complesso che richiede ricerca, collaborazione e produzione di un artefatto finale.",
+              "sintesi_docenti": "Nel PBL il motore dell'apprendimento è una 'domanda guida' o un problema autentico. Gli studenti, organizzati in gruppi, progettano, ricercano, creano e presentano un prodotto finale reale (video, mostra, proposta, prototipo). Il Buck Institute definisce i 7 elementi del PBL di alta qualità: domanda sfidante, indagine sostenuta, autenticità, voce e scelta degli studenti, riflessione, critica e revisione, prodotto pubblico.",
+              "sintesi_studenti": "Invece di studiare solo dal libro, lavori su un progetto vero: crei qualcosa di reale (un video, una mostra, un sito) partendo da una domanda interessante. Alla fine presenti il lavoro a un pubblico.",
+              "obiettivi": [
+                "Domanda guida autentica e sfidante",
+                "Indagine sostenuta nel tempo (settimane o mesi)",
+                "Autenticità del contesto e del prodotto",
+                "Voce e scelta degli studenti nel processo",
+                "Riflessione sistematica sul proprio apprendimento",
+                "Critica, revisione e miglioramento del prodotto",
+                "Presentazione pubblica del prodotto finale"
+              ],
+              "contenuti": [
+                "Rubrica di valutazione del prodotto e del processo",
+                "Diario di bordo del gruppo",
+                "Strumenti digitali per la ricerca e la produzione",
+                "Spazi flessibili per il lavoro di gruppo",
+                "Contatti con esperti o enti esterni"
+              ],
+              "competenze": [
+                "L. 107/2015 — PCTO e alternanza",
+                "Indicazioni Nazionali — competenze",
+                "DPR 275/1999 — autonomia didattica"
+              ],
+              "esempi_in_classe": [
+                {
+                  "titolo": "Progetto di cittadinanza",
+                  "descrizione": "La classe indaga un problema del quartiere (traffico, rifiuti, accessibilità). Raccolgono dati, intervistano esperti, elaborano proposte e le presentano al Comune o alla scuola."
+                },
+                {
+                  "titolo": "Documentario scientifico",
+                  "descrizione": "Per scienze, gli studenti scelgono un fenomeno ambientale locale, lo studiano, girano un breve documentario con interviste e dati e lo proiettano alla scuola."
+                },
+                {
+                  "titolo": "Progetto interdisciplinare",
+                  "descrizione": "Italiano, storia e arte lavorano insieme su un periodo storico: gli studenti creano una mostra virtuale con testi, immagini e approfondimenti da presentare ai genitori."
+                }
+              ],
+              "vantaggi": [
+                "Sviluppa competenze del 21° secolo (collaborazione, problem solving, comunicazione)",
+                "Alta motivazione grazie all'autenticità del compito",
+                "Favorisce l'apprendimento profondo rispetto alla memorizzazione",
+                "Integra più discipline naturalmente",
+                "Il prodotto finale è valutabile con rubriche chiare"
+              ],
+              "limiti": [
+                "Richiede pianificazione molto accurata e tempo lungo",
+                "Difficile da valutare in modo standardizzato",
+                "Rischio di superficialità se la domanda guida non è sufficientemente sfidante",
+                "Gestione complessa in classi numerose",
+                "Non tutti i contenuti disciplinari si prestano al formato progetto"
+              ],
+              "quiz": [
+                {
+                  "domanda": "Qual è il motore dell'apprendimento nel PBL?",
+                  "opzioni": [
+                    "La lezione frontale del docente",
+                    "La domanda guida autentica e sfidante",
+                    "Il libro di testo",
+                    "La verifica finale"
+                  ],
+                  "risposta": "La domanda guida autentica e sfidante",
+                  "spiegazione": "Nel PBL tutto il percorso è guidato da una domanda sfidante e autentica a cui gli studenti devono rispondere attraverso l'indagine e la produzione."
+                },
+                {
+                  "domanda": "Quanti elementi definisce il Buck Institute per un PBL di alta qualità?",
+                  "opzioni": [
+                    "4",
+                    "5",
+                    "7",
+                    "10"
+                  ],
+                  "risposta": "7",
+                  "spiegazione": "Il Buck Institute for Education identifica 7 elementi del Gold Standard PBL: domanda sfidante, indagine sostenuta, autenticità, voce e scelta, riflessione, critica e revisione, prodotto pubblico."
+                },
+                {
+                  "domanda": "Cosa deve avere il prodotto finale di un PBL?",
+                  "opzioni": [
+                    "Solo un voto numerico",
+                    "Una presentazione pubblica a un pubblico reale",
+                    "Esclusivamente forma scritta",
+                    "La firma del dirigente"
+                  ],
+                  "risposta": "Una presentazione pubblica a un pubblico reale",
+                  "spiegazione": "Uno degli elementi fondamentali del PBL è il 'prodotto pubblico': il lavoro viene presentato a un pubblico reale (altri studenti, genitori, comunità), non solo al docente."
+                }
+              ]
+            },
+            "met_004": {
+              "titolo": "Debate",
+              "sottotitolo": "Discussione argomentativa strutturata",
+              "autori_riferimento": [
+                "Karl Popper Debate Format",
+                "MIUR — Linee guida debate 2017"
+              ],
+              "anno_sviluppo": "tradizione classica — modello scolastico anni '90-2000",
+              "target": [
+                "docenti",
+                "studenti"
+              ],
+              "sintesi_breve": "Due squadre argomentano posizioni opposte su una tesi, sviluppando pensiero critico, capacità argomentativa e ascolto attivo.",
+              "sintesi_docenti": "Il Debate scolastico prevede due squadre (pro e contro una tesi) che si preparano con ricerca approfondita, poi si confrontano seguendo regole precise (tempo controllato, turni definiti, arbitro). Il modello Karl Popper prevede: costruzione dell'argomentazione, confutazione, controinterrogatorio. Il MIUR ha inserito il debate nelle Linee Guida come metodologia per sviluppare competenze argomentative e di cittadinanza. L'assegnazione casuale delle posizioni costringe a studiare entrambi i lati.",
+              "sintesi_studenti": "Nel debate difendi una posizione (anche se non è la tua!) usando argomenti e prove. Devi studiare bene l'argomento, costruire ragionamenti solidi e ascoltare le obiezioni degli avversari per confutarle.",
+              "obiettivi": [
+                "Argomentazione basata su prove e fonti",
+                "Assegnazione casuale delle posizioni (si studia entrambi i lati)",
+                "Regole precise di turno e tempo",
+                "Separazione tra posizione argomentata e opinione personale",
+                "Sviluppo dell'ascolto attivo e della confutazione"
+              ],
+              "contenuti": [
+                "Rubrica di valutazione argomentativa",
+                "Timer visivo",
+                "Schede di preparazione degli argomenti",
+                "Fonti e materiali di ricerca",
+                "Modulo di autovalutazione"
+              ],
+              "competenze": [
+                "MIUR Linee Guida Debate 2017",
+                "Indicazioni Nazionali — educazione alla cittadinanza",
+                "L. 92/2019 — educazione civica"
+              ],
+              "esempi_in_classe": [
+                {
+                  "titolo": "Debate disciplinare",
+                  "descrizione": "In storia: 'La Rivoluzione Industriale ha migliorato la vita delle persone — Pro o Contro?'. Ogni squadra di 3 ricerca per una settimana, poi si svolge il dibattito in classe con giuria di compagni."
+                },
+                {
+                  "titolo": "Mini-debate quotidiano",
+                  "descrizione": "Versione rapida: il docente lancia una tesi, la classe si divide a metà, 3 minuti di preparazione, poi 2 persone per parte argomentano per 5 minuti. Ideale per fine lezione."
+                },
+                {
+                  "titolo": "Debate interdisciplinare",
+                  "descrizione": "Italiano e scienze insieme: 'L'energia nucleare è la soluzione alla crisi climatica'. Ogni squadra usa fonti scientifiche e testi argomentativi per preparare le proprie posizioni."
+                }
+              ],
+              "vantaggi": [
+                "Sviluppa pensiero critico e capacità argomentativa",
+                "Migliora le competenze comunicative orali",
+                "Approfondisce la conoscenza dei contenuti disciplinari",
+                "Favorisce la comprensione della complessità e dei punti di vista multipli",
+                "Alta motivazione e coinvolgimento degli studenti"
+              ],
+              "limiti": [
+                "Gli studenti introversi possono trovarsi in difficoltà",
+                "Rischio di banalizzazione se la preparazione è superficiale",
+                "Valutazione complessa (contenuto + forma + interazione)",
+                "Richiede gestione attenta per evitare derive personali",
+                "Non tutti gli argomenti disciplinari si prestano"
+              ],
+              "quiz": [
+                {
+                  "domanda": "Cosa succede quando si assegnano casualmente le posizioni nel debate?",
+                  "opzioni": [
+                    "Gli studenti protestano",
+                    "Si costringe a studiare entrambi i lati della questione",
+                    "Il debate diventa meno interessante",
+                    "Si evita la competizione"
+                  ],
+                  "risposta": "Si costringe a studiare entrambi i lati della questione",
+                  "spiegazione": "L'assegnazione casuale delle posizioni è una caratteristica fondamentale: obbliga tutti gli studenti a conoscere a fondo sia gli argomenti pro sia quelli contro, indipendentemente dall'opinione personale."
+                },
+                {
+                  "domanda": "Quale ministero ha pubblicato Linee Guida sul debate scolastico?",
+                  "opzioni": [
+                    "Ministero della Salute",
+                    "MIUR (Ministero dell'Istruzione)",
+                    "Ministero della Giustizia",
+                    "Presidenza del Consiglio"
+                  ],
+                  "risposta": "MIUR (Ministero dell'Istruzione)",
+                  "spiegazione": "Il MIUR ha pubblicato nel 2017 specifiche Linee Guida per l'utilizzo del debate come metodologia didattica nelle scuole."
+                },
+                {
+                  "domanda": "Qual è la competenza principale che il debate sviluppa?",
+                  "opzioni": [
+                    "La memorizzazione dei contenuti",
+                    "Il pensiero critico e la capacità argomentativa",
+                    "Le competenze matematiche",
+                    "La scrittura creativa"
+                  ],
+                  "risposta": "Il pensiero critico e la capacità argomentativa",
+                  "spiegazione": "Il debate è la metodologia per eccellenza per sviluppare il pensiero critico, la capacità di costruire argomentazioni solide basate su prove e l'ascolto attivo."
+                }
+              ]
+            },
+            "met_005": {
+              "titolo": "Gamification e Game-Based Learning",
+              "sottotitolo": "Apprendimento attraverso il gioco e meccaniche di gioco",
+              "autori_riferimento": [
+                "Marc Prensky",
+                "Karl Kapp",
+                "Jane McGonigal"
+              ],
+              "anno_sviluppo": "anni 2000-2010",
+              "target": [
+                "docenti",
+                "studenti"
+              ],
+              "sintesi_breve": "La Gamification applica elementi del gioco (punti, badge, livelli, sfide) alla didattica. Il Game-Based Learning usa giochi veri come strumento di apprendimento.",
+              "sintesi_docenti": "Si distinguono due approcci: Gamification (aggiunge meccaniche di gioco a contenuti tradizionali: punti esperienza, badge, classifiche, missioni) e Game-Based Learning (usa giochi veri — digitali o analogici — come veicolo di apprendimento). Entrambi sfruttano la motivazione intrinseca, il ciclo feedback immediato e la tolleranza al fallimento tipici del gioco. Strumenti: Kahoot, Quizlet, Classcraft, Minecraft Education, giochi da tavolo didattici.",
+              "sintesi_studenti": "A scuola puoi imparare anche giocando! Con giochi digitali come Kahoot o Minecraft impari contenuti divertendoti. I punti e i badge ti motivano a fare meglio.",
+              "obiettivi": [
+                "Motivazione intrinseca attraverso sfida, curiosità e fantasia",
+                "Feedback immediato che orienta l'apprendimento",
+                "Tolleranza al fallimento: si può riprovare senza conseguenze",
+                "Progressione graduale della difficoltà",
+                "Contesto narrativo che dà senso all'attività"
+              ],
+              "contenuti": [
+                "Kahoot / Quizlet / Gimkit (quiz gamificati)",
+                "Classcraft (RPG scolastico)",
+                "Minecraft Education Edition",
+                "Tabletop simulator o giochi analogici",
+                "Breakout EDU (escape room fisica)"
+              ],
+              "competenze": [
+                "PNSD — competenze digitali",
+                "L. 107/2015 — innovazione",
+                "Indicazioni Nazionali — motivazione e apprendimento"
+              ],
+              "esempi_in_classe": [
+                {
+                  "titolo": "Kahoot per il ripasso",
+                  "descrizione": "Il docente crea un quiz Kahoot di 10 domande per il ripasso finale. Gli studenti rispondono dal proprio dispositivo in tempo reale. La classifica live crea competizione sana."
+                },
+                {
+                  "titolo": "Escape Room didattica",
+                  "descrizione": "Il docente crea una 'escape room' in aula: per uscire i gruppi devono risolvere enigmi basati sui contenuti della lezione (matematica, storia, scienze). Alta motivazione e collaborazione."
+                },
+                {
+                  "titolo": "Minecraft Education",
+                  "descrizione": "In storia o geografia, gli studenti ricostruiscono in Minecraft una città romana, un ecosistema o un monumento. Imparano i contenuti mentre costruiscono."
+                }
+              ],
+              "vantaggi": [
+                "Alta motivazione e coinvolgimento, specialmente per studenti difficili da raggiungere",
+                "Feedback immediato che supporta l'autoregolazione",
+                "Clima positivo in classe, riduce ansia da prestazione",
+                "Favorisce l'inclusione (il gioco livella le differenze iniziali)",
+                "Dati di utilizzo utili per il docente (analytics)"
+              ],
+              "limiti": [
+                "Rischio di superficialità se il gioco prevale sull'apprendimento",
+                "Dipendenza dalla motivazione estrinseca (punti, badge) a discapito di quella intrinseca",
+                "Richiede dispositivi e connessione",
+                "Competizione può demotivare chi arriva sempre ultimo",
+                "Difficoltà nella valutazione sommativa"
+              ],
+              "quiz": [
+                {
+                  "domanda": "Qual è la differenza principale tra Gamification e Game-Based Learning?",
+                  "opzioni": [
+                    "Non c'è differenza",
+                    "La Gamification aggiunge meccaniche di gioco a contenuti tradizionali; il GBL usa giochi veri come strumento",
+                    "Il GBL è solo digitale, la Gamification solo analogica",
+                    "La Gamification è per bambini, il GBL per adulti"
+                  ],
+                  "risposta": "La Gamification aggiunge meccaniche di gioco a contenuti tradizionali; il GBL usa giochi veri come strumento",
+                  "spiegazione": "La distinzione è fondamentale: la Gamification modifica l'esperienza didattica aggiungendo punti, badge, livelli; il GBL usa giochi (digitali o fisici) come veicolo principale di apprendimento."
+                },
+                {
+                  "domanda": "Quale caratteristica del gioco favorisce l'apprendimento per tentativi?",
+                  "opzioni": [
+                    "La competizione",
+                    "La tolleranza al fallimento (si può riprovare)",
+                    "I premi finali",
+                    "La velocità"
+                  ],
+                  "risposta": "La tolleranza al fallimento (si può riprovare)",
+                  "spiegazione": "Nel gioco il fallimento non ha conseguenze permanenti: si può riprovare subito. Questa caratteristica riduce l'ansia e favorisce l'apprendimento per tentativi ed errori."
+                },
+                {
+                  "domanda": "Quale strumento permette di trasformare la classe in un RPG con punti esperienza e missioni?",
+                  "opzioni": [
+                    "Kahoot",
+                    "Classcraft",
+                    "Quizlet",
+                    "EdPuzzle"
+                  ],
+                  "risposta": "Classcraft",
+                  "spiegazione": "Classcraft è una piattaforma che trasforma la gestione della classe in un gioco di ruolo (RPG): gli studenti hanno personaggi, punti salute/esperienza e missioni legate ai comportamenti e agli apprendimenti."
+                }
+              ]
+            }
+          }
+        },
+        "Metodologie Inclusive": {
+          "descrizione": "UDL, Peer Tutoring, Scaffolding, Differenziazione Didattica",
+          "metodologie": {
+            "met_006": {
+              "titolo": "Universal Design for Learning (UDL)",
+              "sottotitolo": "Progettazione Universale per l'Apprendimento",
+              "autori_riferimento": [
+                "CAST — Center for Applied Special Technology",
+                "David Rose",
+                "Anne Meyer"
+              ],
+              "anno_sviluppo": "anni '90 — linee guida UDL 2018",
+              "target": [
+                "docenti"
+              ],
+              "sintesi_breve": "Framework di progettazione didattica che prevede molteplici mezzi di rappresentazione, azione/espressione e coinvolgimento per rendere l'apprendimento accessibile a tutti.",
+              "sintesi_docenti": "L'UDL si basa su 3 reti neurali: Reti del riconoscimento (il 'cosa' dell'apprendimento → molteplici mezzi di rappresentazione), Reti strategiche (il 'come' → molteplici mezzi di azione ed espressione), Reti affettive (il 'perché' → molteplici mezzi di coinvolgimento). Non è una metodologia per studenti con BES, ma una progettazione universale che elimina le barriere per tutti. Se si progetta per il margine, si migliora per il centro. Le Linee Guida UDL 3.0 (2024) sono il riferimento aggiornato.",
+              "sintesi_studenti": "L'UDL è una filosofia che dice: la scuola deve essere progettata per funzionare per TUTTI gli studenti, non solo per quelli 'medi'. Significa che puoi imparare in modi diversi: leggendo, guardando, ascoltando, facendo.",
+              "obiettivi": [
+                "Principio 1 — Molteplici mezzi di Rappresentazione: testo + audio + video + immagini",
+                "Principio 2 — Molteplici mezzi di Azione ed Espressione: scritto + orale + digitale + pratico",
+                "Principio 3 — Molteplici mezzi di Coinvolgimento: scelta, rilevanza, autoregolazione",
+                "Progettare per il margine migliora l'esperienza per tutti",
+                "Obiettivo finale: studenti esperti, motivati e strategici"
+              ],
+              "contenuti": [
+                "Linee Guida UDL (cast.org)",
+                "Materiali in formati multipli (PDF accessibile, audio, video)",
+                "Strumenti digitali per la produzione (Canva, Screencast)",
+                "Arredi flessibili",
+                "Checklist UDL per la progettazione delle lezioni"
+              ],
+              "competenze": [
+                "D.Lgs 66/2017 — inclusione",
+                "L. 104/1992",
+                "L. 170/2010 — BES e DSA",
+                "Agenda ONU 2030 — Goal 4"
+              ],
+              "esempi_in_classe": [
+                {
+                  "titolo": "Lezione UDL su un concetto scientifico",
+                  "descrizione": "Il docente presenta lo stesso concetto con: testo scritto + video animato + esperimento pratico + mappa concettuale. Gli studenti scelgono come dimostrare la comprensione: relazione scritta, presentazione orale, video, mappa."
+                },
+                {
+                  "titolo": "UDL nella verifica",
+                  "descrizione": "Invece di un'unica prova scritta, il docente offre opzioni: risposta scritta, risposta orale, presentazione con supporto visivo, realizzazione di un prodotto. Il contenuto da dimostrare è lo stesso, cambia solo il mezzo."
+                },
+                {
+                  "titolo": "UDL nel setting d'aula",
+                  "descrizione": "La classe ha zone diverse: banco tradizionale, scrivania in piedi, area collaborativa, angolo lettura. Gli studenti scelgono dove lavorare in base all'attività."
+                }
+              ],
+              "vantaggi": [
+                "Riduce la necessità di adattamenti individuali a posteriori",
+                "Beneficia a tutti gli studenti, non solo quelli con BES",
+                "Aumenta il senso di appartenenza e riduce lo stigma",
+                "Allineato con la normativa sull'inclusione (D.Lgs 66/2017)",
+                "Favorisce l'autonomia e l'autoregolazione degli studenti"
+              ],
+              "limiti": [
+                "Richiede riprogettazione profonda di tutta la didattica",
+                "Richiede formazione specifica del docente (corso UDL)",
+                "Può richiedere più risorse e materiali",
+                "In classi molto numerose è difficile offrire opzioni reali",
+                "Non elimina la necessità di supporti individuali per disabilità gravi"
+              ],
+              "quiz": [
+                {
+                  "domanda": "Su quante reti neurali si basa il framework UDL?",
+                  "opzioni": [
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                  ],
+                  "risposta": "3",
+                  "spiegazione": "L'UDL si basa su 3 reti neurali: Reti del riconoscimento (cosa), Reti strategiche (come), Reti affettive (perché)."
+                },
+                {
+                  "domanda": "L'UDL è pensato principalmente per:",
+                  "opzioni": [
+                    "Solo studenti con disabilità",
+                    "Solo studenti DSA",
+                    "Tutti gli studenti — progettazione universale",
+                    "Solo studenti gifted"
+                  ],
+                  "risposta": "Tutti gli studenti — progettazione universale",
+                  "spiegazione": "L'UDL non è una misura compensativa per studenti con BES, ma una filosofia di progettazione universale che elimina le barriere per tutti gli studenti fin dall'inizio."
+                },
+                {
+                  "domanda": "Cosa significa 'progettare per il margine' nell'UDL?",
+                  "opzioni": [
+                    "Scrivere note a margine del libro",
+                    "Progettare pensando agli studenti con più difficoltà migliora l'esperienza per tutti",
+                    "Limitare i contenuti agli essenziali",
+                    "Fare lavoro extra per gli studenti avanzati"
+                  ],
+                  "risposta": "Progettare pensando agli studenti con più difficoltà migliora l'esperienza per tutti",
+                  "spiegazione": "Come i marciapiedi ribassati aiutano chi è in carrozzina ma anche mamme con passeggino, ciclisti e anziani, progettare per chi ha più difficoltà produce ambienti migliori per tutti."
+                }
+              ]
+            },
+            "met_007": {
+              "titolo": "Peer Tutoring e Tutoring tra pari",
+              "sottotitolo": "Apprendimento attraverso l'insegnamento reciproco",
+              "autori_riferimento": [
+                "Keith Topping",
+                "Vygotsky — ZSP"
+              ],
+              "anno_sviluppo": "anni '70-'80",
+              "target": [
+                "docenti",
+                "studenti"
+              ],
+              "sintesi_breve": "Uno studente (tutor) supporta il apprendimento di un compagno (tutee) sotto la supervisione del docente. Chi insegna impara due volte.",
+              "sintesi_docenti": "Il Peer Tutoring si basa sul concetto vygotskijano di Zona di Sviluppo Prossimale: il tutor, appena più avanzato del tutee, può spiegare in modo più vicino al livello del compagno. Topping distingue: tutoring in coppia fissa (uno insegna sempre), tutoring reciproco (si alternano), tutoring tra classi diverse (studenti grandi con studenti piccoli). Il docente forma i tutor, monitora e valuta. Efficace sia per il tutee sia per il tutor (effetto protégé).",
+              "sintesi_studenti": "Aiutare un compagno che ha difficoltà ti fa capire meglio la materia tu stesso. Essere aiutato da un compagno è spesso più facile che essere aiutato dal professore: usa parole più simili alle tue.",
+              "obiettivi": [
+                "Zona di Sviluppo Prossimale (Vygotsky): il tutor è 'appena oltre' il tutee",
+                "Effetto protégé: chi insegna consolida e approfondisce il proprio apprendimento",
+                "Il linguaggio tra pari è spesso più accessibile del linguaggio del docente",
+                "Formazione e supervisione del tutor da parte del docente",
+                "Benefici bidirezionali: tutor e tutee imparano entrambi"
+              ],
+              "contenuti": [
+                "Scheda di tutoring (obiettivi della sessione)",
+                "Formazione specifica per i tutor",
+                "Diario delle sessioni",
+                "Griglia di osservazione del docente",
+                "Modulo di feedback tutor-tutee"
+              ],
+              "competenze": [
+                "D.Lgs 66/2017 — inclusione",
+                "L. 170/2010 — supporto DSA",
+                "Indicazioni Nazionali — collaborazione e relazione"
+              ],
+              "esempi_in_classe": [
+                {
+                  "titolo": "Tutoring in matematica",
+                  "descrizione": "Gli studenti più avanzati in geometria lavorano in coppia con compagni in difficoltà. Il docente forma i tutor su come spiegare senza dare la risposta. Sessioni di 20 minuti, 2 volte a settimana."
+                },
+                {
+                  "titolo": "Tutoring tra classi",
+                  "descrizione": "Studenti di quinta elementare leggono e commentano libri illustrati con bambini di prima. I 'grandi' preparano domande di comprensione e attività. Benefici per entrambe le classi."
+                },
+                {
+                  "titolo": "Tutoring reciproco",
+                  "descrizione": "In una coppia, i ruoli si alternano: questa settimana A spiega matematica a B, la prossima B spiega storia ad A. Ognuno ha un'area di forza da condividere."
+                }
+              ],
+              "vantaggi": [
+                "Efficace per studenti con BES e DSA (linguaggio tra pari più accessibile)",
+                "Il tutor consolida e approfondisce il proprio apprendimento",
+                "Sviluppa empatia, pazienza e abilità comunicative nel tutor",
+                "Libera tempo al docente per interventi mirati",
+                "Basso costo, applicabile in qualsiasi contesto"
+              ],
+              "limiti": [
+                "Il tutor deve essere formato: non basta essere bravo in una materia",
+                "Rischio di sviluppo di dipendenza del tutee dal tutor",
+                "Il tutor può trasmettere errori o misconcezioni",
+                "Non sostituisce l'intervento del docente specialista",
+                "Può creare dinamiche di potere tra pari se non gestito bene"
+              ],
+              "quiz": [
+                {
+                  "domanda": "Su quale concetto teorico si basa il Peer Tutoring?",
+                  "opzioni": [
+                    "Tassonomia di Bloom",
+                    "Zona di Sviluppo Prossimale di Vygotsky",
+                    "Intelligenze Multiple di Gardner",
+                    "Condizionamento operante di Skinner"
+                  ],
+                  "risposta": "Zona di Sviluppo Prossimale di Vygotsky",
+                  "spiegazione": "La ZSP di Vygotsky spiega perché il peer tutoring funziona: il tutor, 'appena oltre' il livello del tutee, può supportarlo in modo più efficace del docente che è molto più avanzato."
+                },
+                {
+                  "domanda": "Cosa si intende per 'effetto protégé'?",
+                  "opzioni": [
+                    "Il tutee protegge il tutor dalle difficoltà",
+                    "Chi insegna consolida e approfondisce il proprio apprendimento",
+                    "Il docente protegge entrambi",
+                    "Il tutor protegge il tutee dai voti negativi"
+                  ],
+                  "risposta": "Chi insegna consolida e approfondisce il proprio apprendimento",
+                  "spiegazione": "L'effetto protégé (o 'learning by teaching') documenta che spiegare un concetto a qualcuno porta il tutor a comprenderlo più profondamente."
+                },
+                {
+                  "domanda": "Nel tutoring reciproco, come si alternano i ruoli?",
+                  "opzioni": [
+                    "Il docente decide ogni giorno chi fa il tutor",
+                    "I ruoli non cambiano mai",
+                    "Tutor e tutee si scambiano i ruoli alternandosi su argomenti diversi",
+                    "Il ruolo di tutor va sempre allo studente più bravo"
+                  ],
+                  "risposta": "Tutor e tutee si scambiano i ruoli alternandosi su argomenti diversi",
+                  "spiegazione": "Nel tutoring reciproco ogni studente ha un'area di forza: A spiega matematica a B, B spiega storia ad A. I ruoli si alternano valorizzando le competenze di ciascuno."
+                }
+              ]
+            },
+            "met_008": {
+              "titolo": "Scaffolding",
+              "sottotitolo": "Impalcatura didattica — supporto graduato e temporaneo",
+              "autori_riferimento": [
+                "Lev Vygotsky",
+                "Jerome Bruner",
+                "Wood, Bruner & Ross (1976)"
+              ],
+              "anno_sviluppo": "1976",
+              "target": [
+                "docenti"
+              ],
+              "sintesi_breve": "Il docente fornisce supporti temporanei e graduati che permettono allo studente di svolgere compiti oltre la propria autonomia corrente, per poi rimuoverli progressivamente.",
+              "sintesi_docenti": "Lo scaffolding (impalcatura) è un supporto temporaneo che aiuta lo studente a lavorare nella Zona di Sviluppo Prossimale. Le caratteristiche chiave sono: contingenza (adattato al bisogno del momento), fading (riduzione progressiva del supporto man mano che lo studente acquisisce autonomia), trasferimento della responsabilità. Forme di scaffolding: verbale (domande guida), visuale (mappe, organizzatori grafici), procedurale (checklist di passi), fisico (manipolazione di materiali), metacognitivo (strategie di pianificazione).",
+              "sintesi_studenti": "Lo scaffolding è come le ruotine laterali della bicicletta: aiuta finché ne hai bisogno, poi vengono tolte. Il prof ti dà suggerimenti e supporti che si riducono man mano che impari.",
+              "obiettivi": [
+                "Contingenza: il supporto è calibrato sul bisogno specifico del momento",
+                "Fading: il supporto viene ridotto progressivamente",
+                "Trasferimento della responsabilità: dall'adulto allo studente",
+                "Mantiene lo studente nella Zona di Sviluppo Prossimale",
+                "Non dà la risposta, ma guida verso di essa"
+              ],
+              "contenuti": [
+                "Organizzatori grafici e mappe parziali",
+                "Checklist procedurali",
+                "Esempi guidati (worked examples)",
+                "Domande Socratiche graduali",
+                "Schede con word bank per la scrittura"
+              ],
+              "competenze": [
+                "L. 170/2010 — strumenti compensativi",
+                "D.Lgs 66/2017 — supporto inclusivo",
+                "DM 5669/2011 — strategie DSA"
+              ],
+              "esempi_in_classe": [
+                {
+                  "titolo": "Scaffolding nella scrittura",
+                  "descrizione": "Per un testo argomentativo: prima il docente mostra un esempio completo, poi fornisce uno schema con sezioni vuote da completare, poi solo suggerimenti di connettivi, poi solo la consegna. Ogni studente parte dal livello di supporto di cui ha bisogno."
+                },
+                {
+                  "titolo": "Scaffolding in matematica",
+                  "descrizione": "Per la risoluzione di problemi: checklist di passi (1. Leggo, 2. Identifico i dati, 3. Identifico l'incognita, 4. Scelgo l'operazione, 5. Calcolo, 6. Verifico). La checklist viene rimossa quando lo studente la interiorizza."
+                },
+                {
+                  "titolo": "Scaffolding visuale",
+                  "descrizione": "Mappe concettuali parzialmente completate (il docente inserisce i nodi principali, gli studenti completano i rami), organizzatori grafici, linee del tempo con alcuni eventi già inseriti."
+                }
+              ],
+              "vantaggi": [
+                "Permette a studenti in difficoltà di affrontare compiti complessi",
+                "Evita la frustrazione senza privare della sfida cognitiva",
+                "Fondamentale per studenti con DSA, BES, disabilità",
+                "Promuove l'autonomia graduale",
+                "Applicabile a tutte le discipline e a tutti i livelli scolastici"
+              ],
+              "limiti": [
+                "Rischio di scaffolding eccessivo che crea dipendenza",
+                "Richiede osservazione continua per calibrare il supporto",
+                "Il fading richiede monitoraggio attento",
+                "Tempi diversi tra studenti rendono la gestione complessa",
+                "Non sempre è chiaro quando rimuovere il supporto"
+              ],
+              "quiz": [
+                {
+                  "domanda": "Chi ha introdotto il termine 'scaffolding' in ambito educativo?",
+                  "opzioni": [
+                    "Vygotsky",
+                    "Wood, Bruner e Ross (1976)",
+                    "Piaget",
+                    "Montessori"
+                  ],
+                  "risposta": "Wood, Bruner e Ross (1976)",
+                  "spiegazione": "Il termine scaffolding è stato introdotto da Wood, Bruner e Ross nel 1976, basandosi sul concetto di ZSP di Vygotsky per descrivere il supporto tutoriale."
+                },
+                {
+                  "domanda": "Cosa significa 'fading' nello scaffolding?",
+                  "opzioni": [
+                    "Aumentare progressivamente il supporto",
+                    "Eliminare il supporto di colpo",
+                    "Ridurre progressivamente il supporto man mano che lo studente acquista autonomia",
+                    "Cambiare tipo di supporto ogni lezione"
+                  ],
+                  "risposta": "Ridurre progressivamente il supporto man mano che lo studente acquista autonomia",
+                  "spiegazione": "Il fading è la progressiva riduzione del supporto: man mano che lo studente internalizza la competenza, il docente ritira l'impalcatura per favorire l'autonomia."
+                },
+                {
+                  "domanda": "Quale delle seguenti è una forma di scaffolding visuale?",
+                  "opzioni": [
+                    "Spiegare a voce più volte",
+                    "Fornire una mappa concettuale parzialmente completata",
+                    "Fare fare più esercizi",
+                    "Valutare con voti più alti"
+                  ],
+                  "risposta": "Fornire una mappa concettuale parzialmente completata",
+                  "spiegazione": "Lo scaffolding visuale include mappe parziali, organizzatori grafici, linee del tempo con alcuni elementi già inseriti: forniscono una struttura visiva che supporta il completamento da parte dello studente."
+                }
+              ]
+            },
+            "met_009": {
+              "titolo": "Differenziazione Didattica",
+              "sottotitolo": "Insegnare allo stesso contenuto in modi diversi",
+              "autori_riferimento": [
+                "Carol Ann Tomlinson"
+              ],
+              "anno_sviluppo": "anni '90-2000",
+              "target": [
+                "docenti"
+              ],
+              "sintesi_breve": "Il docente modifica contenuti, processi, prodotti e ambiente in base ai profili di apprendimento, ai livelli di preparazione e agli interessi degli studenti.",
+              "sintesi_docenti": "Tomlinson identifica 4 elementi differenziabili: Contenuto (cosa si studia — livelli di complessità diversi), Processo (come si studia — attività diversificate), Prodotto (come si dimostra — valutazione flessibile), Ambiente (dove e in quali condizioni). La differenziazione si basa su 3 caratteristiche degli studenti: livello di preparazione (readiness), interessi, profilo di apprendimento. NON significa fare lezioni separate per ogni studente, ma progettare con flessibilità incorporata.",
+              "sintesi_studenti": "La differenziazione significa che il tuo insegnante può dare a studenti diversi materiali o compiti diversi, in base a cosa già sai e come impari meglio. L'obiettivo finale è lo stesso per tutti.",
+              "obiettivi": [
+                "Tutti gli studenti hanno obiettivi di apprendimento sfidanti (non semplificati)",
+                "I 4 elementi differenziabili: contenuto, processo, prodotto, ambiente",
+                "Basata su: livello di preparazione, interessi, profilo di apprendimento",
+                "La differenziazione non è individualizzazione totale",
+                "Valutazione come strumento per calibrare la differenziazione"
+              ],
+              "contenuti": [
+                "Materiali a livelli di complessità diversa",
+                "Choice board stampate",
+                "Stazioni fisiche o digitali",
+                "Rubrica di valutazione condivisa",
+                "Pre-assessment per conoscere il livello di partenza"
+              ],
+              "competenze": [
+                "L. 170/2010 — didattica individualizzata",
+                "Dir. Min. 2012 — BES",
+                "DPR 275/1999 — autonomia didattica"
+              ],
+              "esempi_in_classe": [
+                {
+                  "titolo": "Testi a livelli diversi",
+                  "descrizione": "Per lo stesso argomento storico, tre versioni del testo: semplificato con glossario e immagini, standard, approfondito con fonti primarie. Tutti leggono, poi discutono insieme."
+                },
+                {
+                  "titolo": "Compiti a scelta (choice board)",
+                  "descrizione": "Una griglia 3x3 con 9 attività diverse sullo stesso argomento. Gli studenti ne scelgono 3 formando una riga (come al tris). Ogni riga garantisce diverse modalità di apprendimento."
+                },
+                {
+                  "titolo": "Stazioni di apprendimento",
+                  "descrizione": "La classe ruota su 4-5 stazioni: lettura, video, gioco, pratica, creazione. Stessa tappa cognitiva, approcci diversi. Alcune stazioni sono obbligatorie, altre opzionali."
+                }
+              ],
+              "vantaggi": [
+                "Raggiunge tutti gli studenti: avanzati, in linea e in difficoltà",
+                "Riduce la frustrazione per i più deboli senza annoiare i più bravi",
+                "Valorizza i diversi talenti e modalità di apprendimento",
+                "Compatibile con PEI, PDP e BES",
+                "Aumenta la motivazione grazie alla personalizzazione"
+              ],
+              "limiti": [
+                "Richiede elevato investimento di progettazione del docente",
+                "Gestione complessa di più attività simultanee in classe",
+                "Rischio di etichettare gli studenti per livello",
+                "Più materiali da preparare e gestire",
+                "Resistenza di famiglie e studenti se non spiegata bene"
+              ],
+              "quiz": [
+                {
+                  "domanda": "Chi ha teorizzato il modello di differenziazione didattica più diffuso nelle scuole?",
+                  "opzioni": [
+                    "Howard Gardner",
+                    "Carol Ann Tomlinson",
+                    "Benjamin Bloom",
+                    "John Hattie"
+                  ],
+                  "risposta": "Carol Ann Tomlinson",
+                  "spiegazione": "Carol Ann Tomlinson è la principale teorica della differenziazione didattica, con opere fondamentali come 'The Differentiated Classroom' (1999)."
+                },
+                {
+                  "domanda": "Quanti sono gli elementi differenziabili secondo Tomlinson?",
+                  "opzioni": [
+                    "2",
+                    "3",
+                    "4",
+                    "6"
+                  ],
+                  "risposta": "4",
+                  "spiegazione": "I 4 elementi differenziabili sono: Contenuto, Processo, Prodotto e Ambiente di apprendimento."
+                },
+                {
+                  "domanda": "Su quali 3 caratteristiche degli studenti si basa la differenziazione?",
+                  "opzioni": [
+                    "Età, genere, nazionalità",
+                    "Livello di preparazione, interessi, profilo di apprendimento",
+                    "Voti, comportamento, frequenza",
+                    "DSA, BES, disabilità"
+                  ],
+                  "risposta": "Livello di preparazione, interessi, profilo di apprendimento",
+                  "spiegazione": "Tomlinson identifica tre variabili su cui differenziare: readiness (livello di preparazione), interests (interessi degli studenti) e learning profile (profilo di apprendimento)."
+                }
+              ]
+            }
+          }
+        },
+        "Metodologie Digitali": {
+          "descrizione": "TIC/ICT, modello SAMR, DigComp 2.2",
+          "metodologie": {
+            "met_010": {
+              "titolo": "Tecnologie dell'Informazione e Comunicazione (TIC/ICT)",
+              "sottotitolo": "Integrazione delle tecnologie nella didattica",
+              "autori_riferimento": [
+                "SAMR — Ruben Puentedura",
+                "DigComp 2.2 — Commissione Europea"
+              ],
+              "anno_sviluppo": "anni 2000 — aggiornamento continuo",
+              "target": [
+                "docenti",
+                "studenti"
+              ],
+              "sintesi_breve": "Integrazione consapevole delle tecnologie digitali nella didattica secondo il modello SAMR: dalla sostituzione alla ridefinizione.",
+              "sintesi_docenti": "Il modello SAMR (Puentedura) descrive 4 livelli di integrazione tecnologica: Substitution (la tecnologia sostituisce lo strumento analogico senza cambiamento funzionale), Augmentation (migliora ma non trasforma), Modification (ridisegna significativamente il compito), Redefinition (crea compiti nuovi impossibili senza tecnologia). L'obiettivo non è usare la tecnologia per se stessa, ma raggiungere i livelli M e R. Il framework DigComp 2.2 UE definisce le competenze digitali per cittadini e docenti.",
+              "sintesi_studenti": "Usare il computer o il tablet non è automaticamente 'imparare meglio'. La tecnologia è uno strumento: dipende da come la usi. Usarla per creare, collaborare e risolvere problemi è molto più utile che usarla solo per guardare video.",
+              "obiettivi": [
+                "SAMR: Substitution → Augmentation → Modification → Redefinition",
+                "La tecnologia deve servire l'apprendimento, non il contrario",
+                "Digital citizenship: uso critico, sicuro ed etico della tecnologia",
+                "DigComp 2.2: 5 aree di competenza digitale del cittadino",
+                "Inclusione digitale: garantire accesso a tutti gli studenti"
+              ],
+              "contenuti": [
+                "LIM / proiettore",
+                "Google Workspace for Education o Microsoft 365",
+                "Dispositivi (1:1 o condivisi)",
+                "Piattaforma LMS (Google Classroom, Moodle)",
+                "Software accessibilità (TTS, ingrandimento)"
+              ],
+              "competenze": [
+                "PNSD 2015",
+                "L. 107/2015 — innovazione digitale",
+                "GDPR — privacy minori",
+                "DigComp 2.2 UE 2022"
+              ],
+              "esempi_in_classe": [
+                {
+                  "titolo": "Livello Redefinition — Podcast didattico",
+                  "descrizione": "Gli studenti realizzano un podcast su un argomento di storia. Ricercano, scrivono lo script, registrano, editano e pubblicano. Impossibile senza tecnologia digitale — apprendimento autentico e profondo."
+                },
+                {
+                  "titolo": "Livello Modification — Documento collaborativo",
+                  "descrizione": "Invece di scrivere singolarmente, la classe scrive un documento condiviso su Google Docs. Commenti in tempo reale, revisione tra pari, cronologia delle modifiche. Il compito è ridisegnato."
+                },
+                {
+                  "titolo": "Livello Substitution (da evitare come fine)",
+                  "descrizione": "Usare il PDF del libro di testo invece del cartaceo. Stessa attività, stesso contenuto, solo supporto diverso. Non aggiunge valore didattico: da usare solo se necessario, non come innovazione."
+                }
+              ],
+              "vantaggi": [
+                "Accesso a risorse globali e aggiornate",
+                "Personalizzazione dell'apprendimento (ritmo, stile, livello)",
+                "Strumenti compensativi fondamentali per DSA (TTS, predittore)",
+                "Collaborazione in tempo reale anche a distanza",
+                "Preparazione alle competenze del mondo del lavoro"
+              ],
+              "limiti": [
+                "Divario digitale: non tutti gli studenti hanno accesso a casa",
+                "Rischio di distrazione e usi impropri",
+                "La tecnologia può essere usata in modo passivo (sostituzione)",
+                "Privacy e gestione dei dati dei minori",
+                "Obsolescenza rapida degli strumenti"
+              ],
+              "quiz": [
+                {
+                  "domanda": "Cosa significa SAMR?",
+                  "opzioni": [
+                    "Sistema di Apprendimento Modulare e Riflessivo",
+                    "Substitution, Augmentation, Modification, Redefinition",
+                    "Standard di Accesso ai Materiali in Rete",
+                    "Strategia per l'Apprendimento Mediato dalla Ricerca"
+                  ],
+                  "risposta": "Substitution, Augmentation, Modification, Redefinition",
+                  "spiegazione": "SAMR è il modello di Ruben Puentedura che descrive 4 livelli progressivi di integrazione della tecnologia nella didattica."
+                },
+                {
+                  "domanda": "Qual è il livello più alto del modello SAMR?",
+                  "opzioni": [
+                    "Substitution",
+                    "Augmentation",
+                    "Modification",
+                    "Redefinition"
+                  ],
+                  "risposta": "Redefinition",
+                  "spiegazione": "Redefinition è il livello più alto: la tecnologia permette di creare compiti e attività di apprendimento che sarebbero stati impossibili prima dell'era digitale."
+                },
+                {
+                  "domanda": "Quante aree di competenza digitale definisce il framework DigComp 2.2?",
+                  "opzioni": [
+                    "3",
+                    "4",
+                    "5",
+                    "8"
+                  ],
+                  "risposta": "5",
+                  "spiegazione": "DigComp 2.2 (2022) identifica 5 aree: Alfabetizzazione su informazioni e dati, Comunicazione e collaborazione, Creazione di contenuti digitali, Sicurezza, Risolvere problemi."
+                }
+              ]
+            }
+          }
+        },
+        "Apprendimento Socio-Emotivo": {
+          "descrizione": "SEL (CASEL), Mindfulness a scuola",
+          "metodologie": {
+            "met_011": {
+              "titolo": "Social Emotional Learning (SEL)",
+              "sottotitolo": "Apprendimento Socio-Emotivo",
+              "autori_riferimento": [
+                "CASEL — Collaborative for Academic, Social, and Emotional Learning",
+                "Daniel Goleman"
+              ],
+              "anno_sviluppo": "1994 (CASEL fondato)",
+              "target": [
+                "docenti",
+                "studenti"
+              ],
+              "sintesi_breve": "Framework per sviluppare le 5 competenze socio-emotive: autoconsapevolezza, autogestione, consapevolezza sociale, abilità relazionali, decisioni responsabili.",
+              "sintesi_docenti": "Il framework CASEL identifica 5 aree di competenza SEL: Self-awareness (riconoscere emozioni e punti di forza), Self-management (regolare emozioni e comportamenti, gestire stress), Social awareness (empatia, prospettive altrui), Relationship skills (comunicare, collaborare, risolvere conflitti), Responsible decision-making (valutare conseguenze). L'SEL non è un'ora separata, ma una cornice trasversale a tutta la vita scolastica. Ricerche CASEL mostrano +11% nei risultati accademici con programmi SEL sistematici.",
+              "sintesi_studenti": "Il SEL ti aiuta a capire e gestire le tue emozioni, a capire come si sentono gli altri e a prendere buone decisioni. Queste competenze ti aiutano sia a scuola sia nella vita.",
+              "obiettivi": [
+                "5 competenze CASEL: autoconsapevolezza, autogestione, consapevolezza sociale, abilità relazionali, decisioni responsabili",
+                "L'SEL è trasversale: non un'ora a settimana ma un clima di classe",
+                "Il docente è il primo modellatore SEL (modeling)",
+                "Integrazione con il curricolo disciplinare",
+                "Collaborazione scuola-famiglia per il rinforzo"
+              ],
+              "contenuti": [
+                "Semaforo emotivo / termometro delle emozioni",
+                "Tappetino o spazio dedicato per il circle time",
+                "Libri e racconti con temi emotivi",
+                "App SEL (ClassDojo, Mindfulness apps)",
+                "Schede di riflessione emotiva"
+              ],
+              "competenze": [
+                "L. 92/2019 — educazione civica",
+                "Indicazioni Nazionali — educazione alla cittadinanza",
+                "L. 107/2015 — benessere scolastico"
+              ],
+              "esempi_in_classe": [
+                {
+                  "titolo": "Check-in emotivo mattutino",
+                  "descrizione": "All'inizio della giornata, ogni studente indica il proprio stato emotivo su un cartellone (semaforo emotivo, termometro, o app). Il docente può così aggiustare il tono della giornata e intercettare chi sta male."
+                },
+                {
+                  "titolo": "Circle time SEL",
+                  "descrizione": "Sessione settimanale di 20-30 minuti in cerchio. Il docente propone una situazione (es: 'Come ti comporti quando sei arrabbiato?'). Gli studenti condividono rispettando il turno di parola. Nessuna risposta è sbagliata."
+                },
+                {
+                  "titolo": "SEL attraverso la letteratura",
+                  "descrizione": "Durante la lettura di un romanzo, il docente ferma la narrazione e chiede: 'Come si sente il personaggio? Perché? Avresti fatto diversamente?' Integra SEL e competenza letteraria."
+                }
+              ],
+              "vantaggi": [
+                "Migliora il clima di classe e riduce i comportamenti problema",
+                "Correlato positivamente con i risultati accademici (+11% secondo CASEL)",
+                "Sviluppa competenze per la vita (life skills) fondamentali",
+                "Riduce bullismo e conflitti",
+                "Beneficio maggiore per studenti in situazioni di svantaggio"
+              ],
+              "limiti": [
+                "Richiede formazione specifica dei docenti",
+                "I risultati non sono immediatamente visibili",
+                "Difficile da valutare con strumenti tradizionali",
+                "Rischio di ridurlo a 'momento SEL' isolato anziché clima pervasivo",
+                "Necessita di coerenza tra tutti i docenti del team/Consiglio di Classe"
+              ],
+              "quiz": [
+                {
+                  "domanda": "Quante sono le competenze del framework CASEL SEL?",
+                  "opzioni": [
+                    "3",
+                    "4",
+                    "5",
+                    "7"
+                  ],
+                  "risposta": "5",
+                  "spiegazione": "Le 5 competenze CASEL sono: Self-awareness, Self-management, Social awareness, Relationship skills, Responsible decision-making."
+                },
+                {
+                  "domanda": "Secondo le ricerche CASEL, i programmi SEL sistematici producono quale effetto sui risultati accademici?",
+                  "opzioni": [
+                    "-5%",
+                    "Nessun effetto",
+                    "+11%",
+                    "+25%"
+                  ],
+                  "risposta": "+11%",
+                  "spiegazione": "Le meta-analisi CASEL mostrano che programmi SEL ben implementati migliorano in media dell'11% i risultati accademici degli studenti."
+                },
+                {
+                  "domanda": "Come deve essere implementato l'SEL nelle scuole?",
+                  "opzioni": [
+                    "Solo nell'ora di scienze motorie",
+                    "Come clima pervasivo trasversale a tutto, non solo un'ora separata",
+                    "Solo dai docenti di lettere",
+                    "Solo nella scuola primaria"
+                  ],
+                  "risposta": "Come clima pervasivo trasversale a tutto, non solo un'ora separata",
+                  "spiegazione": "L'SEL efficace non è un'ora isolata a settimana, ma un clima di classe e un approccio trasversale a tutte le discipline e a tutta la vita scolastica."
+                }
+              ]
+            },
+            "met_012": {
+              "titolo": "Mindfulness a Scuola",
+              "sottotitolo": "Consapevolezza del momento presente nella didattica",
+              "autori_riferimento": [
+                "Jon Kabat-Zinn",
+                "MindUP Curriculum",
+                "Goldie Hawn Foundation"
+              ],
+              "anno_sviluppo": "anni 2000 — in crescita negli anni '10",
+              "target": [
+                "docenti",
+                "studenti"
+              ],
+              "sintesi_breve": "Pratiche di consapevolezza (respirazione, attenzione, corpo) integrate nella routine scolastica per migliorare concentrazione, gestione dello stress e clima di classe.",
+              "sintesi_docenti": "La mindfulness scolastica si basa su pratiche brevi (2-10 min) di attenzione consapevole: respirazione guidata, body scan, esercizi di attenzione sensoriale. Non è una pratica religiosa ma una competenza cognitiva. Ricerche (MBSR adattato) mostrano riduzione di ansia, miglioramento dell'attenzione e della regolazione emotiva. In Italia è diffusa soprattutto nella scuola primaria. Il docente deve praticarla lui stesso per trasmetterla autenticamente.",
+              "sintesi_studenti": "La mindfulness ti insegna a fermarti e notare cosa senti nel corpo e nella mente, senza giudicarti. Aiuta a concentrarti meglio, a calmarti quando sei nervoso e a stare più tranquillo durante le verifiche.",
+              "obiettivi": [
+                "Attenzione intenzionale al momento presente, senza giudizio",
+                "Pratiche brevi e regolari sono più efficaci di sessioni lunghe e sporadiche",
+                "Il docente deve praticare lui stesso (modeling autentico)",
+                "Non è religiosa: è una competenza cognitiva laica",
+                "Integrazione nella routine quotidiana (inizio lezione, post-ricreazione)"
+              ],
+              "contenuti": [
+                "Timer (fisico o digitale)",
+                "App mindfulness (Calm, Headspace Kids, Smiling Mind)",
+                "Campana tibetana o suono di campanella",
+                "Cuscinetti o tappetini (opzionale)",
+                "Diario delle emozioni"
+              ],
+              "competenze": [
+                "L. 92/2019 — educazione civica e benessere",
+                "MIUR — Linee Guida benessere psicologico a scuola",
+                "SEL — CASEL framework"
+              ],
+              "esempi_in_classe": [
+                {
+                  "titolo": "Respiro 4-4-4",
+                  "descrizione": "All'inizio della lezione, 2 minuti: inspirare contando fino a 4, trattenere 4, espirare 4. Il docente fa insieme agli studenti. Riduce l'attivazione e prepara il cervello all'apprendimento."
+                },
+                {
+                  "titolo": "Attenzione sensoriale",
+                  "descrizione": "Il docente chiede: 'Cosa senti con le orecchie in questo momento? Conta 5 suoni'. Poi: 'Cosa vedi? Conta 5 cose blu'. Attiva l'attenzione selettiva e ancora gli studenti al presente."
+                },
+                {
+                  "titolo": "Giara della mente (pensieri come nuvole)",
+                  "descrizione": "Il docente mostra una giara con acqua e glitter. La agita: 'Questa è la nostra mente quando siamo agitati'. La lascia ferma: 'Quando ci fermiamo, i pensieri si posano'. Metafora efficace per i bambini."
+                }
+              ],
+              "vantaggi": [
+                "Riduce ansia e stress scolastico",
+                "Migliora concentrazione e attenzione sostenuta",
+                "Supporta la regolazione emotiva (connessione con SEL)",
+                "Crea transizioni più fluide tra le attività",
+                "Nessun costo — si pratica con la sola presenza"
+              ],
+              "limiti": [
+                "Il docente deve essere formato e praticare lui stesso",
+                "Può essere vissuta come strana o imbarazzante dagli adolescenti",
+                "Richiede costanza: gli effetti si vedono nel tempo",
+                "Non sostituisce il supporto psicologico specialistico",
+                "Alcune famiglie possono avere riserve culturali o religiose"
+              ],
+              "quiz": [
+                {
+                  "domanda": "Chi ha sviluppato il protocollo MBSR su cui si basa la mindfulness scolastica?",
+                  "opzioni": [
+                    "Daniel Goleman",
+                    "Jon Kabat-Zinn",
+                    "Howard Gardner",
+                    "Albert Bandura"
+                  ],
+                  "risposta": "Jon Kabat-Zinn",
+                  "spiegazione": "Jon Kabat-Zinn ha sviluppato il protocollo MBSR (Mindfulness-Based Stress Reduction) negli anni '70, base di tutti i programmi di mindfulness applicati inclusi quelli scolastici."
+                },
+                {
+                  "domanda": "Qual è la condizione più importante per un docente che vuole portare la mindfulness in classe?",
+                  "opzioni": [
+                    "Avere un certificato professionale",
+                    "Praticarla lui stesso",
+                    "Avere una stanza dedicata",
+                    "Avere il permesso dei genitori"
+                  ],
+                  "risposta": "Praticarla lui stesso",
+                  "spiegazione": "Il docente deve praticare la mindfulness autonomamente: non si può insegnare in modo autentico qualcosa che non si vive in prima persona. Il modeling è fondamentale."
+                },
+                {
+                  "domanda": "La mindfulness scolastica è una pratica religiosa?",
+                  "opzioni": [
+                    "Sì, di origine buddista",
+                    "No, è una competenza cognitiva laica",
+                    "Dipende dall'istituto scolastico",
+                    "Solo se il docente la presenta in modo spirituale"
+                  ],
+                  "risposta": "No, è una competenza cognitiva laica",
+                  "spiegazione": "Sebbene abbia origini nelle tradizioni contemplative, la mindfulness scolastica è una pratica cognitiva laica, scientificamente validata, che non ha contenuti religiosi."
+                }
+              ]
+            }
+          }
+        },
+        "Valutazione Formativa": {
+          "descrizione": "Assessment for Learning, Metacognizione e apprendimento autoregolato",
+          "metodologie": {
+            "met_013": {
+              "titolo": "Assessment for Learning — Valutazione Formativa",
+              "sottotitolo": "La valutazione come strumento di apprendimento",
+              "autori_riferimento": [
+                "Dylan Wiliam",
+                "Paul Black",
+                "John Hattie"
+              ],
+              "anno_sviluppo": "1998 — Black & Wiliam 'Inside the Black Box'",
+              "target": [
+                "docenti"
+              ],
+              "sintesi_breve": "La valutazione formativa è continua, orientata al miglioramento e fornisce feedback specifici che aiutano lo studente a capire dove si trova e come progredire.",
+              "sintesi_docenti": "Black & Wiliam (1998) hanno dimostrato che la valutazione formativa è l'intervento con il maggiore effect size sull'apprendimento. Hattie (Visible Learning) conferma feedback come primo fattore. I 5 pilastri di Wiliam: chiarire obiettivi e criteri, raccogliere prove di apprendimento, fornire feedback che fa avanzare, attivare gli studenti come insegnanti tra pari, attivare gli studenti come proprietari del proprio apprendimento. Strumenti: exit ticket, traffic light, hinge questions, peer assessment, rubrics.",
+              "sintesi_studenti": "La valutazione formativa non è per mettere un voto: è per aiutarti a capire cosa hai capito e cosa devi ancora imparare. Il feedback del prof ti dice esattamente come migliorare.",
+              "obiettivi": [
+                "Chiarire e condividere obiettivi di apprendimento e criteri di successo",
+                "Attivare discussioni e compiti che raccolgono prove di apprendimento",
+                "Fornire feedback che fa avanzare (non solo giudizio)",
+                "Attivare gli studenti come risorse di apprendimento tra pari",
+                "Attivare gli studenti come agenti del proprio apprendimento"
+              ],
+              "contenuti": [
+                "Exit ticket (post-it o digitali)",
+                "Traffic light cards",
+                "Rubrics condivise con gli studenti",
+                "Mini-lavagne bianche individuali",
+                "Plickers o Mentimeter per raccolta rapida dati"
+              ],
+              "competenze": [
+                "DPR 122/2009 — valutazione",
+                "D.Lgs 62/2017 — valutazione formativa",
+                "Indicazioni Nazionali — rubriche di valutazione"
+              ],
+              "esempi_in_classe": [
+                {
+                  "titolo": "Exit ticket",
+                  "descrizione": "Negli ultimi 3-5 minuti della lezione, ogni studente risponde su un post-it a: '1. Cosa ho capito oggi 2. Una cosa che non ho ancora capito 3. Una domanda che ho'. Il docente legge e adatta la lezione successiva."
+                },
+                {
+                  "titolo": "Traffic light (semaforo)",
+                  "descrizione": "Ogni studente ha 3 cartoncini (rosso/giallo/verde) o una striscia colorata. Durante la lezione mostra: verde=ho capito, giallo=ho qualche dubbio, rosso=non ho capito. Il docente vede subito dove intervenire."
+                },
+                {
+                  "titolo": "Hinge question",
+                  "descrizione": "A metà lezione il docente pone una domanda diagnostica chiave (hinge question): le risposte rivelano istantaneamente chi ha capito e chi no. Permette di 'girare' la lezione in base alle risposte."
+                }
+              ],
+              "vantaggi": [
+                "Massimo effect size sull'apprendimento (Hattie: d=0.7)",
+                "Permette al docente di aggiustare la didattica in tempo reale",
+                "Sviluppa metacognizione e autoregolazione negli studenti",
+                "Riduce l'ansia da prestazione rispetto alla valutazione sommativa",
+                "Compatibile con tutti i livelli scolastici e discipline"
+              ],
+              "limiti": [
+                "Richiede capacità di lettura e risposta rapida ai dati raccolti",
+                "Il feedback deve essere specifico e azionabile (non 'bravo/non bravo')",
+                "Può essere time-consuming se non si usano strumenti semplici",
+                "Il sistema valutativo istituzionale (voti) può confliggere",
+                "Richiede formazione specifica e cambiamento di mentalità"
+              ],
+              "quiz": [
+                {
+                  "domanda": "Chi ha pubblicato nel 1998 la ricerca fondamentale sulla valutazione formativa ('Inside the Black Box')?",
+                  "opzioni": [
+                    "John Hattie",
+                    "Carol Ann Tomlinson",
+                    "Black e Wiliam",
+                    "Vygotsky e Bruner"
+                  ],
+                  "risposta": "Black e Wiliam",
+                  "spiegazione": "Paul Black e Dylan Wiliam hanno pubblicato nel 1998 'Inside the Black Box', la meta-analisi che ha dimostrato scientificamente il potente effetto della valutazione formativa sull'apprendimento."
+                },
+                {
+                  "domanda": "Cos'è un 'exit ticket'?",
+                  "opzioni": [
+                    "Il permesso per uscire in anticipo",
+                    "Una breve riflessione scritta degli studenti a fine lezione",
+                    "Il voto finale della lezione",
+                    "Un'attività di apertura della lezione"
+                  ],
+                  "risposta": "Una breve riflessione scritta degli studenti a fine lezione",
+                  "spiegazione": "L'exit ticket è uno strumento di valutazione formativa: 3-5 minuti finali in cui gli studenti scrivono cosa hanno capito, cosa non hanno capito e una domanda. Il docente legge e adatta la lezione successiva."
+                },
+                {
+                  "domanda": "Secondo John Hattie (Visible Learning), quale intervento ha il maggiore effect size sull'apprendimento?",
+                  "opzioni": [
+                    "La riduzione della dimensione delle classi",
+                    "Il feedback formativo",
+                    "I compiti a casa",
+                    "Le tecnologie digitali"
+                  ],
+                  "risposta": "Il feedback formativo",
+                  "spiegazione": "Le ricerche di John Hattie in 'Visible Learning' indicano il feedback come uno degli interventi con il maggiore effect size (d=0.7) sull'apprendimento degli studenti."
+                }
+              ]
+            },
+            "met_014": {
+              "titolo": "Metacognizione e Apprendimento Autoregolato",
+              "sottotitolo": "Imparare a imparare — strategie di autoregolazione",
+              "autori_riferimento": [
+                "John Flavell",
+                "Barry Zimmerman",
+                "Albert Bandura"
+              ],
+              "anno_sviluppo": "anni '70-'80",
+              "target": [
+                "docenti",
+                "studenti"
+              ],
+              "sintesi_breve": "La metacognizione è la capacità di riflettere sui propri processi di pensiero. L'apprendimento autoregolato integra pianificazione, monitoraggio e valutazione del proprio studio.",
+              "sintesi_docenti": "Flavell (1979) ha introdotto il termine metacognizione: conoscenza e regolazione dei propri processi cognitivi. Zimmerman descrive il ciclo dell'apprendimento autoregolato in 3 fasi: previsione (goal setting, pianificazione), esecuzione (monitoraggio, autocontrollo), riflessione (autovalutazione, autoriflessione). Il docente può coltivare la metacognizione attraverso: thinking aloud, diari di apprendimento, strategie di studio esplicite, portfolio. L'obiettivo è lo studente 'esperto' che conosce i propri punti di forza e usa strategie adeguate.",
+              "sintesi_studenti": "La metacognizione è 'pensare su come pensi'. Ti aiuta a capire come studi, cosa funziona per te e come migliorare. Un buono studente non è solo bravo — sa come imparare.",
+              "obiettivi": [
+                "Metacognizione = conoscenza dei propri processi + regolazione degli stessi",
+                "Ciclo autoregolato: pianificazione → monitoraggio → riflessione",
+                "Il docente modella il pensiero ad alta voce (think aloud)",
+                "Lo studente impara a fissare obiettivi e monitorare i progressi",
+                "Trasferibile: le strategie apprese in una disciplina si applicano alle altre"
+              ],
+              "contenuti": [
+                "Diario di apprendimento / learning log",
+                "Portfolio (fisico o digitale)",
+                "Schede di autovalutazione",
+                "Checklist di strategie di studio",
+                "Moduli di goal setting settimanale"
+              ],
+              "competenze": [
+                "Indicazioni Nazionali — imparare a imparare",
+                "D.Lgs 62/2017 — autovalutazione",
+                "L. 170/2010 — strategie DSA"
+              ],
+              "esempi_in_classe": [
+                {
+                  "titolo": "Think aloud del docente",
+                  "descrizione": "Il docente risolve un problema matematico pensando ad alta voce: 'Non capisco questa parte, quindi rileggo... ho individuato i dati, ora cerco la strategia...' Modella esplicitamente il processo metacognitivo."
+                },
+                {
+                  "titolo": "Diario di apprendimento",
+                  "descrizione": "Ogni studente tiene un quaderno dove dopo ogni lezione scrive: cosa ho capito, cosa non ho capito, come ho studiato, cosa farò la prossima volta. Il docente legge periodicamente e dà feedback."
+                },
+                {
+                  "titolo": "Portfolio di apprendimento",
+                  "descrizione": "Gli studenti raccolgono i propri lavori nel tempo, scelgono i migliori e scrivono una riflessione su ogni scelta: 'Ho scelto questo perché mostra come sono migliorato in...'. Sviluppa consapevolezza del proprio percorso."
+                }
+              ],
+              "vantaggi": [
+                "Trasferibile a tutte le discipline e contesti di vita",
+                "Riduce la dipendenza dal docente, sviluppa autonomia",
+                "Essenziale per gli studenti con DSA (strategie compensative)",
+                "Migliora l'efficacia dello studio",
+                "Prepara all'apprendimento permanente (lifelong learning)"
+              ],
+              "limiti": [
+                "Gli studenti più giovani hanno capacità metacognitive ancora in sviluppo",
+                "Richiede tempo e pratica sistematica",
+                "Il docente deve essere formato sulle strategie metacognitive",
+                "Difficile da valutare con strumenti tradizionali",
+                "I benefici sono visibili nel medio-lungo periodo"
+              ],
+              "quiz": [
+                {
+                  "domanda": "Chi ha introdotto il termine 'metacognizione'?",
+                  "opzioni": [
+                    "Vygotsky",
+                    "Piaget",
+                    "John Flavell (1979)",
+                    "Bruner"
+                  ],
+                  "risposta": "John Flavell (1979)",
+                  "spiegazione": "John Flavell ha introdotto e teorizzato il concetto di metacognizione nel 1979, definendola come la conoscenza e la regolazione dei propri processi cognitivi."
+                },
+                {
+                  "domanda": "Quante fasi ha il ciclo dell'apprendimento autoregolato di Zimmerman?",
+                  "opzioni": [
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                  ],
+                  "risposta": "3",
+                  "spiegazione": "Il ciclo di Zimmerman ha 3 fasi: previsione (pianificazione, goal setting), esecuzione (monitoraggio, autocontrollo), riflessione (autovalutazione, autoriflessione)."
+                },
+                {
+                  "domanda": "Cosa fa il docente quando 'pensa ad alta voce' (think aloud)?",
+                  "opzioni": [
+                    "Urla per farsi sentire da tutta la classe",
+                    "Modella esplicitamente il processo metacognitivo risolvendo un problema verbalmente",
+                    "Dice agli studenti cosa pensare",
+                    "Legge ad alta voce dal libro"
+                  ],
+                  "risposta": "Modella esplicitamente il processo metacognitivo risolvendo un problema verbalmente",
+                  "spiegazione": "Il think aloud consiste nel verbalizzare il proprio processo di pensiero mentre si risolve un problema o si legge, rendendo visibile agli studenti come un esperto affronta le difficoltà."
+                }
+              ]
+            }
+          }
+        },
+        "Gestione della Classe": {
+          "descrizione": "PBS/PBIS, Didattica per Competenze e compiti di realtà",
+          "metodologie": {
+            "met_015": {
+              "titolo": "Positive Behaviour Support (PBS)",
+              "sottotitolo": "Supporto Positivo al Comportamento",
+              "autori_riferimento": [
+                "George Sugai",
+                "Robert Horner — PBIS"
+              ],
+              "anno_sviluppo": "anni '90",
+              "target": [
+                "docenti"
+              ],
+              "sintesi_breve": "Framework preventivo basato sull'insegnamento esplicito dei comportamenti positivi attesi, con un sistema di rinforzo positivo e supporti graduati per studenti con bisogni crescenti.",
+              "sintesi_docenti": "Il PBS (o PBIS — Positive Behavioral Interventions and Supports) si basa su 3 livelli: Tier 1 (universale — insegnamento esplicito delle aspettative comportamentali per tutti), Tier 2 (mirato — interventi per 10-15% degli studenti con difficoltà comportamentali ricorrenti), Tier 3 (individuale — per il 5% con bisogni comportamentali intensi). Utilizza rinforzo positivo sistematico invece di punizione reattiva. Dati di comportamento guidano le decisioni. In Italia si connette con il Regolamento di Istituto e lo Statuto degli Studenti.",
+              "sintesi_studenti": "Il PBS ti dice chiaramente cosa ci si aspetta da te a scuola e ti rinforza positivamente quando ti comporti bene. Non aspetta che tu faccia qualcosa di sbagliato per intervenire.",
+              "obiettivi": [
+                "Prevenzione prima della reazione: insegna i comportamenti, non aspettare le infrazioni",
+                "Definire, insegnare e rinforzare le aspettative comportamentali",
+                "Sistema a 3 livelli (Tier 1-2-3) per intensità crescente di supporto",
+                "Dati comportamentali per decisioni basate su prove",
+                "Rinforzo positivo sistematico (4 rinforzi positivi per ogni correzione)"
+              ],
+              "contenuti": [
+                "Matrice delle aspettative comportamentali",
+                "Sistema di raccolta dati (SWIS o fogli cartacei)",
+                "Token/punti per rinforzo positivo",
+                "Scheda CICO per Tier 2",
+                "Formazione del team scolastico"
+              ],
+              "competenze": [
+                "DPR 249/1998 — Statuto Studenti",
+                "D.Lgs 297/1994 — regolamento disciplinare",
+                "D.Lgs 66/2017 — comportamento e inclusione"
+              ],
+              "esempi_in_classe": [
+                {
+                  "titolo": "Definire le aspettative (Tier 1)",
+                  "descrizione": "A inizio anno, la classe costruisce insieme le regole: 3-5 comportamenti positivi espressi in positivo ('Rispetto i compagni', non 'Non picchiare'). Vengono visualizzate in aula, insegnate esplicitamente con role play e rinforzate sistematicamente."
+                },
+                {
+                  "titolo": "Token economy (Tier 1-2)",
+                  "descrizione": "La classe guadagna punti/gettoni quando rispetta le regole. Quando raggiunge un obiettivo collettivo, ottiene un premio scelto dalla classe (10 min di gioco libero, proiezione di un film, ecc.). Rinforzo collettivo positivo."
+                },
+                {
+                  "titolo": "Intervento Tier 2 — Check-in Check-out",
+                  "descrizione": "Uno studente con difficoltà comportamentali ricorrenti incontra ogni mattina un adulto di riferimento (CICO), riceve una scheda obiettivo per la giornata, la porta con sé, raccoglie feedback da ogni docente, e fa check-out nel pomeriggio."
+                }
+              ],
+              "vantaggi": [
+                "Riduce comportamenti problema e migliora il clima scolastico",
+                "Preventivo: non aspetta l'escalation per intervenire",
+                "Basato su prove scientifiche (evidence-based)",
+                "Supporta l'inclusione degli studenti con BES comportamentali",
+                "Coinvolge tutta la scuola (non solo il singolo docente)"
+              ],
+              "limiti": [
+                "Richiede implementazione a livello di istituto, non solo di singola classe",
+                "Il rinforzo positivo può essere visto come 'comprare il comportamento'",
+                "Richiede coerenza tra tutti i docenti (se uno non applica, l'effetto si riduce)",
+                "La raccolta dati comportamentali richiede sistemi organizzati",
+                "Culturalmente può essere visto come troppo 'americano'"
+              ],
+              "quiz": [
+                {
+                  "domanda": "Su quanti livelli (Tier) si basa il modello PBS/PBIS?",
+                  "opzioni": [
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                  ],
+                  "risposta": "3",
+                  "spiegazione": "Il PBS si articola su 3 livelli: Tier 1 (universale, per tutti), Tier 2 (mirato, per il 10-15% con difficoltà ricorrenti), Tier 3 (individuale, per il 5% con bisogni intensi)."
+                },
+                {
+                  "domanda": "Qual è il principio fondamentale del PBS rispetto alla gestione tradizionale dei comportamenti?",
+                  "opzioni": [
+                    "Punire duramente i comportamenti negativi",
+                    "Prevenire e insegnare i comportamenti positivi invece di reagire ai negativi",
+                    "Ignorare completamente i comportamenti negativi",
+                    "Separare gli studenti problematici"
+                  ],
+                  "risposta": "Prevenire e insegnare i comportamenti positivi invece di reagire ai negativi",
+                  "spiegazione": "Il PBS è fondamentalmente preventivo: insegna esplicitamente i comportamenti attesi e li rinforza sistematicamente, invece di aspettare le infrazioni per intervenire."
+                },
+                {
+                  "domanda": "Cosa significa CICO nel Tier 2 del PBS?",
+                  "opzioni": [
+                    "Corso Intensivo di Comportamento Organizzato",
+                    "Check-In Check-Out (confronto giornaliero con un adulto di riferimento)",
+                    "Certificato di Integrazione Comportamentale Operativa",
+                    "Controllo Individuale del Comportamento Osservato"
+                  ],
+                  "risposta": "Check-In Check-Out (confronto giornaliero con un adulto di riferimento)",
+                  "spiegazione": "Il Check-In Check-Out è un intervento Tier 2: lo studente incontra ogni mattina un adulto di riferimento, riceve obiettivi per la giornata, raccoglie feedback dai docenti e fa check-out nel pomeriggio."
+                }
+              ]
+            },
+            "met_016": {
+              "titolo": "Didattica per Competenze e Compiti di Realtà",
+              "sottotitolo": "Competenze chiave europee e compiti autentici",
+              "autori_riferimento": [
+                "Perrenoud",
+                "Commissione Europea — Raccomandazione 2018",
+                "OCSE — DeSeCo"
+              ],
+              "anno_sviluppo": "anni 2000 — aggiornamento 2018",
+              "target": [
+                "docenti"
+              ],
+              "sintesi_breve": "La didattica per competenze supera la trasmissione di conoscenze puntando alla capacità di mobilitare saperi in situazioni reali e complesse.",
+              "sintesi_docenti": "Perrenoud definisce la competenza come 'capacità di mobilitare risorse cognitive per affrontare situazioni'. La Raccomandazione UE 2018 aggiorna le 8 competenze chiave per l'apprendimento permanente. La didattica per competenze si traduce in: Unità di Apprendimento (UdA) centrate su compiti di realtà (situazioni autentiche che richiedono mobilizzazione di competenze), valutazione per competenze con rubriche, portfolio delle evidenze. In Italia si connette con le Indicazioni Nazionali e i profili di uscita.",
+              "sintesi_studenti": "La didattica per competenze ti prepara a usare quello che hai imparato nella vita reale. Non basta sapere le cose a memoria: devi saper usare le conoscenze per risolvere problemi veri.",
+              "obiettivi": [
+                "Competenza = mobilizzare risorse cognitive in situazioni reali",
+                "8 competenze chiave UE 2018 come cornice curricolare",
+                "Compiti di realtà: situazioni autentiche e complesse come veicolo di valutazione",
+                "UdA (Unità di Apprendimento) come struttura progettuale",
+                "Valutazione per competenze con rubriche e portfolio delle evidenze"
+              ],
+              "contenuti": [
+                "Modello UdA (struttura progettuale)",
+                "Rubrica di valutazione per competenze",
+                "Portfolio delle evidenze (fisico o digitale)",
+                "Compiti di realtà progettati dal docente",
+                "Raccordo con le competenze chiave UE 2018"
+              ],
+              "competenze": [
+                "Indicazioni Nazionali 2012 — competenze chiave",
+                "Raccomandazione UE 2018 — 8 competenze chiave",
+                "D.Lgs 62/2017 — certificazione competenze",
+                "L. 107/2015 — curricolo per competenze"
+              ],
+              "esempi_in_classe": [
+                {
+                  "titolo": "Compito di realtà — Gestione del budget scolastico",
+                  "descrizione": "Gli studenti devono pianificare il bilancio per una gita scolastica di 50 persone. Calcolano costi, confrontano preventivi, scrivono una proposta formale. Mobilizzano matematica, italiano, educazione civica."
+                },
+                {
+                  "titolo": "UdA interdisciplinare",
+                  "descrizione": "Una UdA su 'La mia città' integra geografia (mappatura), storia (storia locale), italiano (ricerca e testo descrittivo), arte (elaborazione grafica). Compito finale: una guida turistica della propria città per turisti stranieri."
+                },
+                {
+                  "titolo": "Rubrica di valutazione per competenze",
+                  "descrizione": "Il docente costruisce con gli studenti una rubrica che descrive i livelli di padronanza (avanzato, intermedio, base, non raggiunto) per ciascun indicatore di competenza. Gli studenti possono autovalutarsi."
+                }
+              ],
+              "vantaggi": [
+                "Apprendimento più trasferibile e duraturo rispetto alla sola memorizzazione",
+                "Sviluppa competenze per la vita e per il lavoro del futuro",
+                "Alta motivazione grazie all'autenticità dei compiti",
+                "Allineato con le Indicazioni Nazionali e le politiche europee",
+                "La valutazione per competenze è più equa e trasparente"
+              ],
+              "limiti": [
+                "Difficile conciliare con la valutazione sommativa tradizionale (voti)",
+                "Richiede riprogettazione profonda della programmazione",
+                "Resistenza delle famiglie abituate alla valutazione per contenuti",
+                "La certificazione delle competenze è ancora poco standardizzata in Italia",
+                "Tempi più lunghi per sviluppare competenze rispetto a trasmettere contenuti"
+              ],
+              "quiz": [
+                {
+                  "domanda": "Come definisce Perrenoud la competenza?",
+                  "opzioni": [
+                    "La conoscenza di molti contenuti",
+                    "La capacità di mobilitare risorse cognitive per affrontare situazioni reali",
+                    "Il risultato ottenuto in una verifica",
+                    "La somma dei voti disciplinari"
+                  ],
+                  "risposta": "La capacità di mobilitare risorse cognitive per affrontare situazioni reali",
+                  "spiegazione": "Perrenoud definisce la competenza come la capacità di mobilitare un insieme di risorse cognitive (conoscenze, abilità, attitudini) per affrontare con successo una famiglia di situazioni reali."
+                },
+                {
+                  "domanda": "Quante sono le competenze chiave per l'apprendimento permanente nella Raccomandazione UE del 2018?",
+                  "opzioni": [
+                    "5",
+                    "6",
+                    "8",
+                    "10"
+                  ],
+                  "risposta": "8",
+                  "spiegazione": "La Raccomandazione del Consiglio europeo del 22 maggio 2018 identifica 8 competenze chiave: alfabetica funzionale, multilinguistica, matematica e in scienze, digitale, personale/sociale/imparare a imparare, civica, imprenditoriale, consapevolezza espressioni culturali."
+                },
+                {
+                  "domanda": "Cos'è un 'compito di realtà' nella didattica per competenze?",
+                  "opzioni": [
+                    "Un compito molto difficile",
+                    "Una situazione autentica e complessa che richiede di mobilitare competenze da discipline diverse",
+                    "Un compito da fare fuori dalla scuola",
+                    "Un esercizio tratto da un libro di testo reale"
+                  ],
+                  "risposta": "Una situazione autentica e complessa che richiede di mobilitare competenze da discipline diverse",
+                  "spiegazione": "Il compito di realtà è una situazione autentica, contestualizzata nel mondo reale, che richiede allo studente di mobilitare competenze di più discipline per produrre un artefatto reale o risolvere un problema concreto."
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}
