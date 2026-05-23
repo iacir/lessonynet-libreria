@@ -1,0 +1,342 @@
+{
+  "meta": {
+    "nome": "inclusione_didattica",
+    "titolo": "Inclusione Scolastica e Didattica Speciale",
+    "descrizione": "Guida completa su ICF, PEI, PDP, BES, DSA, legislazione scolastica e metodologie didattiche inclusive per docenti italiani",
+    "versione": "1.0",
+    "aggiornato": "2026-05-23",
+    "autore": "LessonyNet",
+    "fonte": "Elaborazione da normativa italiana vigente, OMS, Indicazioni Nazionali MIUR"
+  },
+  "sezioni": {
+
+    "ICF": {
+      "titolo": "ICF — Classificazione Internazionale del Funzionamento",
+      "descrizione": "La Classificazione Internazionale del Funzionamento, della Disabilità e della Salute (ICF) è il modello biopsicosociale dell'OMS adottato in Italia per la descrizione del funzionamento umano.",
+      "contenuti": [
+        {
+          "titolo": "Cos'è l'ICF",
+          "testo": "L'ICF (International Classification of Functioning, Disability and Health) è una classificazione dell'Organizzazione Mondiale della Sanità (OMS) adottata nel 2001. In Italia è il riferimento per la valutazione del funzionamento degli alunni con disabilità. L'ICF non descrive la malattia ma il funzionamento della persona nel suo contesto di vita, considerando fattori biologici, psicologici e sociali."
+        },
+        {
+          "titolo": "Struttura dell'ICF",
+          "testo": "L'ICF è organizzato in due parti principali: 1) Funzionamento e Disabilità — comprende le funzioni e strutture corporee e le attività e partecipazione; 2) Fattori contestuali — comprende i fattori ambientali e i fattori personali. I codici ICF descrivono il livello di funzionamento con qualificatori da 0 (nessuna difficoltà) a 4 (difficoltà completa)."
+        },
+        {
+          "titolo": "Profilo di Funzionamento",
+          "testo": "Il Profilo di Funzionamento è il documento che, sulla base dell'ICF, descrive le condizioni di salute, le funzioni corporee, le attività e la partecipazione dell'alunno con disabilità. È redatto dall'Unità di Valutazione Multidisciplinare (UVM) composta da: neuropsichiatra infantile o medico specialista, terapisti della riabilitazione, assistente sociale, genitori e, quando possibile, l'alunno stesso. È il documento che sostituisce la precedente Diagnosi Funzionale e il Profilo Dinamico Funzionale (PDF)."
+        },
+        {
+          "titolo": "ICF e scuola",
+          "testo": "In ambito scolastico l'ICF è utilizzato per: descrivere il funzionamento dell'alunno, elaborare il Profilo di Funzionamento, costruire il PEI (Piano Educativo Individualizzato), definire le risorse necessarie (ore di sostegno, assistenti educativi, ausili). La prospettiva ICF sposta l'attenzione dalla diagnosi clinica al funzionamento reale dell'alunno nel contesto scolastico."
+        },
+        {
+          "titolo": "Domini ICF principali",
+          "testo": "I principali domini ICF utilizzati in ambito scolastico sono: d1 Apprendimento e applicazione delle conoscenze (d110-d179); d2 Compiti e richieste generali (d210-d299); d3 Comunicazione (d310-d399); d4 Mobilità (d410-d499); d5 Cura della propria persona (d510-d599); d6 Vita domestica (d610-d699); d7 Interazioni e relazioni interpersonali (d710-d799); d8 Aree di vita principali — istruzione e lavoro (d810-d899); d9 Vita sociale e civica (d910-d999)."
+        }
+      ]
+    },
+
+    "PEI": {
+      "titolo": "PEI — Piano Educativo Individualizzato",
+      "descrizione": "Il PEI è il documento che definisce gli obiettivi educativi e didattici, le strategie, i metodi e le risorse per l'inclusione degli alunni con disabilità certificata ai sensi della Legge 104/1992.",
+      "contenuti": [
+        {
+          "titolo": "Cos'è il PEI",
+          "testo": "Il Piano Educativo Individualizzato (PEI) è il documento educativo e didattico elaborato per ogni alunno con disabilità certificata (Legge 104/1992, art. 12). È redatto dal Gruppo di Lavoro Operativo per l'Inclusione (GLO), composto dai docenti del consiglio di classe, dagli specialisti dell'ASL o dell'ente accreditato, dai genitori e, ove possibile, dall'alunno stesso. Il PEI è rinnovato ogni anno scolastico."
+        },
+        {
+          "titolo": "Normativa di riferimento PEI",
+          "testo": "Il PEI è disciplinato da: Legge 104/1992 (Legge quadro per l'assistenza, l'integrazione sociale e i diritti delle persone handicappate); D.Lgs. 66/2017 (Norme per la promozione dell'inclusione scolastica degli studenti con disabilità); D.Lgs. 96/2019 (Disposizioni integrative e correttive al D.Lgs. 66/2017); D.M. 182/2020 e successivo D.M. 153/2023 (Modello nazionale di PEI)."
+        },
+        {
+          "titolo": "Struttura del PEI (D.M. 153/2023)",
+          "testo": "Il modello nazionale di PEI si articola in: Sezione 1 — Dati relativi all'alunno; Sezione 2 — Elementi generali descrittivi; Sezione 3 — Osservazioni sull'alunno per progettare gli interventi; Sezione 4 — Progettazione educativo-didattica (obiettivi, attività, metodologie); Sezione 5 — Organizzazione generale del progetto di inclusione; Sezione 6 — Verifica e aggiornamento del PEI; Sezione 7 — Interventi per la transizione. Ogni sezione è completata con dati specifici sul funzionamento dell'alunno secondo la prospettiva ICF."
+        },
+        {
+          "titolo": "GLO — Gruppo di Lavoro Operativo",
+          "testo": "Il GLO (Gruppo di Lavoro Operativo per l'inclusione) è il gruppo che redige e aggiorna il PEI. È composto da: tutti i docenti del consiglio di classe (incluso il docente di sostegno), i genitori dell'alunno, le figure professionali specifiche interne ed esterne alla scuola, l'alunno stesso (quando possibile). Il GLO si riunisce almeno tre volte l'anno: all'inizio per la progettazione, a metà anno per la verifica intermedia, al termine dell'anno per la valutazione finale."
+        },
+        {
+          "titolo": "PEI ordinario e PEI semplificato",
+          "testo": "Il PEI può essere: Ordinario — con obiettivi riferiti al curricolo della classe, anche con adattamenti metodologici e strumenti compensativi; Differenziato — con obiettivi non riconducibili ai programmi ministeriali, che porta a una valutazione differenziata. La scelta tra PEI ordinario e differenziato ha importanti implicazioni per il rilascio dei titoli di studio: solo con il PEI ordinario l'alunno consegue il diploma legalmente valido."
+        },
+        {
+          "titolo": "Ore di sostegno",
+          "testo": "Le ore di sostegno sono determinate sulla base del Profilo di Funzionamento e del PEI. I livelli di gravità dell'alunno (art. 3 comma 3 Legge 104/1992) possono comportare un rapporto di 1:1 tra docente di sostegno e alunno. Le ore vengono assegnate dall'USR (Ufficio Scolastico Regionale) e deliberate dal Consiglio di Classe. La deroga al rapporto standard è possibile per gli alunni in situazione di gravità."
+        }
+      ]
+    },
+
+    "PDP": {
+      "titolo": "PDP — Piano Didattico Personalizzato",
+      "descrizione": "Il PDP è il documento che definisce gli strumenti compensativi e le misure dispensative per gli alunni con DSA o con altri BES non certificati ai sensi della Legge 104.",
+      "contenuti": [
+        {
+          "titolo": "Cos'è il PDP",
+          "testo": "Il Piano Didattico Personalizzato (PDP) è il documento che definisce le strategie didattiche personalizzate, gli strumenti compensativi e le misure dispensative per gli alunni con DSA (Disturbi Specifici dell'Apprendimento) o con altri BES (Bisogni Educativi Speciali). È redatto dal consiglio di classe con il coinvolgimento della famiglia entro il primo trimestre dell'anno scolastico."
+        },
+        {
+          "titolo": "Normativa PDP",
+          "testo": "Il PDP è disciplinato da: Legge 170/2010 (Nuove norme in materia di disturbi specifici di apprendimento in ambito scolastico); D.M. 5669/2011 e relative Linee Guida per il diritto allo studio degli alunni e degli studenti con DSA; C.M. 8/2013 e D.M. 27/2012 (Indicazioni operative per i BES); Nota MIUR 2563/2013 (chiarimenti sui BES)."
+        },
+        {
+          "titolo": "Struttura del PDP",
+          "testo": "Il PDP contiene: dati anagrafici dell'alunno; tipologia del disturbo o del BES; attività didattiche individualizzate; strumenti compensativi utilizzati; misure dispensative adottate; forme di verifica e valutazione personalizzate; patto con la famiglia. Deve essere firmato dal Dirigente Scolastico, dai docenti del consiglio di classe e dalla famiglia."
+        },
+        {
+          "titolo": "Strumenti compensativi",
+          "testo": "Gli strumenti compensativi sono ausili che aiutano l'alunno a superare o ridurre le difficoltà legate al disturbo. I principali sono: calcolatrice e tavola pitagorica (per la discalculia); software di videoscrittura con correttore ortografico e sintesi vocale (per la dislessia e disortografia); mappe concettuali e schemi; tabelle e formulari; dizionari digitali; registratori; testi in formato digitale (ePub, PDF accessibile); tablet e strumenti digitali."
+        },
+        {
+          "titolo": "Misure dispensative",
+          "testo": "Le misure dispensative sono esenzioni da alcune prestazioni non essenziali ai fini degli obiettivi di apprendimento. Le principali sono: dispensa dalla lettura ad alta voce in classe; dispensa dalla scrittura sotto dettatura; dispensa dallo studio mnemonico delle tabelline; dispensa dallo studio di lingue straniere in forma scritta (nei casi più gravi); tempi aggiuntivi per le verifiche scritte (generalmente il 30% in più); possibilità di utilizzare prove orali in sostituzione di quelle scritte."
+        },
+        {
+          "titolo": "PDP per BES non certificati",
+          "testo": "Il PDP può essere redatto anche per alunni con BES non certificati (senza diagnosi clinica), come alunni con svantaggio socioeconomico, linguistico o culturale. In questi casi il consiglio di classe assume la responsabilità della decisione sulla base di considerazioni pedagogiche e didattiche. Il PDP per BES ha durata annuale e può essere revocato se le difficoltà si riducono."
+        }
+      ]
+    },
+
+    "DSA": {
+      "titolo": "DSA — Disturbi Specifici dell'Apprendimento",
+      "descrizione": "I DSA sono disturbi del neurosviluppo che riguardano specifiche abilità di apprendimento in presenza di intelligenza nella norma.",
+      "contenuti": [
+        {
+          "titolo": "Cos'è un DSA",
+          "testo": "I Disturbi Specifici dell'Apprendimento (DSA) sono disturbi del neurosviluppo che interessano specifiche abilità di apprendimento scolastico in soggetti con intelligenza nella norma, senza danni neurologici, sensoriali o psicopatologici gravi. I DSA includono: dislessia (lettura), disortografia (scrittura), disgrafia (grafia), discalculia (matematica). Sono diagnosticati da specialisti (neuropsichiatri infantili, psicologi) e sono presenti dalla nascita."
+        },
+        {
+          "titolo": "Dislessia",
+          "testo": "La dislessia è un disturbo specifico della lettura caratterizzato da difficoltà nel riconoscimento accurato e fluente delle parole e da scarse capacità di decodifica e ortografia. Non dipende da mancanza di intelligenza, scarsa motivazione o deficit sensoriali. La dislessia si manifesta con: lettura lenta e/o scorretta, confusione di lettere simili (b/d, p/q), difficoltà nella comprensione del testo letto, affaticamento durante la lettura."
+        },
+        {
+          "titolo": "Disortografia e Disgrafia",
+          "testo": "La disortografia è un disturbo specifico della scrittura che riguarda la competenza ortografica: l'alunno commette numerosi errori ortografici nonostante conosca le regole. La disgrafia è un disturbo specifico della grafia: riguarda la qualità della scrittura manuale (forma delle lettere, spaziatura, regolarità). Spesso co-occorrono con la dislessia. Gli strumenti compensativi principali sono la tastiera e il software di videoscrittura con correttore ortografico."
+        },
+        {
+          "titolo": "Discalculia",
+          "testo": "La discalculia è un disturbo specifico del calcolo e delle abilità numeriche. L'alunno con discalculia ha difficoltà con: il riconoscimento dei simboli numerici, l'apprendimento delle tabelline, i calcoli a mente, i problemi matematici. Non riguarda la logica o il ragionamento matematico in senso generale. Gli strumenti compensativi principali sono la calcolatrice, la tavola pitagorica e le tabelle delle operazioni."
+        },
+        {
+          "titolo": "Diagnosi DSA",
+          "testo": "La diagnosi di DSA è effettuata da: neuropsichiatri infantili, psicologi clinici e dell'età evolutiva, logopedisti (per il contributo valutativo). La diagnosi deve essere consegnata alla scuola dalla famiglia. La scuola ha l'obbligo di predisporre il PDP entro il primo trimestre. La diagnosi può essere aggiornata nel tempo poiché i DSA evolvono con la crescita e con gli interventi di supporto."
+        }
+      ]
+    },
+
+    "BES": {
+      "titolo": "BES — Bisogni Educativi Speciali",
+      "descrizione": "I BES comprendono tutte le difficoltà di apprendimento e di sviluppo che richiedono una risposta educativa adeguata e personalizzata.",
+      "contenuti": [
+        {
+          "titolo": "Cos'è un BES",
+          "testo": "I Bisogni Educativi Speciali (BES) è un termine introdotto dalla C.M. 8/2013 per indicare tutti gli alunni che, per ragioni fisiche, biologiche, fisiologiche o psicologiche o sociali, richiedono una speciale attenzione e un'individualizzazione del percorso didattico. I BES comprendono tre aree: disabilità (Legge 104/1992), disturbi evolutivi specifici (DSA, ADHD, Borderline cognitivo), svantaggio socioeconomico, linguistico e culturale."
+        },
+        {
+          "titolo": "Area 1 — Disabilità",
+          "testo": "La prima area dei BES comprende gli alunni con disabilità certificata ai sensi della Legge 104/1992. Questi alunni hanno diritto al docente di sostegno, all'assistente educativo culturale (AEC) e al Piano Educativo Individualizzato (PEI). La certificazione è rilasciata dall'ASL o da enti accreditati dalla Regione."
+        },
+        {
+          "titolo": "Area 2 — Disturbi Evolutivi Specifici",
+          "testo": "La seconda area dei BES comprende: DSA (Legge 170/2010); Deficit del linguaggio, delle abilità non verbali, della coordinazione motoria; ADHD (Deficit di Attenzione e Iperattività); Borderline cognitivo; Disturbi dello spettro autistico lievi non certificati 104. Per questi alunni si redige il PDP, senza necessariamente l'insegnante di sostegno, utilizzando strumenti compensativi e misure dispensative."
+        },
+        {
+          "titolo": "Area 3 — Svantaggio",
+          "testo": "La terza area dei BES comprende gli alunni con svantaggio: socioeconomico (famiglie in difficoltà economica), linguistico (alunni stranieri di recente immigrazione), culturale (alunni provenienti da contesti culturali diversi). Per questi alunni il Consiglio di Classe può decidere di adottare misure di personalizzazione didattica senza necessariamente redigere un PDP formale, ma documentando le scelte effettuate."
+        },
+        {
+          "titolo": "ADHD — Deficit di Attenzione e Iperattività",
+          "testo": "L'ADHD (Attention Deficit Hyperactivity Disorder) è un disturbo del neurosviluppo caratterizzato da: inattenzione (difficoltà a mantenere l'attenzione, facile distraibilità), iperattività (eccessiva motilità, incapacità di stare fermi), impulsività (difficoltà nel controllo degli impulsi). L'ADHD richiede strategie didattiche specifiche: compiti brevi e frequenti, feedback immediati, ambiente strutturato, rinforzo positivo, uso di ausili visivi."
+        }
+      ]
+    },
+
+    "INCLUSIONE": {
+      "titolo": "Inclusione Scolastica",
+      "descrizione": "L'inclusione scolastica è il processo attraverso cui la scuola garantisce a tutti gli alunni, indipendentemente dalle loro caratteristiche, pari opportunità di apprendimento e partecipazione.",
+      "contenuti": [
+        {
+          "titolo": "Definizione di inclusione",
+          "testo": "L'inclusione scolastica è il principio secondo cui ogni alunno, indipendentemente dalle sue caratteristiche fisiche, cognitive, linguistiche o socioculturali, ha il diritto di partecipare pienamente alla vita scolastica e di ricevere un'istruzione di qualità. L'inclusione va oltre l'integrazione: non si tratta solo di inserire l'alunno nella classe, ma di trasformare la scuola stessa per rispondere alle esigenze di tutti."
+        },
+        {
+          "titolo": "Dalla integrazione all'inclusione",
+          "testo": "Il percorso storico dell'inclusione scolastica in Italia: 1971 — Legge 118 che prevede l'inserimento degli alunni disabili nelle classi comuni; 1977 — Legge 517 che abolisce le classi differenziali; 1992 — Legge 104 (Legge quadro per la disabilità); 2010 — Legge 170 (DSA); 2012 — Direttiva BES e C.M. 8/2013; 2017 — D.Lgs. 66 (nuovo modello di inclusione basato sull'ICF). L'Italia è considerata un modello internazionale per l'inclusione scolastica."
+        },
+        {
+          "titolo": "GLI — Gruppo di Lavoro per l'Inclusione",
+          "testo": "Il GLI (Gruppo di Lavoro per l'Inclusione) è il gruppo di lavoro a livello di istituto scolastico che si occupa di: rilevare i BES presenti nella scuola, raccogliere e documentare gli interventi didattico-educativi, supportare i docenti, elaborare il PAI (Piano Annuale per l'Inclusività). Il GLI è presieduto dal Dirigente Scolastico ed è composto dai docenti di sostegno, dai referenti dei BES, dai genitori e dagli specialisti ASL."
+        },
+        {
+          "titolo": "PAI — Piano Annuale per l'Inclusività",
+          "testo": "Il PAI (Piano Annuale per l'Inclusività) è il documento che ogni scuola elabora entro giugno di ogni anno. Contiene: l'analisi dei punti di forza e di criticità del livello di inclusività della scuola, la definizione degli obiettivi per l'anno successivo, le risorse disponibili e quelle necessarie. Il PAI non è un documento formale burocratico ma uno strumento di autovalutazione e di pianificazione per migliorare l'inclusione."
+        },
+        {
+          "titolo": "Didattica inclusiva",
+          "testo": "La didattica inclusiva è l'insieme di strategie, metodologie e pratiche che consentono a tutti gli alunni di partecipare attivamente al processo di apprendimento. Si basa su: flessibilità dei percorsi, diversificazione dei metodi e dei materiali, valorizzazione delle differenze, cooperazione tra pari, uso delle tecnologie assistive, ambiente di apprendimento accessibile e accogliente. La didattica inclusiva beneficia tutti gli alunni, non solo quelli con BES."
+        },
+        {
+          "titolo": "UDL — Universal Design for Learning",
+          "testo": "L'Universal Design for Learning (UDL) è un approccio didattico che propone di progettare la lezione in modo da essere accessibile a tutti fin dall'inizio, senza adattamenti successivi. Si basa su tre principi: 1) Fornire molteplici mezzi di rappresentazione (come presentare le informazioni); 2) Fornire molteplici mezzi di azione ed espressione (come gli studenti possono dimostrare ciò che sanno); 3) Fornire molteplici mezzi di coinvolgimento (come motivare gli studenti). L'UDL è la cornice teorica della didattica inclusiva moderna."
+        }
+      ]
+    },
+
+    "METODOLOGIE_INCLUSIVE": {
+      "titolo": "Metodologie Didattiche Inclusive",
+      "descrizione": "Le principali metodologie didattiche che favoriscono l'inclusione di tutti gli alunni, inclusi quelli con BES.",
+      "contenuti": [
+        {
+          "titolo": "Cooperative Learning",
+          "testo": "Il Cooperative Learning (apprendimento cooperativo) è una metodologia didattica in cui gli studenti lavorano in piccoli gruppi eterogenei per raggiungere obiettivi comuni. Si basa su: interdipendenza positiva, responsabilità individuale, interazione costruttiva, abilità sociali, valutazione del processo di gruppo. È particolarmente efficace per l'inclusione perché valorizza le differenze, sviluppa le competenze sociali e permette a ciascuno di contribuire con le proprie competenze."
+        },
+        {
+          "titolo": "Peer Tutoring",
+          "testo": "Il Peer Tutoring (tutoraggio tra pari) è una metodologia in cui uno studente più competente (tutor) aiuta un compagno con maggiori difficoltà (tutee). Beneficia entrambi: il tutee riceve supporto personalizzato, il tutor consolida le proprie conoscenze spiegandole. Varianti: tutoring reciproco (i ruoli si alternano), tutoring tra classi diverse, tutoring di classe (un alunno con BES diventa tutor per altri in ambiti di sua competenza)."
+        },
+        {
+          "titolo": "Flipped Classroom",
+          "testo": "La Flipped Classroom (classe capovolta) inverte i momenti tradizionali dell'insegnamento: la spiegazione avviene a casa (tramite video, podcast, materiali digitali) e in classe si lavora sugli esercizi, i progetti e i problemi con il supporto del docente. Per gli alunni con BES è vantaggioso perché: possono rivedere la spiegazione più volte, procedere ai propri ritmi, avere più tempo per la pratica in classe con il supporto del docente."
+        },
+        {
+          "titolo": "Didattica per competenze",
+          "testo": "La didattica per competenze si focalizza sullo sviluppo di competenze integrate (conoscenze, abilità, atteggiamenti) piuttosto che sulla sola trasmissione di contenuti. Utilizza compiti di realtà, situazioni autentiche e problem solving. Per l'inclusione è efficace perché: valorizza percorsi diversi verso lo stesso obiettivo, permette di esprimere le competenze in modi diversi, riduce l'importanza della prestazione formale standardizzata."
+        },
+        {
+          "titolo": "Gamification",
+          "testo": "La gamification è l'applicazione di elementi tipici dei giochi (punti, livelli, sfide, ricompense) in contesti non ludici come la didattica. Aumenta la motivazione, riduce l'ansia da prestazione e rende l'apprendimento più coinvolgente. Per gli alunni con BES è particolarmente utile perché: permette tentativi multipli senza giudizio, offre feedback immediato, consente progressione graduata, riduce la percezione del fallimento."
+        },
+        {
+          "titolo": "Mappe concettuali e mentali",
+          "testo": "Le mappe concettuali (Novak) organizzano i concetti in modo gerarchico con connessioni esplicite. Le mappe mentali (Buzan) partono da un concetto centrale e si ramificano liberamente. Entrambe sono strumenti compensativi fondamentali per gli alunni con DSA e BES perché: facilitano la memorizzazione, evidenziano le relazioni tra i concetti, riducono il carico della lettura e della scrittura, supportano lo studio autonomo. Software utili: CmapTools, FreeMind, XMind, Coggle."
+        },
+        {
+          "titolo": "Metacognizione",
+          "testo": "La metacognizione è la capacità di riflettere sui propri processi cognitivi: come si apprende, quali strategie funzionano, come si monitorano i progressi. Insegnare la metacognizione aiuta tutti gli alunni, ma è fondamentale per quelli con BES perché li aiuta a: conoscere il proprio profilo di funzionamento, scegliere le strategie più efficaci, autoregolare il proprio apprendimento, sviluppare autonomia. Tecniche metacognitive: diari di apprendimento, auto-valutazione, think-aloud (pensare ad alta voce)."
+        },
+        {
+          "titolo": "Tecnologie Assistive",
+          "testo": "Le tecnologie assistive sono strumenti tecnologici che compensano le difficoltà degli alunni con disabilità o BES. Le principali per la scuola sono: sintesi vocale (legge il testo ad alta voce — es. Balabolka, VoiceOver); OCR (converte immagini in testo leggibile dalla sintesi vocale); predittore del testo (suggerisce parole durante la digitazione); correttore ortografico avanzato; software per mappe concettuali; calcolatrice e ausili per la matematica; tablet e smartphone con app dedicate (ModMath, Onenote, Dragon Dictation)."
+        }
+      ]
+    },
+
+    "LEGISLAZIONE": {
+      "titolo": "Legislazione Scolastica Italiana",
+      "descrizione": "Le principali leggi e normative che regolano il sistema scolastico italiano, con particolare attenzione all'inclusione.",
+      "contenuti": [
+        {
+          "titolo": "Legge 104/1992",
+          "testo": "La Legge 104 del 5 febbraio 1992 è la 'Legge-quadro per l'assistenza, l'integrazione sociale e i diritti delle persone handicappate'. È la norma fondamentale per la disabilità in Italia. Riconosce il diritto all'integrazione scolastica, al docente di sostegno, all'assistenza educativa, al trasporto scolastico. L'art. 3 comma 3 riguarda le situazioni di particolare gravità (la cosiddetta '104 comma 3') che garantisce maggiori tutele e benefici."
+        },
+        {
+          "titolo": "Legge 170/2010",
+          "testo": "La Legge 170 dell'8 ottobre 2010 'Nuove norme in materia di disturbi specifici di apprendimento in ambito scolastico' riconosce ufficialmente la dislessia, la disgrafia, la disortografia e la discalculia come DSA. Garantisce: diagnosi precoce, percorsi didattici personalizzati, misure compensative e dispensative, forme di verifica e valutazione adeguate, formazione dei docenti. È il principale riferimento normativo per i DSA."
+        },
+        {
+          "titolo": "D.Lgs. 66/2017 — Inclusione scolastica",
+          "testo": "Il Decreto Legislativo 66 del 13 aprile 2017 'Norme per la promozione dell'inclusione scolastica degli studenti con disabilità' ha riformato il sistema di inclusione scolastica. Ha introdotto: il Profilo di Funzionamento basato sull'ICF, il nuovo modello di PEI, il GLO (Gruppo di Lavoro Operativo), la valutazione delle scuole per l'inclusione, il budget per l'inclusione. È stato modificato dal D.Lgs. 96/2019."
+        },
+        {
+          "titolo": "Direttiva BES 2012 e C.M. 8/2013",
+          "testo": "La Direttiva Ministeriale del 27 dicembre 2012 'Strumenti d'intervento per alunni con Bisogni Educativi Speciali e organizzazione territoriale per l'inclusione scolastica' ha esteso il diritto alla personalizzazione didattica a tutti gli alunni con BES. La Circolare Ministeriale 8 del 6 marzo 2013 ne ha fornito le indicazioni operative. Hanno introdotto il concetto di BES nella normativa scolastica italiana."
+        },
+        {
+          "titolo": "Legge 107/2015 — La Buona Scuola",
+          "testo": "La Legge 107 del 13 luglio 2015 'Riforma del sistema nazionale di istruzione e formazione e delega per il riordino delle disposizioni legislative vigenti' (La Buona Scuola) ha introdotto importanti novità: autonomia scolastica rafforzata, Piano Triennale dell'Offerta Formativa (PTOF), organico dell'autonomia, potenziamento dell'inclusione, alternanza scuola-lavoro, valutazione delle scuole, formazione obbligatoria dei docenti."
+        },
+        {
+          "titolo": "D.Lgs. 62/2017 — Valutazione e Esami",
+          "testo": "Il Decreto Legislativo 62 del 13 aprile 2017 ha riformato la valutazione degli apprendimenti e gli esami di Stato. Per gli alunni con BES prevede: utilizzo degli strumenti compensativi nel corso degli esami, tempi aggiuntivi, possibilità di prove equipollenti per gli alunni con disabilità. Per gli alunni con PEI differenziato prevede l'attestato di credito formativo al posto del diploma legalmente valido."
+        },
+        {
+          "titolo": "PTOF — Piano Triennale dell'Offerta Formativa",
+          "testo": "Il PTOF (Piano Triennale dell'Offerta Formativa) è il documento fondamentale di ogni scuola, con durata triennale ma aggiornato annualmente. Definisce: la missione e la vision della scuola, il curricolo e i percorsi formativi, le attività di ampliamento dell'offerta, i criteri di valutazione, il piano di inclusione (PAI), i progetti e le iniziative, il fabbisogno di risorse umane e materiali. È elaborato dal Collegio dei Docenti e adottato dal Consiglio di Istituto."
+        }
+      ]
+    },
+
+    "INDICAZIONI_NAZIONALI": {
+      "titolo": "Indicazioni Nazionali per il Curricolo",
+      "descrizione": "Le Indicazioni Nazionali sono il documento ministeriale che definisce i traguardi formativi per la scuola dell'infanzia, primaria e secondaria di primo grado.",
+      "contenuti": [
+        {
+          "titolo": "Cos'sono le Indicazioni Nazionali",
+          "testo": "Le Indicazioni Nazionali per il curricolo della scuola dell'infanzia e del primo ciclo d'istruzione (D.M. 254/2012) sono il documento di riferimento per la progettazione didattica. Definiscono: i traguardi per lo sviluppo delle competenze, gli obiettivi di apprendimento per ogni disciplina e ciclo scolastico, le finalità generali dell'istruzione, le competenze chiave da sviluppare. Non sono programmi prescrittivi ma indicazioni di orientamento per la progettazione del curricolo."
+        },
+        {
+          "titolo": "Struttura delle Indicazioni Nazionali",
+          "testo": "Le Indicazioni Nazionali 2012 sono articolate in: Premessa (finalità generali, la scuola nel nuovo scenario, l'organizzazione del curricolo); Scuola dell'infanzia (campi di esperienza, traguardi); Scuola primaria e secondaria di I grado (discipline, traguardi, obiettivi di apprendimento). Le discipline trattate sono: Italiano, Lingue comunitarie, Storia, Cittadinanza e Costituzione, Geografia, Matematica, Scienze, Musica, Arte e Immagine, Educazione Fisica, Tecnologia, Religione Cattolica."
+        },
+        {
+          "titolo": "Traguardi per lo sviluppo delle competenze",
+          "testo": "I traguardi per lo sviluppo delle competenze sono enunciati in forma di competenze attese al termine della scuola dell'infanzia, della primaria e della secondaria di primo grado. Non sono standard minimi ma orientamenti verso cui tendere. Descrivono cosa lo studente sa fare con ciò che sa, non solo cosa sa. Sono distinti per disciplina e per ordine scolastico. Sono il riferimento per la valutazione formativa e per la certificazione delle competenze."
+        },
+        {
+          "titolo": "Obiettivi di apprendimento",
+          "testo": "Gli obiettivi di apprendimento sono indicati al termine della classe terza e quinta della scuola primaria e al termine della classe terza della scuola secondaria di primo grado. Definiscono le conoscenze e le abilità specifiche che gli alunni devono acquisire in ogni disciplina. Sono il riferimento per la progettazione didattica annuale e per la verifica degli apprendimenti. Sono più specifici dei traguardi e rappresentano le tappe del percorso verso le competenze."
+        },
+        {
+          "titolo": "Aggiornamento 2025",
+          "testo": "Le Indicazioni Nazionali 2012 sono state integrate con le Indicazioni Nazionali e Nuovi Scenari (2018) che hanno enfatizzato: le competenze di cittadinanza, l'educazione civica, le competenze digitali, il pensiero computazionale, l'educazione alla sostenibilità. Nel 2025 è in corso una revisione delle Indicazioni Nazionali per adeguarle ai nuovi scenari educativi, con particolare attenzione all'intelligenza artificiale, alla sostenibilità e alle nuove competenze del 21° secolo."
+        },
+        {
+          "titolo": "8 Competenze Chiave Europee",
+          "testo": "Le 8 Competenze Chiave per l'apprendimento permanente (Raccomandazione UE 22 maggio 2018) sono: 1) Competenza alfabetica funzionale; 2) Competenza multilinguistica; 3) Competenza matematica e in scienze, tecnologia e ingegneria; 4) Competenza digitale; 5) Competenza personale, sociale e capacità di imparare ad imparare; 6) Competenza in materia di cittadinanza; 7) Competenza imprenditoriale; 8) Competenza in materia di consapevolezza ed espressione culturali. Sono il riferimento per la certificazione delle competenze al termine del primo ciclo."
+        }
+      ]
+    },
+
+    "VALUTAZIONE": {
+      "titolo": "Valutazione degli Apprendimenti",
+      "descrizione": "Principi, strumenti e normativa sulla valutazione nella scuola italiana, con attenzione agli alunni con BES.",
+      "contenuti": [
+        {
+          "titolo": "Principi della valutazione",
+          "testo": "La valutazione scolastica ha tre funzioni fondamentali: formativa (monitorare i progressi durante il percorso e orientare l'insegnamento), sommativa (certificare il raggiungimento degli obiettivi al termine di un periodo), diagnostica (identificare i punti di forza e di debolezza per progettare interventi). Una valutazione efficace è: coerente con gli obiettivi dichiarati, trasparente (criteri condivisi con gli alunni), diversificata (usa strumenti diversi), continua (non solo al termine del percorso)."
+        },
+        {
+          "titolo": "Valutazione con i voti",
+          "testo": "Nella scuola secondaria di I grado la valutazione degli apprendimenti è espressa in decimi (dal 5 al 10 nella pratica comune, anche se formalmente dal 1 al 10). Il voto di comportamento è espresso con un giudizio sintetico dalla riforma del D.Lgs. 62/2017. La valutazione periodica e finale è competenza del consiglio di classe che delibera a maggioranza. L'ammissione alla classe successiva e all'Esame di Stato richiede la sufficienza in tutte le discipline."
+        },
+        {
+          "titolo": "Valutazione per gli alunni con BES",
+          "testo": "Per gli alunni con DSA e BES la valutazione deve tenere conto delle misure compensative e dispensative previste dal PDP: prove orali in sostituzione di quelle scritte, utilizzo degli strumenti compensativi nelle prove, tempi aggiuntivi. Per gli alunni con PEI la valutazione è riferita agli obiettivi del PEI. Con PEI ordinario la valutazione è espressa in decimi riferita al curricolo. Con PEI differenziato la valutazione è riferita agli obiettivi del PEI e non consente il conseguimento del titolo legale."
+        },
+        {
+          "titolo": "Certificazione delle competenze",
+          "testo": "Al termine del primo ciclo (classe quinta primaria e classe terza secondaria di I grado) viene rilasciata la certificazione delle competenze. È un documento che descrive in forma narrativa e con livelli (A-avanzato, B-intermedio, C-base, D-iniziale) le competenze acquisite in riferimento alle 8 competenze chiave europee. Non sostituisce la valutazione disciplinare ma la integra con una visione più ampia delle competenze trasversali."
+        },
+        {
+          "titolo": "Rubrica di valutazione",
+          "testo": "La rubrica di valutazione è uno strumento che descrive i criteri e i livelli di qualità attesi per una prestazione. Componenti di una rubrica: dimensioni (aspetti da valutare), descrittori (descrizione della prestazione per ogni livello), livelli di qualità (da eccellente a insufficiente). Le rubriche rendono la valutazione trasparente, oggettiva e formativa. Sono particolarmente utili per la valutazione di compiti autentici, prodotti, progetti e performance."
+        }
+      ]
+    },
+
+    "PROFILO_DOCENTE": {
+      "titolo": "Profilo del Docente Inclusivo",
+      "descrizione": "Le competenze, i ruoli e le responsabilità del docente nella scuola inclusiva.",
+      "contenuti": [
+        {
+          "titolo": "Docente di sostegno",
+          "testo": "Il docente di sostegno è un insegnante specializzato (con titolo di specializzazione per le attività di sostegno didattico agli alunni con disabilità) assegnato alla classe dove è presente un alunno con disabilità certificata (Legge 104). Non è il docente dell'alunno con disabilità ma della classe intera: co-docente contitolare, partecipa a tutte le attività didattiche, alle riunioni del consiglio di classe e alla valutazione di tutti gli alunni. Elabora il PEI insieme al GLO."
+        },
+        {
+          "titolo": "Referente BES/DSA",
+          "testo": "Il referente BES/DSA è un docente della scuola (senza riduzione di ore) che si occupa di: coordinare le attività per gli alunni con BES, supportare i colleghi nella redazione dei PDP, tenere i contatti con le famiglie e con i professionisti esterni, formarsi e aggiornarsi sulla normativa e sulle metodologie inclusive, far parte del GLI. Viene nominato dal Dirigente Scolastico."
+        },
+        {
+          "titolo": "Competenze del docente inclusivo",
+          "testo": "Il docente inclusivo deve sviluppare competenze in: conoscenza della normativa (Legge 104, Legge 170, D.Lgs. 66, C.M. 8/2013); conoscenza dei disturbi e delle difficoltà di apprendimento (DSA, BES, disabilità); progettazione di percorsi personalizzati (PEI, PDP); metodologie inclusive (UDL, cooperative learning, peer tutoring); uso delle tecnologie assistive; valutazione inclusiva; collaborazione con famiglie e specialisti; osservazione sistematica degli alunni."
+        },
+        {
+          "titolo": "Formazione docenti sull'inclusione",
+          "testo": "La formazione sulla disabilità e sui BES è obbligatoria per tutti i docenti (Legge 107/2015). Percorsi di formazione disponibili: corsi INDIRE e MIUR, piattaforma SOFIA (Sistema Operativo per la Formazione e le Iniziative di aggiornamento), corsi universitari di specializzazione per il sostegno (TFA), master in didattica inclusiva, convegni e seminari nazionali (es. Convegno di Rimini sull'educazione speciale)."
+        }
+      ]
+    }
+  }
+}
